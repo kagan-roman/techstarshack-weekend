@@ -1,0 +1,16 @@
+{
+  "name": "weekend",
+  "private": true,
+  "scripts": {
+    "dev:api": "npm run dev --workspace weekend-api",
+    "dev:agents": "npm run dev --workspace weekend-agents",
+    "build": "npm run build --workspaces",
+    "lint": "npm run lint --workspaces"
+  },
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  }
+}

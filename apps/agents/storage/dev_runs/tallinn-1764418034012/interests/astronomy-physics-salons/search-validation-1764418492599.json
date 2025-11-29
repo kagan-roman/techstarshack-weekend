@@ -1,0 +1,25 @@
+{
+  "interest": "Astronomy & Physics salons",
+  "intent": "validation",
+  "query": "Tallinn Rahva Observatoorium / Munalaskme tähetorn public viewing December 2025; Astronoomia klubi Tallinn detsember 2025 üritus; TalTech physics colloquium December 2025 Tallinn; teaduskohvik Tallinn detsember 2025; Baltic Astronomy Club event December 2025",
+  "payload": {
+    "localeHint": "ET first, also EN/RU. Focus on FB Events, university calendars, Fienta/Piletilevi.",
+    "intent": "validation",
+    "query": "Tallinn Rahva Observatoorium / Munalaskme tähetorn public viewing December 2025; Astronoomia klubi Tallinn detsember 2025 üritus; TalTech physics colloquium December 2025 Tallinn; teaduskohvik Tallinn detsember 2025; Baltic Astronomy Club event December 2025",
+    "timestamp": "2025-11-29T12:14:52.598Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/balticastronomy/",
+        "title": "MTÜ Baltic Astronomy Club | Tallinn - Facebook",
+        "content": "Время для посещения обсерватории можно найти и забронировать на страничке https://www. facebook.com/astronoom. Rahva Observatoorium. Astronoomiline",
+        "score": 0.5106191
+      },
+      {
+        "url": "https://www.facebook.com/balticastronomy/about/",
+        "title": "MTÜ Baltic Astronomy Club | Tallinn - Facebook",
+        "content": "This Page is not currently running ads. Past events. See all.",
+        "score": 0.46935064
+      }
+    ]
+  }
+}

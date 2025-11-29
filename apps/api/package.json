@@ -1,0 +1,31 @@
+{
+  "name": "weekend-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js",
+    "lint": "eslint \"src/**/*.ts\""
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.86.0",
+    "@weekend/core": "file:../../packages/core",
+    "dotenv": "^17.2.3",
+    "fastify": "^5.6.2",
+    "fastify-plugin": "^5.1.0",
+    "fastify-sensible": "^3.1.2",
+    "jsonwebtoken": "^9.0.2",
+    "pino": "^10.1.0",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@typescript-eslint/eslint-plugin": "^8.48.0",
+    "@typescript-eslint/parser": "^8.48.0",
+    "eslint": "^9.39.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}
