@@ -1,0 +1,49 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "site:linnamuuseum.ee Bastionik\u0000e4igud detsember 2025 ekskursioon Kiek in de K\u0000f6k",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "site:linnamuuseum.ee Bastionik\u0000e4igud detsember 2025 ekskursioon Kiek in de K\u0000f6k",
+    "timestamp": "2025-11-29T21:24:44.396Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/bastionik/",
+        "title": "Србско Сабрање Баштионик | Banja Luka",
+        "content": "Баштионик је сабрање православних Срба, родољуба, који желе да ураде нешто богоугодно за свој народ. .",
+        "score": 0.79901963
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/bastionik",
+        "title": "bastionik",
+        "content": "IPA: /basˈtjɔ.ɲik/; Rhymes: -ɔɲik; Syllabification: bas‧tio‧nik. Noun. bastionik m inan. (military) diminutive of bastion. Declension.",
+        "score": 0.77096564
+      },
+      {
+        "url": "https://www.facebook.com/media/set/?vanity=bastionik&set=a.618920166939431",
+        "title": "Србско Сабрање Баштионик | Banja Luka",
+        "content": "Србско Сабрање Баштионик, Banja Luka. 6416 likes · 552 talking about this · 9 were here. Баштионик је сабрање православних Срба, родољуба, који желе да",
+        "score": 0.75616
+      },
+      {
+        "url": "https://www.facebook.com/media/set/?vanity=bastionik&set=a.1900477520052371",
+        "title": "Србско Сабрање Баштионик | Banja Luka",
+        "content": "Србско Сабрање Баштионик, Banja Luka. 6573 likes · 368 talking about this · 9 were here. Баштионик је сабрање православних Срба, родољуба, који желе да",
+        "score": 0.75421005
+      },
+      {
+        "url": "https://srpskainfo.com/tag/bastionik-2/",
+        "title": "Bastionik",
+        "content": "... Bastionik. TRADICIONALNA HUMANITARNA AKCIJA Pomažu najugroženijim porodicama ... Baštionik” iz Banjaluke organizuje tradicionalnu humanitarnu akciju",
+        "score": 0.71185225
+      },
+      {
+        "url": "https://sjp.pwn.pl/slowniki/bastionik.html",
+        "title": "bastionik - Słownik języka polskiego PWN",
+        "content": "bastionikbastionik -ku, -kiem; -ków. Więcej o pisowni i odmianie słowa „Bastionik”. Księgarnia PWN. Megan Olivia HallWspaniałe eksperymenty dla dzieci.",
+        "score": 0.7004242
+      }
+    ]
+  }
+}

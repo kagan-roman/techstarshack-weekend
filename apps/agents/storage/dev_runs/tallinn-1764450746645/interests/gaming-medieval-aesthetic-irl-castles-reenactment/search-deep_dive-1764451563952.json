@@ -1,0 +1,25 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "deep_dive",
+  "query": "Bastion Passages guided tour December 2025 Tallinn site:linnamuuseum.ee OR site:kiekindekok.ee \"kell\"",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "Bastion Passages guided tour December 2025 Tallinn site:linnamuuseum.ee OR site:kiekindekok.ee \"kell\"",
+    "timestamp": "2025-11-29T21:26:03.952Z",
+    "results": [
+      {
+        "url": "https://www.linnamuuseum.ee/kogud-koos/",
+        "title": "Kogud koos – Tallinna Linnamuuseum",
+        "content": "... guided tour through Tallinn's past in English · 15. juuni–22. juuni on ... Tallinn. E-R kell 9-17 (+372)610 4178. info@linnamuuseum.ee. *protected email",
+        "score": 0.40006998
+      },
+      {
+        "url": "https://www.linnamuuseum.ee/en/tallinna-linnamuuseum-en/kogud-en/",
+        "title": "KOGUD – Tallinna Linnamuuseum",
+        "content": "FOTOMUUSEUM 45! 20. juulil peab Fotomuuseum sünnipäeva ja kutsub fototänavale · December 13. Christmas ... 2025 SEPTEMBRI SÜNDMUSED · 4. september kell 19.00",
+        "score": 0.22851823
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+[
+  {
+    "type": "event",
+    "id": "event-pakapikumatk-pirita-2025-12-06-1100",
+    "title": "Päkapikumatk (Elf Hike) — Pirita River Valley — Morning Session",
+    "tags": [
+      "guided nature walk",
+      "bog/river valley",
+      "winter hike",
+      "sunrise/sunset session"
+    ],
+    "venue": {
+      "name": "Lükati tee ülemine puhkeala",
+      "address": "Lükati tee, Pirita, Tallinn, Estonia"
+    },
+    "startDateTime": "2025-12-06T11:00:00+02:00",
+    "endDateTime": "2025-12-06T12:30:00+02:00",
+    "price": {
+      "currency": "EUR",
+      "amount": 20,
+      "note": "Listed as täispilet 20 € on organizer site"
+    },
+    "languages": [
+      "et",
+      "en"
+    ],
+    "interestFit": "Guided winter nature walk in Tallinn’s Pirita/Kloostrimetsa old valley; aligns with preferred formats (guided nature walks, daytime scenic outing).",
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://wanderlust.ee/matkapiletid-erakliendile",
+        "type": "regional",
+        "note": "Organizer’s ticket page with date/time"
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-ennelounane-matk",
+        "type": "regional",
+        "note": "Event details (11:00–12:30) with meeting point"
+      },
+      {
+        "url": "https://www.facebook.com/events/l%C3%BCkati-tee-pirita-tallinn-harju-maakond-eesti/06122025-p%C3%A4kapikumatk-pirita-j%C3%B5e-%C3%BCrgorus-ennel%C3%B5unane-matk/725259827244655/",
+        "type": "community",
+        "note": "FB mirror"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "event-pakapikumatk-pirita-2025-12-06-1400",
+    "title": "Päkapikumatk (Elf Hike) — Pirita River Valley — Afternoon Session",
+    "tags": [
+      "guided nature walk",
+      "bog/river valley",
+      "winter hike"
+    ],
+    "venue": {
+      "name": "Lükati tee ülemine puhkeala",
+      "address": "Lükati tee, Pirita, Tallinn, Estonia"
+    },
+    "startDateTime": "2025-12-06T14:00:00+02:00",
+    "endDateTime": "2025-12-06T15:30:00+02:00",
+    "price": {
+      "currency": "EUR",
+      "amount": 20,
+      "note": "Listed as täispilet 20 € on organizer site"
+    },
+    "languages": [
+      "et",
+      "en"
+    ],
+    "interestFit": "Guided winter nature walk in Tallinn’s Pirita valley; accessible, family-friendly nature during the trip window.",
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://wanderlust.ee/matkapiletid-erakliendile",
+        "type": "regional",
+        "note": "Organizer’s ticket page with date/time"
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-parastlounane-matk",
+        "type": "regional",
+        "note": "Event details (14:00–15:30) with meeting point"
+      },
+      {
+        "url": "https://www.facebook.com/events/l%C3%BCkati-tee-pirita-tallinn-harju-maakond-eesti/06122025-p%C3%A4kapikumatk-pirita-j%C3%B5e-%C3%BCrgorus-p%C3%A4rastl%C3%B5unane-matk/",
+        "type": "community",
+        "note": "FB mirror"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-viru-bog-boardwalk",
+    "title": "Viru Bog Study Trail (Lahemaa National Park)",
+    "tags": [
+      "raised bog",
+      "boardwalk",
+      "scenic viewpoints",
+      "self-guided day hike",
+      "sunrise/sunset session"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 year-round; daylight hours recommended in winter; RMK parking and trail access always open unless posted weather closures."
+    },
+    "venue": {
+      "name": "Viru raba õpperada (trailhead parking)",
+      "address": "Viru bog trailhead parking, Kolga area, Lahemaa National Park, Harju County, Estonia"
+    },
+    "uniquenessReason": "Classic Estonian raised-bog landscape with a viewing tower—signature North-Estonian peat bog scenery not found in most of Europe.",
+    "interestFit": "Direct hit on nature-scenic formats: self-guided day hike, sunrise/sunset over bog pools; frost/ice make winter scenes dramatic.",
+    "touristTrap": 80,
+    "sources": [
+      {
+        "url": "https://www.loodusegakoos.ee/where-to-go/lahemaa-national-park/viru-bog-study-trail",
+        "type": "national",
+        "note": "RMK official trail info (map, access, tips)"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-jagala-waterfall",
+    "title": "Jägala Waterfall (Jägala juga)",
+    "tags": [
+      "waterfall",
+      "winter icefall",
+      "scenic viewpoint"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 year-round; access paths can be icy in winter—use traction."
+    },
+    "venue": {
+      "name": "Jägala Waterfall viewpoint",
+      "address": "Jägala juga, Jõesuu, Harju County, Estonia"
+    },
+    "uniquenessReason": "Estonia’s widest natural waterfall; in cold spells forms striking frozen cascades—distinct seasonal phenomenon near Tallinn.",
+    "interestFit": "Short nature stop pairing with coastal or bog scenery; dramatic winter aesthetics for photography at low sun.",
+    "touristTrap": 85,
+    "sources": [
+      {
+        "url": "https://www.visitestonia.com/en/jagala-waterfall",
+        "type": "tourist_mainstream",
+        "note": "National tourism listing with access details"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-pakri-cliffs",
+    "title": "Pakri Cliffs and Coast (Paldiski)",
+    "tags": [
+      "sea cliffs",
+      "limestone klint",
+      "scenic viewpoints",
+      "sunset session"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 coastline access; exercise caution near cliff edges, especially with ice/snow."
+    },
+    "venue": {
+      "name": "Pakri Klint viewpoints (near lighthouse)",
+      "address": "Pakri pank (cliffs), Paldiski, Harju County, Estonia"
+    },
+    "uniquenessReason": "Part of the Baltic Klint—sheer limestone sea cliffs unique to the Eastern Baltic, with lighthouse panoramas and stormy winter seascapes.",
+    "interestFit": "Strong nature-scenic coastal vistas; sunset sessions over the Gulf of Finland offer expansive, dramatic views.",
+    "touristTrap": 85,
+    "sources": [
+      {
+        "url": "https://www.visitestonia.com/en/pakri-cliffs-and-coast",
+        "type": "tourist_mainstream",
+        "note": "National tourism listing with site overview and access"
+      }
+    ]
+  }
+]

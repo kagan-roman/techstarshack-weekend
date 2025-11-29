@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "deep_dive",
+  "query": "HALL Tallinn Facebook events December 2025",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "HALL Tallinn Facebook events December 2025",
+    "timestamp": "2025-11-29T21:15:30.340Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "title": "HALL | Tallinn - Facebook",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by vinyl,",
+        "score": 0.8568246
+      },
+      {
+        "url": "https://allevents.in/tallinn/isola-ix-invites-space-series-x-chami-and-d-leria/200029263001322",
+        "title": "ISOLA IX invites: SPACE SERIES x CHAMI & D-LERIA - AllEvents",
+        "content": "On 12 December 2025, we gather at HALL to celebrate nine years of ISOLA – a party series where vinyl still speaks and live performance matters. Where dancers,",
+        "score": 0.7610953
+      },
+      {
+        "url": "https://www.facebook.com/VisitTallinn/posts/this-weekend-tallinn-begins-to-shimmer-not-yet-in-full-festive-glow-but-in-that-/1285927053565734/",
+        "title": "This weekend, Tallinn begins to shimmer - Facebook",
+        "content": "Tallinn Christmas Market | 21.11.2025 – 28.12.2025, Town Hall Square The season's most beloved tradition returns. Wooden stalls, warm flavours",
+        "score": 0.72629017
+      },
+      {
+        "url": "https://estonianworld.com/culture/your-tallinn-hit-list-the-top-5-events-this-week-27/",
+        "title": "Your Tallinn hit list: the top 5 events this week",
+        "content": "From Friday, 21 November to Sunday, 28 December. Tallinn's Christmas Market returns to Town Hall Square from 21 November to 28 December 2025",
+        "score": 0.62934244
+      },
+      {
+        "url": "https://www.facebook.com/urbancultureent/videos/are-you-ready-for-pagan-folk-night-with-eihwar-and-mira-ceti-%E1%9A%A0-%E1%9B%89-%E1%9B%A3dont-miss-this/790139010659306/",
+        "title": "Are you ready for Pagan Folk Night with Eihwar and Mira Ceti? ᚠ ᛉ ...",
+        "content": "... Hall @followers | UCE Agency | Facebook. Log in · Video. 󱡘. 󱡒. Popular ... Employed To Serve live in Tallinn – December 4th ... Jul 29, 2025",
+        "score": 0.6216563
+      },
+      {
+        "url": "https://ra.co/promoters/100742",
+        "title": "HALL · Upcoming Events, Tickets & News - Resident Advisor",
+        "content": "HE.SHE.THEY. x HALL x Hungr · HAUNTED Hall - Halloween rave at club Hall · Dark Side of the Moon 2025 · ki:wa - Roboti tee on nihe - 6.06 - HALL · Beats From The",
+        "score": 0.49553296
+      }
+    ]
+  }
+}

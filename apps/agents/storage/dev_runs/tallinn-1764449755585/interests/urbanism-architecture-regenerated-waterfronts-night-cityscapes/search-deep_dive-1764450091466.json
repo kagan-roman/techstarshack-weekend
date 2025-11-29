@@ -1,0 +1,12 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "deep_dive",
+  "query": "Eesti Arhitektuurimuuseum opening hours 2025 December site:arhitektuurimuuseum.ee",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "deep_dive",
+    "query": "Eesti Arhitektuurimuuseum opening hours 2025 December site:arhitektuurimuuseum.ee",
+    "timestamp": "2025-11-29T21:01:31.466Z",
+    "results": []
+  }
+}

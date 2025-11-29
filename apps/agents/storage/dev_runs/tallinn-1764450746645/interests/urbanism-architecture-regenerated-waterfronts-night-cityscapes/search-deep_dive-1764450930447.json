@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "deep_dive",
+  "query": "Tallinn architecture walk December 2025 linnaretked linnalabor Tallinn urban walk detsember 2025",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "deep_dive",
+    "query": "Tallinn architecture walk December 2025 linnaretked linnalabor Tallinn urban walk detsember 2025",
+    "timestamp": "2025-11-29T21:15:30.446Z",
+    "results": [
+      {
+        "url": "https://www.viator.com/Tallinn-tours/Architecture-Tours/d4147-g4-c26967",
+        "title": "THE BEST Tallinn Architecture Tours 2025/2026 (Prices from $8)",
+        "content": "Make the most of your visit to Tallinn by exploring the Estonian capital with a local guide. Stroll the medieval streets of the UNESCO-listed Old Town and learn",
+        "score": 0.7318455
+      },
+      {
+        "url": "http://www.linnalabor.ee/linnaretked/?lang=en",
+        "title": "Linnaretked - Linnalabor",
+        "content": "Tours will last from 2 to 4 hours, meeting place and time can be agreed upon and the average cost of the excursion is 10 euros per person (min five people).",
+        "score": 0.5806618
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d33080298-Soviet_Walking_Tour_of_Tallinn_Explore_the_City_s_Hidden_History-Tallinn_Harju_Cou.html",
+        "title": "2025 Soviet Walking Tour of Tallinn: Explore the City's Hidden History",
+        "content": "- Explore key sites like the former KGB Headquarters and Linnahall, an abandoned relic of grand Soviet architecture. - Visit Tallinn's Central Market, the last",
+        "score": 0.56661874
+      },
+      {
+        "url": "https://www.mycityhotel.ee/en/what-are-the-best-things-to-do-in-tallinn-during-winter-holiday-2025/",
+        "title": "What are the best things to do in Tallinn during winter holiday 2025?",
+        "content": "The city's UNESCO World Heritage Old Town becomes a winter wonderland with snow-dusted medieval architecture, festive markets, and a unique Nordic atmosphere.",
+        "score": 0.5404151
+      },
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "title": "21.11 – 28.12.2025 - Tallinn Christmas Market",
+        "content": "For the first time, the adventure company 360 KRAADI will be present at the Christmas Market, offering adventurous city tours in the Old Town.",
+        "score": 0.4604593
+      },
+      {
+        "url": "https://estonianarchitecture.com/guided-tours/",
+        "title": "Guided Tours — Eesti Arhitektuurikeskus",
+        "content": "* Tours Our tour guides are all people with passion for architecture – architects and landscape architects, architecture and art historians, people writing about architecture, urbanists. #### Tour around the heart of Tallinn ##### This tour will take you to see some of the landmarks in the centre of Tallinn. ##### On this unique tour organised by the Estonian Centre for Architecture, architecture enthusiasts get a sneak peek behind the long-shut doors of the legendary Linnahall Concert Hall in Tallinn. #### The Big Tour of Tallinn ##### The big tour of Tallinn will show you the heart of Tallinn centre with some of its most exciting contemporary landmarks. ##### This tour will take you to see the finest and most exciting examples of Soviet architecture across Tallinn.",
+        "score": 0.45798564
+      }
+    ]
+  }
+}

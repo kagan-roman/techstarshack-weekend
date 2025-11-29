@@ -1,0 +1,49 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "Eesti Vaba\u0014humuuseum J\u000014uluk\u000014la 2025 ajakava Tallinn detsember 2025 evm.ee",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "Eesti Vaba\u0014humuuseum J\u000014uluk\u000014la 2025 ajakava Tallinn detsember 2025 evm.ee",
+    "timestamp": "2025-11-29T21:24:14.029Z",
+    "results": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Estonian_Open_Air_Museum",
+        "title": "Estonian Open Air Museum",
+        "content": "The Estonian Open Air Museum (Estonian: Eesti Vabaõhumuuseum) is a life-sized reconstruction of an 18th-19th century rural/fishing village, which includes",
+        "score": 0.7574541
+      },
+      {
+        "url": "https://vabamu.ee/en/",
+        "title": "Vabamu Museums",
+        "content": "Vabamu is the largest active non-profit private museum in Estonia with a mission to educate the people of Estonia and its visitors about the recent past, sense the fragility of freedom, and advocate for justice and the rule of law. We operate in three areas: **Vabamu Museums, Youth Engagement NoVa and Global Conversations**. ### Vabamu Museums Vabamu has two museums: Vabamu Museum of Occupations and Freedom and KGB Prison Cells. Vabamu Museum of Occupations and Freedom Vabamu and KGB Prison Cells are closed on June 23 and 24. Vabamu and the KGB prison cells are closed for the Midsummer holidays (Victory Day and St. John's Day). Vabamu and KGB Prison Cells are closed on June 23 and 24. Vabamu and the KGB prison cells are closed for the Midsummer holidays (Victory Day and St. John's Day).",
+        "score": 0.56258565
+      },
+      {
+        "url": "https://visitbaltics.net/en/estonian-open-air-museum-eesti-vabaohumuuseum-evm-tallinn-estonia-4/",
+        "title": "Estonian Open Air Museum (Eesti Vabaõhumuuseum, ...",
+        "content": "The museum shows 18-20th century Estonian life with buildings like a church, tavern, and school, plus a farm apartment building and an adventure trail.",
+        "score": 0.53269315
+      },
+      {
+        "url": "https://www.facebook.com/EestiVabaohumuuseum/",
+        "title": "Eesti Vabaõhumuuseum / Estonian Open Air Museum",
+        "content": "Jõulukülas ootavad lahke pererahvas, jõuluvana ja jõulusokk. Tule kogu perega 13. ja 14. detsembril Eesti Vabaõhumuuseumisse Rocca al Mares! Vaata lisa:",
+        "score": 0.5012457
+      },
+      {
+        "url": "https://www.mapquest.com/ee/eesti-vabaohumuuseum-523026948",
+        "title": "Eesti Vabaõhumuuseum, 12 Vabaohumuuseumi Tee ...",
+        "content": "Within just a 15-minute drive from the center of Tallinn there is a delightful place – the Estonian Open Air Museum that invites you to see rural",
+        "score": 0.42448413
+      },
+      {
+        "url": "https://visitestonia.com/en/vabamu",
+        "title": "Vabamu Museum of Occupations and Freedom",
+        "content": "We tell the story of Estonia and Estonians through personal memories and the moving stories of grandmothers and grandfathers. On your journey through the museum",
+        "score": 0.4177708
+      }
+    ]
+  }
+}

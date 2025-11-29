@@ -1,11 +1,22 @@
 import { FastifyInstance } from "fastify";
 import { z } from "zod";
 import { requireUser } from "../middleware/auth";
-import { enqueueAgentRun } from "../services/modules/agentRuns";
+import { createAgentRun, updateAgentRunStatus, getAgentRun } from "../services/modules/agentRuns";
 import { listEvents } from "../services/modules/events";
+import { notifyRunUpdate } from "../lib/runNotifier";
+import { createTrip } from "../services/modules/trips";
+import {
+  saveRecommendations,
+  getTripRecommendations,
+  toClientFormat,
+  type RawRecommendation,
+} from "../services/modules/recommendations";
+
+// Load mock recommendations from generated data
+import MOCK_RECOMMENDATIONS from "../data/mock-recommendations.json";
 
 const runRecommendationsSchema = z.object({
-  location: z.string().optional(),
+  location: z.string().min(1),
   startDate: z.string().optional(),
   endDate: z.string().optional(),
 });
@@ -16,13 +27,127 @@ export const registerRecommendationRoutes = async (app: FastifyInstance) => {
     { preHandler: requireUser },
     async (request, reply) => {
       const body = runRecommendationsSchema.parse(request.body ?? {});
-      const run = await enqueueAgentRun({
-        userId: request.user!.id,
+      const userId = request.user!.id;
+
+      request.log.info({ userId, payload: body }, "Creating recommendation run");
+
+      // Create the run record
+      const run = await createAgentRun({
+        userId,
         type: "weekend_scouter",
         payload: body,
       });
 
+      request.log.info({ runId: run.id, status: run.status }, "Agent run created");
+
+      // Notify WebSocket subscribers about queued state
+      notifyRunUpdate(run.id, "queued");
+
+      // Start processing in background
+      setImmediate(async () => {
+        try {
+          request.log.info({ runId: run.id }, "Starting recommendations agent");
+
+          await updateAgentRunStatus(run.id, "running");
+          notifyRunUpdate(run.id, "running");
+
+          request.log.info({ runId: run.id, location: body.location }, "Generating recommendations");
+
+          // Simulate processing time (emulate LLM work)
+          setTimeout(async () => {
+            try {
+              // 1. Create a trip for this recommendation run
+              const trip = await createTrip({
+                ownerId: userId,
+                destination: body.location,
+                startDate: body.startDate,
+                endDate: body.endDate,
+                notes: `Generated via Weekend Scout on ${new Date().toISOString()}`,
+              });
+
+              request.log.info({ tripId: trip.id }, "Trip created for recommendations");
+
+              // 2. Save recommendations to DB (emulating LLM output)
+              const rawRecs = MOCK_RECOMMENDATIONS as RawRecommendation[];
+              await saveRecommendations(trip.id, rawRecs, userId);
+
+              request.log.info(
+                { tripId: trip.id, count: rawRecs.length },
+                "Recommendations saved to DB",
+              );
+
+              // 3. Read back from DB to return to client
+              const storedRecs = await getTripRecommendations(trip.id);
+              const clientRecs = storedRecs.map(toClientFormat);
+
+              const result = {
+                tripId: trip.id,
+                destination: body.location,
+                dates: {
+                  start: body.startDate,
+                  end: body.endDate,
+                },
+                recommendations: clientRecs,
+                generatedAt: new Date().toISOString(),
+              };
+
+              await updateAgentRunStatus(run.id, "succeeded", result);
+              notifyRunUpdate(run.id, "succeeded", result);
+
+              request.log.info(
+                { runId: run.id, tripId: trip.id, count: clientRecs.length },
+                "Recommendations generated and stored",
+              );
+            } catch (err) {
+              request.log.error({ runId: run.id, err }, "Failed to save recommendations");
+              const errorMsg = String(err);
+              await updateAgentRunStatus(run.id, "failed", undefined, errorMsg);
+              notifyRunUpdate(run.id, "failed", null, errorMsg);
+            }
+          }, 2000);
+
+        } catch (err) {
+          const errorMsg = String(err);
+          request.log.error({ runId: run.id, err }, "Recommendations failed");
+          await updateAgentRunStatus(run.id, "failed", undefined, errorMsg);
+          notifyRunUpdate(run.id, "failed", null, errorMsg);
+        }
+      });
+
       reply.code(202).send({ runId: run.id });
+    },
+  );
+
+  // Get run status
+  app.get(
+    "/recommendations/run/:runId",
+    { preHandler: requireUser },
+    async (request, reply) => {
+      const { runId } = request.params as { runId: string };
+
+      const run = await getAgentRun(runId);
+
+      if (!run) {
+        reply.code(404).send({ error: "Run not found" });
+        return;
+      }
+
+      // Check ownership
+      if (run.user_id !== request.user!.id) {
+        reply.code(403).send({ error: "Access denied" });
+        return;
+      }
+
+      return {
+        id: run.id,
+        status: run.status,
+        type: run.type,
+        payload: run.payload,
+        result: run.result,
+        error: run.error,
+        createdAt: run.created_at,
+        updatedAt: run.updated_at,
+      };
     },
   );
 
@@ -35,4 +160,3 @@ export const registerRecommendationRoutes = async (app: FastifyInstance) => {
     },
   );
 };
-

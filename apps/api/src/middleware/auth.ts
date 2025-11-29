@@ -1,6 +1,11 @@
 import { FastifyReply, FastifyRequest } from "fastify";
-import { AuthenticatedUser, verifySupabaseJwt } from "@weekend/core";
+import jwt from "jsonwebtoken";
 import { env } from "../config/env";
+
+export type AuthenticatedUser = {
+  id: string;
+  email?: string;
+};
 
 declare module "fastify" {
   interface FastifyRequest {
@@ -17,12 +22,17 @@ export const requireUser = async (request: FastifyRequest, reply: FastifyReply) 
 
   const token = header.substring("Bearer ".length);
   try {
-    const user = verifySupabaseJwt(token, env.supabaseJwtSecret);
-    request.user = user;
+    const payload = jwt.verify(token, env.jwtSecret) as jwt.JwtPayload;
+    if (!payload.sub) {
+      throw new Error("Missing subject in JWT");
+    }
+    request.user = {
+      id: payload.sub,
+      email: typeof payload.email === "string" ? payload.email : undefined,
+    };
   } catch (error) {
-    request.log.error({ err: error }, "Supabase auth verification failed");
+    request.log.error({ err: error }, "JWT verification failed");
     reply.code(401).send({ error: "Invalid token" });
     return reply;
   }
 };
-

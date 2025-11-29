@@ -1,0 +1,12 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "site:kultuuriaken.tallinn.ee Tallinn detsember 2025 Niguliste kontsert Hortus Musicus",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "site:kultuuriaken.tallinn.ee Tallinn detsember 2025 Niguliste kontsert Hortus Musicus",
+    "timestamp": "2025-11-29T21:23:40.561Z",
+    "results": []
+  }
+}

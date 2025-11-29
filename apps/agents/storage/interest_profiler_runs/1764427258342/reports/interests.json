@@ -1,0 +1,118 @@
+[
+  {
+    "id": "travel-adventure-atlantic-balkans",
+    "name": "Adventure travel & hiking – Atlantic islands and Balkans",
+    "summary": "Enjoys island landscapes (Madeira, Azores) and mountain hikes in the Balkans (Kopaonik/Devojački grob), plus urban exploration in cities like Istanbul and Porto.",
+    "tags": ["Travel", "Outdoors", "Hiking", "Atlantic islands", "Balkans", "Urban exploration"],
+    "confidence": 0.85,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'Fanal Mountain Madeira … Witchcraft place indeed' and multiple 'Madeira Island' posts incl. 'Carnival in Madeira'"},
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'São Miguel Island … Gorgeous, astonishing… majestic' + 'Caldeira Velha' + 'Boys do hiking'"},
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'Kopaonik' and 'Девоjачки гроб … Хайк …' (Serbia)"},
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'Istanbul, Turkey – Город котиков'; 'Porto, Portugal – Awesome Porto at night'"}
+    ]
+  },
+  {
+    "id": "travel-remembrance-history",
+    "name": "Historical remembrance tourism & national museums",
+    "summary": "Seeks out places of memory and history museums in Eastern Europe, reflecting deeply on Holocaust history.",
+    "tags": ["Travel", "History", "Remembrance", "Museums", "Eastern Europe"],
+    "confidence": 0.78,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'Auschwitz-Birkenau … посмотрел документалку … Поэтому давайте не забывать…'"},
+      {"sourceType": "dataset", "sourceId": "blob-1", "snippet": "/inputs/instagram.md – 'Muzeum Historii Polski' (Polish History Museum)"}
+    ]
+  },
+  {
+    "id": "music-hard-techno-rave",
+    "name": "High‑energy electronic club culture (hard techno, DnB, trance)",
+    "summary": "Gravitates to aggressive BPM and rave edits alongside classic DnB and progressive trance; likely enjoys club/festival energy.",
+    "tags": ["Music", "Electronic", "Hard techno", "Rave", "Drum & Bass", "Trance"],
+    "confidence": 0.83,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – 'This Is Technometal' (Paolo Ferrara & Lorenzo Raganzini); '5 Mins Of Acid' (KI/KI); 'Push Up' (Creeds); 'Hardtekk' edits"},
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – DnB/trance picks: 'Beautiful Lies (VIP)' (B‑Complex); 'Chase The Sun' (Koven); 'Nothing to Hide' (Cosmic Gate & Diana Miro); 'Lose This Feeling (Dimension Remix)' (Armin van Buuren)"}
+    ]
+  },
+  {
+    "id": "music-cis-rap-postsoviet",
+    "name": "CIS hip‑hop & post‑Soviet street rap",
+    "summary": "Frequent listens to Скриптонит, Oxxxymiron, Miyagi & Andy Panda, Каста, Gio Pika, Ulukmanapo and adjacent artists indicate strong affinity for CIS rap scenes.",
+    "tags": ["Music", "Hip‑hop", "CIS", "Rap", "Post‑Soviet"],
+    "confidence": 0.8,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – 'Москва любит…', 'Я не улыбаюсь' (Скриптонит); 'Город под подошвой'/'Тентакли' (Oxxxymiron); 'Brooklyn' (Miyagi & Andy Panda); 'Вокруг шум' (Каста); multiple Gio Pika & Ulukmanapo tracks"}
+    ]
+  },
+  {
+    "id": "music-altmetal-darkwave-nostalgia",
+    "name": "2000s alt/nu‑metal nostalgia + darkwave/synth aesthetics",
+    "summary": "Balances heavy 2000s alt‑metal/nu‑metal with moody darkwave/synth and indie electronic—suggesting a taste for emotive, atmospheric sounds.",
+    "tags": ["Music", "Alt‑metal", "Nu‑metal", "Darkwave", "Synth", "Indie"],
+    "confidence": 0.76,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – Korn, System of a Down, Deftones, Breaking Benjamin, Godsmack, Mudvayne, Papa Roach, Bring Me The Horizon"},
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – Mr.Kitty ('After Dark'), Mareux ('The Perfect Girl'), Emika, Röyksopp, Crystal Castles, The xx"}
+    ]
+  },
+  {
+    "id": "music-retro-eurodance-italo",
+    "name": "Retro Eurodance/Italo nostalgia",
+    "summary": "Occasional throwbacks to 80s–00s Eurodance/Italo and meme remixes (C.C. Catch, Mo-Do, ATC, Laura Branigan) for light, nostalgic energy.",
+    "tags": ["Music", "Eurodance", "Italo", "Retro", "Nostalgia"],
+    "confidence": 0.68,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-2", "snippet": "/inputs/music.md – 'Cause You Are Young' (C.C. Catch); 'Eins Zwei Polizei' (Mo‑Do); 'Around the World' (ATC); 'Self Control' (Laura Branigan)"}
+    ]
+  },
+  {
+    "id": "knowledge-historiography-film",
+    "name": "Historiography & critical film analysis",
+    "summary": "Regularly watches historical film deconstructions and lectures (Клим Жуков; 'Деконструкция'), indicating interest in how history is represented in media.",
+    "tags": ["Knowledge", "History", "Film analysis", "Historiography"],
+    "confidence": 0.86,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-3", "snippet": "/inputs/youtube.md – 'Деконструкция. Клим Жуков о … «Крестоносцы», «Огнём и мечом», «Клеопатра», «Храброе сердце», «Король»' and armor/history videos"}
+    ]
+  },
+  {
+    "id": "knowledge-science-anthro-astro",
+    "name": "Science communication – human origins, linguistics, astronomy",
+    "summary": "Follows accessible science channels on anthropology, language history, and space, favoring long-form explainers.",
+    "tags": ["Knowledge", "Science", "Anthropology", "Astronomy", "Linguistics"],
+    "confidence": 0.74,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-3", "snippet": "/inputs/youtube.md – НаучДок, Дробышевский, 'Космос Просто', 'Virginia Bēowulf · English Studies'"}
+    ]
+  },
+  {
+    "id": "geopolitics-conflict-analysis",
+    "name": "Contemporary conflict commentary & military history",
+    "summary": "Consumes multiple channels analyzing current conflicts and military history (разные точки зрения), suggesting ongoing interest in geopolitics.",
+    "tags": ["Knowledge", "Geopolitics", "War analysis", "Military history"],
+    "confidence": 0.8,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-3", "snippet": "/inputs/youtube.md – Анатолий Шарий (series of videos), HistoryLegends, Willy OAM, 'Easy History' Gulf War explainer"}
+    ]
+  },
+  {
+    "id": "urbanism-travel-docs",
+    "name": "Urbanism & travel documentaries",
+    "summary": "Enjoys deep-dives into cities, infrastructure, safety and architecture worldwide (Varlamov Travel, Arkadiy Gershman).",
+    "tags": ["Travel", "Urbanism", "Architecture", "Documentary"],
+    "confidence": 0.72,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-3", "snippet": "/inputs/youtube.md – Varlamov Travel on Harare, Phuket, Bangkok, Australia, South Korea; Arkadiy Gershman on suburbs"}
+    ]
+  },
+  {
+    "id": "gaming-crpg-classic-strategy",
+    "name": "CRPGs & classic strategy communities",
+    "summary": "Active interest in Baldur’s Gate 3 guides/exploits and the enduring Heroes of Might and Magic III scene (guides, streams, community content).",
+    "tags": ["Gaming", "CRPG", "Turn‑based strategy", "Community"],
+    "confidence": 0.87,
+    "evidence": [
+      {"sourceType": "dataset", "sourceId": "blob-3", "snippet": "/inputs/youtube.md – 'How Quickly Can You Become a Millionaire in BG3?', BG3 shorts/guides; 'Герои III … как играть?' guides/streams, 'Jebus Outcast'"}
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "event": "init",
+    "reason": null,
+    "timestamp": "2025-11-29T18:43:59.112Z",
+    "total": 8,
+    "remaining": 8
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner district Tallinn what is it",
+    "timestamp": "2025-11-29T18:45:41.009Z",
+    "total": 8,
+    "remaining": 7
+  },
+  {
+    "event": "consume",
+    "reason": "Muzeum Historii Polski location and description",
+    "timestamp": "2025-11-29T18:46:27.782Z",
+    "total": 8,
+    "remaining": 6
+  }
+]

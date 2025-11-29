@@ -1,0 +1,43 @@
+{
+  "interest": "Tropics & Islands – playful beach escapes",
+  "intent": "validation",
+  "query": "Bachata Studio Tallinn Christmas Party Dec 13 2025 Kopli 25 Facebook event details time address",
+  "payload": {
+    "localeHint": "en, ru",
+    "intent": "validation",
+    "query": "Bachata Studio Tallinn Christmas Party Dec 13 2025 Kopli 25 Facebook event details time address",
+    "timestamp": "2025-11-29T21:27:21.688Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/events/kopli-25-10412-tallinn-estonia/-christmas-bachata-party-/995379036053009/",
+        "title": "CHRISTMAS BACHATA PARTY - Facebook",
+        "content": "✨ CHRISTMAS BACHATA PARTY ✨ · Public · Hosted by Bachata Studio Tallinn · Saturday, December 13, 2025 at 9:00PM – 3:00AM EET · Kopli 25, 10412 Tallinn, Estonia.",
+        "score": 0.94263905
+      },
+      {
+        "url": "https://happeningnext.com/event/%F0%9F%8E%84%E2%9C%A8-christmas-bachata-party-%E2%9C%A8%F0%9F%8E%84-eid3a0cxuid09",
+        "title": "CHRISTMAS BACHATA PARTY at Kopli 25, 10412 Tallinn, Estonia ...",
+        "content": "Schedule. Sat, 13 Dec, 2025 at 09:00 pm to Sun, 14 Dec, 2025 at 03:00 am. UTC+02:00. Location. Kopli 25, 10412 Tallinn, Estonia | Tallinn, HA. \\ud83c\\udf84\\",
+        "score": 0.9065293
+      },
+      {
+        "url": "https://www.facebook.com/BachataStudioTallinn/posts/4454841491415736/",
+        "title": "Bachata Studio Tallinn created an event. - Facebook",
+        "content": "Fri, Dec 19 at 7:00PM EET · The Christmas Milonga · Kopli 25, 10412 Tallinn, Estonia · 4 people going.",
+        "score": 0.82254606
+      },
+      {
+        "url": "https://bachatastudio.ee/en/product/christmas-bachata-party/",
+        "title": "Christmas Bachata Party",
+        "content": "SAVE THE DATE · SATURDAY 13TH OF DECEMBER! ; ✨ LOCATION ✨ · Address: Kopli 25 ❄️ Free parking is available in front of the building and nearby. ; ✨ CONFIRMED ARTISTS",
+        "score": 0.82117355
+      },
+      {
+        "url": "https://www.facebook.com/BachataStudioTallinn/",
+        "title": "Bachata Studio Tallinn - Facebook",
+        "content": "Fri, Dec 19 at 7:00PM EET. The Christmas Milonga. Kopli 25, 10412 Tallinn, Estonia. 4 people going · 󰍸 · 󰤦 · 󰤧. Bachata Studio Tallinn created an event.",
+        "score": 0.81418616
+      }
+    ]
+  }
+}

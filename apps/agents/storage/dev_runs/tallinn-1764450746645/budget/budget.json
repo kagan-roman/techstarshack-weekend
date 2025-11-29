@@ -1,0 +1,90 @@
+{
+  "trigger": "validation",
+  "generatedAt": "2025-11-29T21:36:00.318Z",
+  "entries": [
+    {
+      "interestId": "nature-hiking-islands",
+      "interestName": "Nature – laurel forests, volcanoes, alpine vistas",
+      "slug": "nature-laurel-forests-volcanoes-alpine-vistas",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 6,
+        "deep_dive": 3,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "history-museums-memory",
+      "interestName": "Knowledge / History – memory culture, arms & armor, Egyptology",
+      "slug": "knowledge-history-memory-culture-arms-armor-egyptology",
+      "totalCalls": 10,
+      "usedCalls": 6,
+      "stageUsage": {
+        "scan": 4,
+        "deep_dive": 2,
+        "validation": 0
+      }
+    },
+    {
+      "interestId": "urbanism-architecture-nights",
+      "interestName": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+      "slug": "urbanism-architecture-regenerated-waterfronts-night-cityscapes",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 3,
+        "deep_dive": 6,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "nightlife-techno-dnb",
+      "interestName": "Nightlife – hard techno, drum & bass, carnival energy",
+      "slug": "nightlife-hard-techno-drum-bass-carnival-energy",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 4,
+        "deep_dive": 4,
+        "validation": 2
+      }
+    },
+    {
+      "interestId": "medieval-castles-reenactment",
+      "interestName": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+      "slug": "gaming-medieval-aesthetic-irl-castles-reenactment",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 7,
+        "deep_dive": 2,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "tropics-islands-beach",
+      "interestName": "Tropics & Islands – playful beach escapes",
+      "slug": "tropics-islands-playful-beach-escapes",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 7,
+        "deep_dive": 2,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "food-local-cuisine",
+      "interestName": "Food & Dining – local specialties, authentic eateries",
+      "slug": "food-dining-local-specialties-authentic-eateries",
+      "totalCalls": 10,
+      "usedCalls": 10,
+      "stageUsage": {
+        "scan": 5,
+        "deep_dive": 4,
+        "validation": 1
+      }
+    }
+  ]
+}

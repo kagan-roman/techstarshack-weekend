@@ -1,0 +1,1419 @@
+[
+  {
+    "type": "event",
+    "id": "event-pakapikumatk-pirita-2025-12-06-1100",
+    "title": "Päkapikumatk (Elf Hike) — Pirita River Valley — Morning Session",
+    "tags": [
+      "guided nature walk",
+      "bog/river valley",
+      "winter hike",
+      "sunrise/sunset session"
+    ],
+    "venue": {
+      "name": "Lükati tee ülemine puhkeala",
+      "address": "Lükati tee, Pirita, Tallinn, Estonia"
+    },
+    "startDateTime": "2025-12-06T11:00:00+02:00",
+    "endDateTime": "2025-12-06T12:30:00+02:00",
+    "price": {
+      "currency": "EUR",
+      "amount": 20,
+      "note": "Listed as täispilet 20 € on organizer site"
+    },
+    "languages": [
+      "et",
+      "en"
+    ],
+    "interestFit": "Guided winter nature walk in Tallinn’s Pirita/Kloostrimetsa old valley; aligns with preferred formats (guided nature walks, daytime scenic outing).",
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://wanderlust.ee/matkapiletid-erakliendile",
+        "type": "regional",
+        "note": "Organizer’s ticket page with date/time"
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-ennelounane-matk",
+        "type": "regional",
+        "note": "Event details (11:00–12:30) with meeting point"
+      },
+      {
+        "url": "https://www.facebook.com/events/l%C3%BCkati-tee-pirita-tallinn-harju-maakond-eesti/06122025-p%C3%A4kapikumatk-pirita-j%C3%B5e-%C3%BCrgorus-ennel%C3%B5unane-matk/725259827244655/",
+        "type": "community",
+        "note": "FB mirror"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "event-pakapikumatk-pirita-2025-12-06-1400",
+    "title": "Päkapikumatk (Elf Hike) — Pirita River Valley — Afternoon Session",
+    "tags": [
+      "guided nature walk",
+      "bog/river valley",
+      "winter hike"
+    ],
+    "venue": {
+      "name": "Lükati tee ülemine puhkeala",
+      "address": "Lükati tee, Pirita, Tallinn, Estonia"
+    },
+    "startDateTime": "2025-12-06T14:00:00+02:00",
+    "endDateTime": "2025-12-06T15:30:00+02:00",
+    "price": {
+      "currency": "EUR",
+      "amount": 20,
+      "note": "Listed as täispilet 20 € on organizer site"
+    },
+    "languages": [
+      "et",
+      "en"
+    ],
+    "interestFit": "Guided winter nature walk in Tallinn’s Pirita valley; accessible, family-friendly nature during the trip window.",
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://wanderlust.ee/matkapiletid-erakliendile",
+        "type": "regional",
+        "note": "Organizer’s ticket page with date/time"
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-parastlounane-matk",
+        "type": "regional",
+        "note": "Event details (14:00–15:30) with meeting point"
+      },
+      {
+        "url": "https://www.facebook.com/events/l%C3%BCkati-tee-pirita-tallinn-harju-maakond-eesti/06122025-p%C3%A4kapikumatk-pirita-j%C3%B5e-%C3%BCrgorus-p%C3%A4rastl%C3%B5unane-matk/",
+        "type": "community",
+        "note": "FB mirror"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-viru-bog-boardwalk",
+    "title": "Viru Bog Study Trail (Lahemaa National Park)",
+    "tags": [
+      "raised bog",
+      "boardwalk",
+      "scenic viewpoints",
+      "self-guided day hike",
+      "sunrise/sunset session"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 year-round; daylight hours recommended in winter; RMK parking and trail access always open unless posted weather closures."
+    },
+    "venue": {
+      "name": "Viru raba õpperada (trailhead parking)",
+      "address": "Viru bog trailhead parking, Kolga area, Lahemaa National Park, Harju County, Estonia"
+    },
+    "uniquenessReason": "Classic Estonian raised-bog landscape with a viewing tower—signature North-Estonian peat bog scenery not found in most of Europe.",
+    "interestFit": "Direct hit on nature-scenic formats: self-guided day hike, sunrise/sunset over bog pools; frost/ice make winter scenes dramatic.",
+    "touristTrap": 80,
+    "sources": [
+      {
+        "url": "https://www.loodusegakoos.ee/where-to-go/lahemaa-national-park/viru-bog-study-trail",
+        "type": "national",
+        "note": "RMK official trail info (map, access, tips)"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-jagala-waterfall",
+    "title": "Jägala Waterfall (Jägala juga)",
+    "tags": [
+      "waterfall",
+      "winter icefall",
+      "scenic viewpoint"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 year-round; access paths can be icy in winter—use traction."
+    },
+    "venue": {
+      "name": "Jägala Waterfall viewpoint",
+      "address": "Jägala juga, Jõesuu, Harju County, Estonia"
+    },
+    "uniquenessReason": "Estonia’s widest natural waterfall; in cold spells forms striking frozen cascades—distinct seasonal phenomenon near Tallinn.",
+    "interestFit": "Short nature stop pairing with coastal or bog scenery; dramatic winter aesthetics for photography at low sun.",
+    "touristTrap": 85,
+    "sources": [
+      {
+        "url": "https://www.visitestonia.com/en/jagala-waterfall",
+        "type": "tourist_mainstream",
+        "note": "National tourism listing with access details"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "location-pakri-cliffs",
+    "title": "Pakri Cliffs and Coast (Paldiski)",
+    "tags": [
+      "sea cliffs",
+      "limestone klint",
+      "scenic viewpoints",
+      "sunset session"
+    ],
+    "operatingHours": {
+      "summary": "Open 24/7 coastline access; exercise caution near cliff edges, especially with ice/snow."
+    },
+    "venue": {
+      "name": "Pakri Klint viewpoints (near lighthouse)",
+      "address": "Pakri pank (cliffs), Paldiski, Harju County, Estonia"
+    },
+    "uniquenessReason": "Part of the Baltic Klint—sheer limestone sea cliffs unique to the Eastern Baltic, with lighthouse panoramas and stormy winter seascapes.",
+    "interestFit": "Strong nature-scenic coastal vistas; sunset sessions over the Gulf of Finland offer expansive, dramatic views.",
+    "touristTrap": 85,
+    "sources": [
+      {
+        "url": "https://www.visitestonia.com/en/pakri-cliffs-and-coast",
+        "type": "tourist_mainstream",
+        "note": "National tourism listing with site overview and access"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "isola-ix-hall-2025-12-12",
+    "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria",
+    "description": "Nine-year celebration of ISOLA at HALL — underground electronic music night with live performance focus in repurposed industrial space on Tallinn’s waterfront (Noblessner). Ideal for night cityscape vibes before/after inside shots.",
+    "startDateTime": "2025-12-12T23:59:00+02:00",
+    "endDateTime": null,
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10414 Tallinn, Estonia",
+      "neighborhood": "Noblessner / Port of Tallinn"
+    },
+    "tags": [
+      "nightlife",
+      "creative districts",
+      "waterfront renewal",
+      "night photography",
+      "electronic"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2313947",
+        "name": "Resident Advisor event page",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/",
+        "name": "Facebook event",
+        "type": "community"
+      },
+      {
+        "url": "https://ra.co/clubs/140150",
+        "name": "HALL club page on RA",
+        "type": "regional"
+      }
+    ],
+    "ticket": {
+      "status": "available",
+      "url": "https://ra.co/events/2313947"
+    },
+    "languageNotes": "Door and event info typically in EN/ET; crowd mixed Estonian/Russian/English.",
+    "touristTrap": 35,
+    "confidence": 0.79
+  },
+  {
+    "type": "event",
+    "id": "fotografiska-dago-2025-12-13",
+    "title": "Concert: Dagö · Martin Kosseson at Fotografiska Tallinn",
+    "description": "A concert set inside Fotografiska Tallinn at Telliskivi Creative City — perfect combo of creative district architecture and evening culture; pair with blue-hour shots around Telliskivi courtyards.",
+    "startDateTime": "2025-12-13T19:00:00+02:00",
+    "endDateTime": null,
+    "venue": {
+      "name": "Fotografiska Tallinn",
+      "address": "Telliskivi 60a/8, 10412 Tallinn, Estonia",
+      "neighborhood": "Telliskivi Creative City"
+    },
+    "tags": [
+      "creative districts",
+      "night photography",
+      "music",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://tallinn.fotografiska.com/en/whats-on/upcoming",
+        "name": "Fotografiska Tallinn — What’s On",
+        "type": "regional"
+      }
+    ],
+    "ticket": {
+      "status": "tbd",
+      "url": "https://tallinn.fotografiska.com/en/events"
+    },
+    "languageNotes": "Site in EN/ET; door staff English-friendly.",
+    "touristTrap": 55,
+    "confidence": 0.68
+  },
+  {
+    "type": "event",
+    "id": "tallinn-christmas-market-fri-late-2025-12-12",
+    "title": "Tallinn Christmas Market — Friday late hours",
+    "description": "Historic Town Hall Square market with extended Fri–Sat hours to 23:00. While mainstream, it’s the best opportunity for festive night cityscapes with medieval architecture lighting and seasonal performances.",
+    "startDateTime": "2025-12-12T10:00:00+02:00",
+    "endDateTime": "2025-12-12T23:00:00+02:00",
+    "venue": {
+      "name": "Tallinn Christmas Market (Raekoja plats)",
+      "address": "Raekoja plats, 10146 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "tags": [
+      "night photography",
+      "architecture",
+      "market",
+      "seasonal"
+    ],
+    "sources": [
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "name": "Official Tallinn Christmas Market site",
+        "type": "national"
+      },
+      {
+        "url": "https://www.instagram.com/tallinnchristmasmarket/",
+        "name": "Tallinn Christmas Market Instagram",
+        "type": "community"
+      }
+    ],
+    "ticket": {
+      "status": "free",
+      "url": "https://christmasmarket.ee/en/"
+    },
+    "languageNotes": "Crowd multilingual; some vendors speak Russian and English.",
+    "touristTrap": 85,
+    "confidence": 0.75
+  },
+  {
+    "type": "location",
+    "id": "noblessner-seafront-quarter",
+    "title": "Noblessner Seafront Quarter",
+    "description": "Former Tsarist submarine shipyard transformed into a contemporary waterfront quarter with Kai Art Center and HALL; industrial brick, cranes, and quay reflections make it Tallinn’s prime regenerated waterfront for night photography.",
+    "operatingHours": {
+      "summary": "Public waterfront realm open 24/7; venue hours vary (Kai exhibition Wed–Sun; restaurants late)"
+    },
+    "venue": {
+      "name": "Noblessner Quarter",
+      "address": "Peetri 10, 10415 Tallinn, Estonia",
+      "neighborhood": "Noblessner"
+    },
+    "tags": [
+      "waterfront renewal",
+      "creative districts",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://noblessner.ee/en/kai-art-centre/",
+        "name": "Noblessner – Kai Art Center",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.kai.center/en",
+        "name": "Kai Art Center — official site",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s flagship adaptive reuse on the Baltic seafront, clustering art spaces and clubs within a historic submarine shipyard complex.",
+    "whyItFits": "Direct hit on waterfront renewal + night cityscapes; industrial textures and harbor lights are tailor-made for evening photo walks.",
+    "touristTrap": 60,
+    "confidence": 0.8
+  },
+  {
+    "type": "location",
+    "id": "telliskivi-creative-city",
+    "title": "Telliskivi Creative City",
+    "description": "Railway depot and factory buildings turned into Estonia’s densest creative quarter with Fotografiska, galleries, and nightlife; neon signage and courtyards glow at blue hour.",
+    "operatingHours": {
+      "summary": "Public courtyards open 24/7; Fotografiska late on Fridays (open until midnight)"
+    },
+    "venue": {
+      "name": "Telliskivi Loomelinnak",
+      "address": "Telliskivi 60, 10412 Tallinn, Estonia",
+      "neighborhood": "Telliskivi/Pelgulinn"
+    },
+    "tags": [
+      "creative districts",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://tallinn.fotografiska.com/en/visit",
+        "name": "Fotografiska Tallinn – Visit info",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s pioneering creative campus; the specific mix of brick industrial halls and contemporary cultural anchors is distinctive to the city.",
+    "whyItFits": "Creative district hop with reliable evening ambiance for urban photography.",
+    "touristTrap": 65,
+    "confidence": 0.74
+  },
+  {
+    "type": "location",
+    "id": "reidi-tee-promenade",
+    "title": "Reidi tee Promenade (Kadriorg–Pirita waterfront)",
+    "description": "Newest stretch of illuminated seaside promenade linking Kadriorg parkland with the port; long lines of light poles and sea vistas ideal for blue-hour shots and ferry-light trails.",
+    "operatingHours": {
+      "summary": "Open 24/7 (public promenade)"
+    },
+    "venue": {
+      "name": "Reidi tee Promenade",
+      "address": "Reidi tee, 10151 Tallinn, Estonia",
+      "neighborhood": "Kadriorg/Harbour"
+    },
+    "tags": [
+      "waterfront renewal",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://visittallinn.ee/eng/visitor/see-do/attractions/all-attractions/179850",
+        "name": "Visit Tallinn listing (Reidi tee promenade)",
+        "type": "national"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s newest waterfront public space designed for pedestrians and cyclists with city-lit views across the bay.",
+    "whyItFits": "Direct waterfront renewal and night cityscape frames facing the harbor and skyline.",
+    "touristTrap": 70,
+    "confidence": 0.62
+  },
+  {
+    "type": "location",
+    "id": "linnahall-exteriors",
+    "title": "Linnahall Exteriors & Terraces",
+    "description": "Monumental late-Soviet seafront complex by Raine Karp; stark concrete terraces give cinematic night perspectives over the harbor; interiors usually closed.",
+    "operatingHours": {
+      "summary": "Exterior public access generally open; interior closed due to long-term redevelopment"
+    },
+    "venue": {
+      "name": "Linnahall",
+      "address": "Mere puiestee 20, 10111 Tallinn, Estonia",
+      "neighborhood": "Harbour/Old Town edge"
+    },
+    "tags": [
+      "architecture",
+      "night photography",
+      "waterfront"
+    ],
+    "sources": [
+      {
+        "url": "https://estonianarchitecture.com/guided-tours/",
+        "name": "Estonian Centre for Architecture — guided tours (incl. Linnahall)",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "One of the most iconic Soviet-modernist waterfront megastructures in the Baltics.",
+    "whyItFits": "Irreplaceable architecture on the seafront with dramatic night geometry.",
+    "touristTrap": 45,
+    "confidence": 0.66
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-05-hall-cu-kontrast",
+    "title": "CU Showcase x kontrast - HALL x SVE x culture unseen",
+    "description": "Mini-festival night bridging experimental live sets and late-night techno across multiple stages at Tallinn’s underground institution HALL.",
+    "startDateTime": "2025-12-05T19:00:00+02:00",
+    "endDateTime": "2025-12-06T06:00:00+02:00",
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10411 Tallinn, Estonia",
+      "neighborhood": "Põhja-Tallinn"
+    },
+    "categories": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "underground"
+    ],
+    "tags": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "warehouse",
+      "multi-room"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2266146",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://fienta.com/cu-showcase-x-kontrast-hall-x-sve-x-culture-unseen",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://gateme.com/halltallinn/",
+        "name": "GateMe (venue/ticketing)",
+        "sourceType": "regional"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tiered presale on Fienta; check link for current price"
+    },
+    "touristTrap": 45,
+    "confidence": 0.82
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-hall-isola-ix",
+    "title": "ISOLA IX invites: SPACE SERIES x CHAMI & D-LERIA",
+    "description": "Nine-year celebration of ISOLA — vinyl-forward, performance-driven techno night at HALL with guests Space Series, CHAMI and D-LERIA.",
+    "startDateTime": "2025-12-12T23:59:00+02:00",
+    "endDateTime": "2025-12-13T08:00:00+02:00",
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10411 Tallinn, Estonia",
+      "neighborhood": "Põhja-Tallinn"
+    },
+    "categories": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "underground"
+    ],
+    "tags": [
+      "hard techno",
+      "industrial",
+      "vinyl",
+      "live",
+      "warehouse"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2313947",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/",
+        "name": "Facebook event",
+        "sourceType": "community"
+      },
+      {
+        "url": "https://www.instagram.com/halltallinn/reel/DRhnkQqCM3y/",
+        "name": "Instagram promo",
+        "sourceType": "community"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tickets via RA/Fienta per links in event feed; tiers vary"
+    },
+    "touristTrap": 40,
+    "confidence": 0.86
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-rawest-twisted-xmas",
+    "title": "RAWEST presents: TWISTED CHRISTMAS Vol.5",
+    "description": "Local hard dance crew RAWEST takes over Club NINE for a bass-heavy Christmas special spanning hardstyle, rawstyle and hardcore.",
+    "startDateTime": "2025-12-12T23:00:00+02:00",
+    "endDateTime": "2025-12-13T06:00:00+02:00",
+    "venue": {
+      "name": "Club NINE",
+      "address": "Tulika 9/11, 10613 Tallinn, Estonia",
+      "neighborhood": "Kristiine"
+    },
+    "categories": [
+      "hard dance",
+      "hardcore",
+      "bass"
+    ],
+    "tags": [
+      "hardstyle",
+      "rawstyle",
+      "hardcore",
+      "bass",
+      "warehouse"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2301795",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.ticketer.ee/rawest-twisted-christmas-5/",
+        "name": "Ticketer (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://allevents.in/tallinn/rawest-presents-twisted-christmas-vol5/200029067443655",
+        "name": "AllEvents (listing)",
+        "sourceType": "regional"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et",
+      "ru"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tickets via Ticketer; tiers on sale"
+    },
+    "touristTrap": 50,
+    "confidence": 0.8
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-ame-golden-gate",
+    "title": "Âme @ Golden Gate (Rotermann one-night warehouse)",
+    "description": "Innervisions’ Âme plays a one-night transformation of Rotermann’s Golden Gate parking level into a large-scale dancefloor — site-specific industrial vibes.",
+    "startDateTime": "2025-12-12T23:00:00+02:00",
+    "endDateTime": "2025-12-13T05:30:00+02:00",
+    "venue": {
+      "name": "Golden Gate (Rotermann)",
+      "address": "Ahtri 6, 10151 Tallinn, Estonia",
+      "neighborhood": "Rotermanni"
+    },
+    "categories": [
+      "techno",
+      "house",
+      "club night"
+    ],
+    "tags": [
+      "warehouse",
+      "industrial",
+      "one-off",
+      "innervisions"
+    ],
+    "sources": [
+      {
+        "url": "https://fienta.com/ame",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.bandsintown.com/e/107637291-ame-at-golden-gate",
+        "name": "Bandsintown (listing)",
+        "sourceType": "national"
+      },
+      {
+        "url": "https://www.instagram.com/reel/DQ_27EADG3x/",
+        "name": "Instagram promo (Movements Events)",
+        "sourceType": "community"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "30–70 EUR tiers on Fienta (Regular, Final, VIP)"
+    },
+    "touristTrap": 55,
+    "confidence": 0.83
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-hall",
+    "title": "HALL",
+    "description": "Tallinn’s core underground techno stronghold and homebase for vinyl-forward, industrial/acid-leaning series like ISOLA; multi-room warehouse club on the water.",
+    "operatingHours": {
+      "summary": "Event-based; typical Fri/Sat 23:59–late; check event pages for hours"
+    },
+    "address": "Peetri 6, 10411 Tallinn, Estonia",
+    "neighborhood": "Põhja-Tallinn",
+    "uniquenessReason": "Irreplaceable nucleus of Tallinn’s underground techno scene with resident series (ISOLA) and a raw industrial setting not replicable elsewhere in the city.",
+    "fitReason": "Consistent hard/industrial/acid techno bookings and late sessions align directly with bass-heavy, warehouse preferences.",
+    "touristTrap": 40,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "name": "HALL Facebook",
+        "sourceType": "community"
+      },
+      {
+        "url": "https://ra.co/clubs/149915",
+        "name": "HALL on Resident Advisor",
+        "sourceType": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-club-nine",
+    "title": "Club NINE (Tulika 9/11)",
+    "description": "Legacy warehouse-style venue carrying the energy of Tallinn’s 9/11-era underground; home to local hard dance and bass crews like RAWEST.",
+    "operatingHours": {
+      "summary": "Event-based; typical party nights 23:00–06:00"
+    },
+    "address": "Tulika 9/11, 10613 Tallinn, Estonia",
+    "neighborhood": "Kristiine",
+    "uniquenessReason": "Continuation of Tallinn’s raw, industrial club lineage with locally-driven hardstyle/raw/hardcore programming.",
+    "fitReason": "Delivers bass-heavy, high-intensity nights and carnival-level energy through hard dance lineups.",
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://ra.co/venues/102008",
+        "name": "Club NINE on Resident Advisor",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://ra.co/events/2301795",
+        "name": "RAWEST event on RA",
+        "sourceType": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-golden-gate",
+    "title": "Golden Gate (Rotermann, site-specific party space)",
+    "description": "Rotermann Quarter’s Golden Gate building — temporarily converted into a large-scale dancefloor for the Âme night; a rare one-off industrial event setup.",
+    "operatingHours": {
+      "summary": "Not a regular club; opens for the Âme event 23:00–05:30 on Dec 12 only"
+    },
+    "address": "Ahtri 6, 10151 Tallinn, Estonia",
+    "neighborhood": "Rotermanni",
+    "uniquenessReason": "One-night-only transformation of a new landmark’s parking level into an industrial club environment — not a repeatable tourist experience.",
+    "fitReason": "Warehouse/industrial setting and headliner techno aesthetic fit the interest’s ‘underground clubs’ and ‘festival afterparty’ vibe.",
+    "touristTrap": 55,
+    "sources": [
+      {
+        "url": "https://fienta.com/ame",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.instagram.com/reel/DQ_27EADG3x/",
+        "name": "Instagram promo",
+        "sourceType": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "evm-joulukyla-2025-12-13",
+    "title": "Jõuluküla “Jõulud kirjasõnaga” – Day 1",
+    "description": "Living-history style Christmas Village across historic farmsteads with period crafts, traditional music, and folk customs in an open-air setting.",
+    "startDateTime": "2025-12-13T11:00:00+02:00",
+    "timezone": "Europe/Tallinn",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia"
+    },
+    "languages": [
+      "et",
+      "en",
+      "ru"
+    ],
+    "tags": [
+      "living history",
+      "crafts",
+      "folk",
+      "medieval vibes"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://evm.ee/sundmused/joulukula",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "evm-joulukyla-2025-12-14",
+    "title": "Jõuluküla “Jõulud kirjasõnaga” – Day 2",
+    "description": "Second festival day of the Open Air Museum’s Christmas Village: historic houses host seasonal rituals, storytelling, and heritage food stalls.",
+    "startDateTime": "2025-12-14T11:00:00+02:00",
+    "timezone": "Europe/Tallinn",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia"
+    },
+    "languages": [
+      "et",
+      "en",
+      "ru"
+    ],
+    "tags": [
+      "living history",
+      "crafts",
+      "folk",
+      "medieval vibes"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://evm.ee/sundmused/joulukula",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kiek-in-de-kok-bastion-passages",
+    "title": "Kiek in de Kök & Bastion Passages (Tallinn City Museum)",
+    "description": "Tower-to-tunnel fortress museum linking medieval/early-modern defensive towers with the original bastion tunnels beneath Old Town.",
+    "operatingHours": {
+      "summary": "Winter schedule: museum towers typically Tue–Sun ~10:00–18:00, Mon closed; Bastion Passages only by timed guided tours (reduced winter frequency—book ahead)."
+    },
+    "uniquenessReason": "Only place in Tallinn where you can walk the actual bastion tunnel network under the medieval fortifications.",
+    "fitReason": "Direct hit for fortress architecture, siege history, and arms displays—very close to RPG castle/stronghold exploration.",
+    "venue": {
+      "name": "Kiek in de Kök muuseumikompleks",
+      "address": "Komandandi 2, 10130 Tallinn, Estonia"
+    },
+    "tags": [
+      "castles",
+      "fortifications",
+      "arms & armor"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://kiekindekok.ee/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.linnamuuseum.ee/",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "niguliste-museum",
+    "title": "Niguliste Museum (St Nicholas’ Church)",
+    "description": "Gothic church-museum renowned for medieval sacred art including Bernt Notke’s Danse Macabre; frequent early music performances in resonant acoustics.",
+    "operatingHours": {
+      "summary": "Typical winter hours Tue–Sun around 10:00–18:00; closed Mon. Evening concerts on select dates."
+    },
+    "uniquenessReason": "Houses one of Northern Europe’s pivotal late-medieval artworks inside an intact Gothic sacred space.",
+    "fitReason": "Medieval art and sacred atmosphere align with the aesthetic of fantasy RPG cathedrals and lore.",
+    "venue": {
+      "name": "Niguliste muuseum",
+      "address": "Niguliste 3, 10146 Tallinn, Estonia"
+    },
+    "tags": [
+      "medieval art",
+      "gothic",
+      "early music"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://nigulistemuuseum.ekm.ee/",
+        "type": "national"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "rakvere-castle",
+    "title": "Rakvere Castle (Rakvere Linnus) – Day Trip",
+    "description": "Living‑history stronghold with smithy, armory, alchemist’s cellar, torture chamber exhibits, and seasonal demos.",
+    "operatingHours": {
+      "summary": "Winter hours typically around 10:00–16:00; demonstrations more frequent on weekends; check weekly schedule."
+    },
+    "uniquenessReason": "Hands‑on medieval fortress experience rare in the region, with working crafts/weaponry rooms.",
+    "fitReason": "Blacksmithing, arms & armor, and role‑playable castle environments directly map to strategy/RPG tastes.",
+    "venue": {
+      "name": "Rakvere Linnus",
+      "address": "Rakvere, Lääne‑Viru County, Estonia"
+    },
+    "tags": [
+      "castles",
+      "living history",
+      "blacksmithing",
+      "arms & armor"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://rakverelinnus.ee/",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "event-christmas-bachata-2025-12-13-kopli25",
+    "interestId": "tropics-islands-beach",
+    "title": "Christmas Bachata Party",
+    "description": "Latin beach-vibe social with bachata focus—dance on a warm December night with Tallinn's bachata community.",
+    "startDateTime": "2025-12-13T21:00:00+02:00",
+    "endDateTime": "2025-12-14T03:00:00+02:00",
+    "venue": {
+      "name": "Bachata Studio Tallinn (Kopli 25)",
+      "address": "Kopli 25, 10412 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "nightlifeFestivals",
+      "beach club vibe",
+      "latin",
+      "dance"
+    ],
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Studio/door pricing; see event page"
+    },
+    "sources": [
+      {
+        "url": "https://www.facebook.com/events/kopli-25-10412-tallinn-estonia/-christmas-bachata-party-/995379036053009/",
+        "type": "community"
+      },
+      {
+        "url": "https://bachatastudio.ee/en/product/christmas-bachata-party/",
+        "type": "regional"
+      },
+      {
+        "url": "https://happeningnext.com/event/%F0%9F%8E%84%E2%9C%A8-christmas-bachata-party-%E2%9C%A8%F0%9F%8E%84-eid3a0cxuid09",
+        "type": "community"
+      }
+    ],
+    "touristTrap": 30,
+    "confidence": 0.78
+  },
+  {
+    "type": "event",
+    "id": "event-terasbeach-joulupidu-2025-12-05",
+    "interestId": "tropics-islands-beach",
+    "title": "Teras Beach Jõuluüritus 2025",
+    "description": "One-night tropical Christmas party at Tallinn’s indoor beach: live band Pille-Riin & The Wet Cats, dance workshop, DJ, beach lounge and saunas on warm white sand.",
+    "startDateTime": "2025-12-05T18:30:00+02:00",
+    "endDateTime": "2025-12-06T01:30:00+02:00",
+    "venue": {
+      "name": "Teras Beach Tallinn",
+      "address": "Lõuka tn 6, 13516 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "beach club",
+      "tropical",
+      "live music",
+      "dance",
+      "party"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Tickets via email/phone (info@terasbeach.ee / +372 5623 4404)"
+    },
+    "sources": [
+      {
+        "url": "https://www.terasbeach.ee/en/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/TerasBeach/",
+        "type": "community"
+      }
+    ],
+    "touristTrap": 50,
+    "confidence": 0.82
+  },
+  {
+    "type": "event",
+    "id": "event-elamusspa-aufguss-daily-2025-12-01to14",
+    "interestId": "tropics-islands-beach",
+    "title": "Elamus Spa Daily Aufguss Show (19:00)",
+    "description": "Theatrical sauna Aufguss in the Baltics’ largest ritual sauna—steam, aromas, music and lights for a warm-winter escape.",
+    "startDateTime": "2025-12-01T19:00:00+02:00",
+    "endDateTime": "2025-12-14T19:45:00+02:00",
+    "venue": {
+      "name": "Mustamäe Elamus Spa (SPA21+ and family areas)",
+      "address": "Akadeemia tee 30, 12618 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "wellnessRelaxation",
+      "tropical",
+      "sauna ritual",
+      "spa"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Included with spa admission; check site for ticket tiers"
+    },
+    "sources": [
+      {
+        "url": "https://elamusspa.ee/en/saunarituaalid/",
+        "type": "regional"
+      },
+      {
+        "url": "https://elamusspa.ee/en/spa21/rituals/",
+        "type": "regional"
+      }
+    ],
+    "touristTrap": 60,
+    "confidence": 0.7
+  },
+  {
+    "type": "event",
+    "id": "event-viimsi-spa-sauna-friday-2025-12-05-12",
+    "interestId": "tropics-islands-beach",
+    "title": "Viimsi SPA Sauna Friday (Sauna master + cold beer)",
+    "description": "Weekly 20:00 ritual night at Tallinn Viimsi SPA sauna center—Aufguss-style sessions and a casual spa-bar vibe.",
+    "startDateTime": "2025-12-05T20:00:00+02:00",
+    "endDateTime": "2025-12-05T21:00:00+02:00",
+    "extraDates": [
+      {
+        "startDateTime": "2025-12-12T20:00:00+02:00",
+        "endDateTime": "2025-12-12T21:00:00+02:00"
+      }
+    ],
+    "venue": {
+      "name": "Tallinn Viimsi SPA Sauna Center / Atlantis H2O",
+      "address": "Randvere tee 11, Viimsi, 74001 Harju County, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "wellnessRelaxation",
+      "sauna ritual",
+      "tropical",
+      "spa"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": 9,
+      "currency": "EUR",
+      "notes": "Listed on site for Sauna Fridays; confirm inclusion with admission"
+    },
+    "sources": [
+      {
+        "url": "https://www.spatallinn.ee/en/spa-packages/",
+        "type": "regional"
+      },
+      {
+        "url": "https://aquapark.ee/en/sauna-center/",
+        "type": "regional"
+      }
+    ],
+    "touristTrap": 60,
+    "confidence": 0.65
+  },
+  {
+    "type": "location",
+    "id": "loc-teras-beach-tallinn",
+    "interestId": "tropics-islands-beach",
+    "title": "Teras Beach Tallinn (Indoor Beach Hall)",
+    "operatingHours": {
+      "summary": "Mon–Sun 09:00–22:30"
+    },
+    "address": "Lõuka tn 6, 13516 Tallinn, Estonia",
+    "uniquenessReason": "Year-round 26°C indoor white-sand beach with saunas and lounge—closest to a tropical beach club in Baltic winter.",
+    "whyItFits": "Delivers warm-water tropical beach-club vibe in subzero season; frequent parties and sports on sand.",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://visitestonia.com/en/teras-beach-tallinn",
+        "type": "national"
+      },
+      {
+        "url": "https://www.terasbeach.ee/en/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "beach club",
+      "tropical",
+      "active"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-elamus-spa",
+    "interestId": "tropics-islands-beach",
+    "title": "Mustamäe Elamus Spa (SPA21+ & Family)",
+    "operatingHours": {
+      "summary": "Mon–Sun 10:00–00:00"
+    },
+    "address": "Akadeemia tee 30, 12618 Tallinn, Estonia",
+    "uniquenessReason": "Baltics’ largest ritual sauna with daily theatre-style Aufguss; 22 unique saunas and outdoor hot tubs.",
+    "whyItFits": "A tropical-warm escape in winter with immersive steam, aromas, and music—relaxation meets spectacle.",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://elamusspa.ee/en/saunarituaalid/",
+        "type": "regional"
+      },
+      {
+        "url": "https://elamusspa.ee/en/spa21/rituals/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "wellnessRelaxation",
+      "sauna",
+      "tropical"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-viimsi-spa-atlantis",
+    "interestId": "tropics-islands-beach",
+    "title": "Tallinn Viimsi SPA + Atlantis H2O Aquapark",
+    "operatingHours": {
+      "summary": "Daily; Sauna Friday ritual at 20:00 (check site)"
+    },
+    "address": "Randvere tee 11, Viimsi, 74001 Estonia",
+    "uniquenessReason": "Connected aquapark and adult-only SPA18+ with themed tropical sauna rituals and spa-bar.",
+    "whyItFits": "Warm-water pools and rituals create playful beach-spa energy close to Tallinn; weekly ritual night fits nightlife + relaxation.",
+    "touristTrap": 65,
+    "sources": [
+      {
+        "url": "https://aquapark.ee/en/sauna-center/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.spatallinn.ee/en/spa-packages/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "wellnessRelaxation",
+      "sauna",
+      "tropical"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  },
+  {
+    "type": "event",
+    "id": "tallinn-christmas-market-2025-12-01",
+    "interestId": "food-local-cuisine",
+    "title": "Tallinn Christmas Market (Tallinna Jõuluturg) – food stalls and glögi",
+    "description": "Tallinn’s Old Town square transforms into a festive market with traditional Estonian foods (verivorst/blood sausage, sauerkraut, smoked fish, gingerbread) and mulled wine (glögi).",
+    "venue": {
+      "name": "Raekoja plats (Town Hall Square)",
+      "address": "Raekoja plats, 10146 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "startDateTime": "2025-12-01T10:00:00+02:00",
+    "endDateTime": "2025-12-01T20:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "touristTrap": 70,
+    "sources": [
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "note": "Official site confirming 21 Nov – 28 Dec 2025 and daily hours 10:00–20:00 (drinks later)",
+        "type": "national/mainstream"
+      },
+      {
+        "url": "https://www.instagram.com/p/DRXMCnKjG0s/",
+        "note": "Social confirmation of hours",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "estonian-open-air-museum-christmas-village-2025-12-13",
+    "interestId": "food-local-cuisine",
+    "title": "Christmas Village (Jõuluküla) at the Estonian Open Air Museum",
+    "description": "Two-day folk Christmas village with historic farmhouses, choirs, and traditional foods; Kolu Kõrts serves old-style Christmas dishes and there are village food stalls.",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia",
+      "neighborhood": "Rocca al Mare"
+    },
+    "startDateTime": "2025-12-13T11:00:00+02:00",
+    "endDateTime": "2025-12-13T16:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "traditional",
+      "snack",
+      "lunch"
+    ],
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://evm.ee/et",
+        "note": "Museum site banner for Jõuluküla 13–14 Dec with schedule",
+        "type": "regional"
+      },
+      {
+        "url": "https://visitestonia.com/en/christmas-village",
+        "note": "Visit Estonia listing with dates and venue",
+        "type": "national"
+      },
+      {
+        "url": "https://www.kultuurikava.ee/event/joulukula-eesti-vabaohumuuseumis-4",
+        "note": "Kultuurikava event page with dates/times",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "note": "Facebook event confirming times 11:00–16:00",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "eka-christmas-fair-2025-12-14",
+    "interestId": "food-local-cuisine",
+    "title": "EKA Jõuluturg (Estonian Academy of Arts Christmas Fair)",
+    "description": "Student and designer Christmas fair; browse local crafts with pop-up food stalls and cafes around the campus—local, creative vibe.",
+    "venue": {
+      "name": "Eesti Kunstiakadeemia (EKA)",
+      "address": "Põhja puiestee 7, 10412 Tallinn, Estonia",
+      "neighborhood": "Kalamaja/City Centre edge"
+    },
+    "startDateTime": "2025-12-14T12:00:00+02:00",
+    "endDateTime": "2025-12-14T18:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "community",
+      "snack",
+      "lunch"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/events/1237463741444360/",
+        "note": "FB event page with date/time",
+        "type": "community"
+      },
+      {
+        "url": "https://allevents.in/tallinn/eka-j%C3%95uluturg-2025-%7C-eka-christmas-fair-2025/200028597276607",
+        "note": "Aggregator mirror",
+        "type": "community/aggregator"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "balti-jaama-turg",
+    "interestId": "food-local-cuisine",
+    "title": "Balti Jaama Turg (Baltic Station Market)",
+    "description": "Tallinn’s main market hub: farmers’ produce, smoked fish, Estonian deli counters, and 25+ street-food corners in a lively railway-side complex.",
+    "venue": {
+      "name": "Balti Jaama Turg",
+      "address": "Kopli 1, 10412 Tallinn, Estonia",
+      "neighborhood": "Kalamaja/Telliskivi"
+    },
+    "operatingHours": {
+      "summary": "Mon–Sat 09:00–20:00; Sun 09:00–18:00 (vendor hours may vary)"
+    },
+    "uniquenessReason": "Only-in-Tallinn blend of classic Estonian market culture with a modern street-food hall next to the historic station.",
+    "whyItFits": "Direct access to local specialties (smoked fish, black bread, pickles, honey) plus authentic street-food corners popular with locals.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "snack",
+      "local cuisine",
+      "market"
+    ],
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://astri.ee/bjt/en/avaleht/",
+        "note": "Operator site with hours and overview",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.instagram.com/baltijaamaturg/",
+        "note": "Active IG showcasing food vendors/events",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "nomme-turg",
+    "interestId": "food-local-cuisine",
+    "title": "Nõmme Turg (Nõmme Market)",
+    "description": "Historic garden-district market favored by locals for seasonal produce, smoked meats/fish, sauerkraut, mushrooms, and honey.",
+    "venue": {
+      "name": "Nõmme Turg",
+      "address": "Turu plats 8, 11611 Tallinn, Estonia",
+      "neighborhood": "Nõmme"
+    },
+    "operatingHours": {
+      "summary": "Mon–Fri 08:00–19:00; Sat 08:00–17:00; Sun 09:00–16:00"
+    },
+    "uniquenessReason": "A suburban community market with strong local clientele and old-school Estonian food staples—well off the tourist path.",
+    "whyItFits": "Great for morning browsing and tasting truly local products and smoked items that define Estonian home cooking.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "lunch",
+      "local cuisine",
+      "market"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://nommeturg.ee/",
+        "note": "Official market site with hours and vendor info",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "maiasmokk-cafe-marzipan-room",
+    "interestId": "food-local-cuisine",
+    "title": "Maiasmokk Café & Marzipan Room",
+    "description": "Estonia’s oldest café (since 1864) with a marzipan room where artisans hand-paint marzipan figurines; classic cakes, kohv, and pastries.",
+    "venue": {
+      "name": "Kohvik Maiasmokk",
+      "address": "Pikk 16, 10123 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "operatingHours": {
+      "summary": "Typically daily ~09:00–21:00 (check seasonal hours; marzipan workshops by schedule)"
+    },
+    "uniquenessReason": "Historic café and marzipan atelier unique to Tallinn’s confectionery tradition since the 19th century.",
+    "whyItFits": "Quintessential local sweets and coffee stop; marzipan is a hallmark of Estonian holiday treats.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "local cuisine",
+      "traditional dishes",
+      "cafes"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://maiasmokk.ee/en/marzipan/",
+        "note": "Official site with history and marzipan room details",
+        "type": "national"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kolu-korts-evm",
+    "interestId": "food-local-cuisine",
+    "title": "Kolu Kõrts (Inn at the Estonian Open Air Museum)",
+    "description": "A historic roadside inn serving traditional Estonian fare inside the Open Air Museum; rustic soups, rye bread, and seasonal dishes.",
+    "venue": {
+      "name": "Kolu Kõrts (EVM)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia",
+      "neighborhood": "Rocca al Mare"
+    },
+    "operatingHours": {
+      "summary": "Tue–Sun 10:00–17:00; Mon closed (winter season)"
+    },
+    "uniquenessReason": "Authentic museum inn where recipes and setting reflect Estonian rural traditions—cannot be replicated outside this context.",
+    "whyItFits": "Direct immersion into heritage cooking; pairs perfectly with the museum’s Christmas Village dates during your trip.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "traditional dishes",
+      "local cuisine"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://evm.ee/visitors/opening-hours",
+        "note": "EVM opening hours including Kolu Kõrts",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "pohjala-tap-room-brewery",
+    "interestId": "food-local-cuisine",
+    "title": "Põhjala Tap Room & Brewery",
+    "description": "Flagship taproom of Estonia’s leading craft brewery with on-site brewery, wide tap list of Estonian beers, and hearty smoked/BBQ plates.",
+    "venue": {
+      "name": "Põhjala Tap Room",
+      "address": "Peetri 5, 10415 Tallinn, Estonia",
+      "neighborhood": "Noblessner/Port area"
+    },
+    "operatingHours": {
+      "summary": "Typically daily from noon; Fri–Sat open late (check seasonal hours)"
+    },
+    "uniquenessReason": "Home base of Põhjala—Estonia’s most influential craft brewery—showcasing local beer culture you can’t experience outside the country.",
+    "whyItFits": "Authentic modern Estonian drinking-and-dining culture; good for casual dinner or late-night after exploring Telliskivi/Noblessner.",
+    "tags": [
+      "dinner",
+      "late-night",
+      "local cuisine",
+      "street food"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/pohjalataproom/",
+        "note": "Official Facebook page with updates and hours",
+        "type": "community"
+      },
+      {
+        "url": "https://dinnerbooking.com/ee/en-US/re2051/events-for-pohjala-tap-room",
+        "note": "Event/booking listings (seasonal)",
+        "type": "regional"
+      }
+    ]
+  }
+]

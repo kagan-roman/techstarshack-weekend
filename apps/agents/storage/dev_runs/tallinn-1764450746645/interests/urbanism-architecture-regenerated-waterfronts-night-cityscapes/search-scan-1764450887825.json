@@ -1,0 +1,61 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "scan",
+  "query": "Telliskivi Loomelinnak events calendar December 2025 Tallinn; Sveta Baar events December 2025; P\u0005f hhala tehas events detsember 2025 Tallinn; Noblessner events December 2025 Tallinn calendar",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Telliskivi Loomelinnak events calendar December 2025 Tallinn; Sveta Baar events December 2025; P\u0005f hhala tehas events detsember 2025 Tallinn; Noblessner events December 2025 Tallinn calendar",
+    "timestamp": "2025-11-29T21:14:47.825Z",
+    "results": [
+      {
+        "url": "https://allevents.in/tallinn/festivals--december",
+        "title": "Best Festivals in Tallinn December 2025",
+        "content": "... Sat 06 Dec 2025 from 12:00 PM onwards at Põhjala tehas, Tallinn; Telliskivi Loomelinnaku Jõuluturg 2025 is happening on Sat 20 Dec 2025 from 11:00 AM onwards",
+        "score": 0.7931224
+      },
+      {
+        "url": "https://10times.com/estonia?month=december",
+        "title": "Events in Estonia in December - Tallinn",
+        "content": "Explore a diverse array of events in Estonia in december 2025. Find & compare, Reviews, Ratings, Timings, Entry Ticket Fees, Schedule, Calendar,",
+        "score": 0.6445166
+      },
+      {
+        "url": "https://ee.fridayticket.com/en/tallinn/month-december",
+        "title": "Events in December 2025 in Tallinn ᐉ Buy tickets on ...",
+        "content": "Buy tickets for all December events in 2025 in Tallinn online.",
+        "score": 0.6296157
+      },
+      {
+        "url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events",
+        "title": "Event Calendar",
+        "content": "Tallinn's cultural calendar is full of events, everything from music festivals to markets and fairs.",
+        "score": 0.5408517
+      },
+      {
+        "url": "https://www.classictic.com/en/sitesearch/month/?search=tallinn&date_from=2025-12-01&date_until=2025-12-31",
+        "title": "Concerts and Opera Performances in tallinn, December ...",
+        "content": "Concerts and Opera Performances in tallinn, December 2025. Find Tickets and Schedules with Classictic.com.",
+        "score": 0.4718322
+      },
+      {
+        "url": "https://plantrip.io/itinerary/1016741",
+        "title": "Tallinn Winter Getaway: December 27‑30, 2025",
+        "content": "Your guide to Tallinn Winter Getaway: December 27‑30, 2025. Explore a personalized travel itinerary, from Plantrip. Includes maps, suggestions",
+        "score": 0.45507812
+      },
+      {
+        "url": "https://tourismattractions.net/estonia/tallinn-winter-activities-2025",
+        "title": "Tallinn Winter Activities 2025: Your Ultimate Guide",
+        "content": "Discover the best Tallinn winter activities for 2025, from festive Christmas markets to cozy museums. Plan your unforgettable trip to",
+        "score": 0.31226563
+      },
+      {
+        "url": "https://www.songkick.com/metro-areas/28667-estonia-tallinn/december-2025",
+        "title": "Concerts in Tallinn in December",
+        "content": "Find tickets to all live music, concerts, tour dates and festivals in and around Tallinn. Currently there are 11 upcoming events. Filter by artist. All.",
+        "score": 0.21718012
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "deep_dive",
+  "query": "Vabamu Museum of Occupations and Freedom opening hours December 2025 site:vabamu.ee Tallin address Toompea 8",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "Vabamu Museum of Occupations and Freedom opening hours December 2025 site:vabamu.ee Tallin address Toompea 8",
+    "timestamp": "2025-11-29T21:04:13.742Z",
+    "results": [
+      {
+        "url": "https://vabamu.ee/en/visit-us/",
+        "title": "Vabamu | Visit us",
+        "content": "Opening hours. Wed–Sun 11 a.m. – 6 p.m. ; Location. Toompea 8b, 10142 Tallinn ; Tickets. Ticket 15€ Discount ticket 10€ Family ticket 30€ ; Wheelchair. A visitor",
+        "score": 0.82795376
+      }
+    ]
+  }
+}

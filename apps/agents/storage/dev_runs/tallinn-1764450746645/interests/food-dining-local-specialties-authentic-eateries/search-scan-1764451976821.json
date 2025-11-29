@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "scan",
+  "query": "P\u0005\u0015hjala Tap Room events December 2025 Tallinn",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "scan",
+    "query": "P\u0005\u0015hjala Tap Room events December 2025 Tallinn",
+    "timestamp": "2025-11-29T21:32:56.821Z",
+    "results": [
+      {
+        "url": "https://dinnerbooking.com/ee/en-US/re2051/events-for-pohjala-tap-room",
+        "title": "Events at Põhjala Tap Room - Tallinn - DinnerBooking",
+        "content": "Events at Põhjala Tap Room · 31.12.2025 - OMAKASE menu & live saxophone music · 24.12.2025 - Christmas Eve with Nikkei flavors.",
+        "score": 0.9018604
+      },
+      {
+        "url": "https://dinnerbooking.com/ee/en-US/re2051/spa/aggregate",
+        "title": "Events at Põhjala Tap Room - Tallinn - DinnerBooking",
+        "content": "December 19 – Nero Gala 2025 with Margit Tali's band and a vibrant show program. Do you want a memorable Christmas party? Here is a hassle-free solution",
+        "score": 0.87113565
+      },
+      {
+        "url": "https://xulbeer.com/series/tallinn-craft-beer-weekend-by-pohjala-estonia/",
+        "title": "Tallinn Craft Beer Weekend by Põhjala - Estonia",
+        "content": "Tallinn Craft Beer Weekend is returning for its milestone 10th edition on May 29—30, 2026!",
+        "score": 0.5559422
+      },
+      {
+        "url": "https://www.pohjalabeer.com/about/tcbw",
+        "title": "Tallinn Craft Beer Weekend 2026. 29—30 May - Põhjala Brewery",
+        "content": "Tallinn Craft Beer Weekend 2026. 29—30 May. 10th Anniversary! Get Tickets · Visit ... Põhjala Tap Room · Brewery Tours · Põhja Konn Bar · Sumi Bistro & Bakery.",
+        "score": 0.5550741
+      },
+      {
+        "url": "https://www.facebook.com/pohjalataproom/",
+        "title": "Põhjala Tap Room | Tallinn - Facebook",
+        "content": "SPEND FATHER'S DAY WITH PÕHJALA Every Sunday at Põhjala Tap Room we offer all day breakfast and fresh donuts from SUMI bakery. In addition to the culinary",
+        "score": 0.4387136
+      },
+      {
+        "url": "https://www.instagram.com/p/DDt0l0KsUGC/?hl=en",
+        "title": "The Tallinn Craft Beer Weekend 2025 ticket giveaway is ... - Instagram",
+        "content": "... Tallinn Craft Beer Weekend 2025 ticket giveaway is in full swing and runs until Friday, December 20th under the festival FB event, but if",
+        "score": 0.42591617
+      }
+    ]
+  }
+}

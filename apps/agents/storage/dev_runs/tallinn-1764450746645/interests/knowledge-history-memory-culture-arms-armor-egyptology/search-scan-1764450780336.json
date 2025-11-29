@@ -1,0 +1,61 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "scan",
+  "query": "Tallinn December 2025 museum events arms armor fortresses memory exhibitions Estonia \"2025\" Tallinn December",
+  "payload": {
+    "localeHint": "en+et+ru",
+    "intent": "scan",
+    "query": "Tallinn December 2025 museum events arms armor fortresses memory exhibitions Estonia \"2025\" Tallinn December",
+    "timestamp": "2025-11-29T21:13:00.329Z",
+    "results": [
+      {
+        "url": "https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/exhibitions-in-tallinn",
+        "title": "New and Ongoing Exhibitions in Tallinn",
+        "content": "The exhibition will be open from 5 September 2025 to 30 September 2026. Kiek in de Kök Fortifications Museum – History of Estonian Civil Defence.",
+        "score": 0.76826453
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attractions-g274958-Activities-c49-t30-Tallinn_Harju_County.html",
+        "title": "THE 15 BEST Tallinn History Museums (2025) - Tripadvisor",
+        "content": "History Museums in Tallinn · 1. Kiek in de Kok and Bastion Passages Museum · 2. Tallinn Museum of Orders of Knighthood · 3. Vabamu Museum of Occupations and",
+        "score": 0.5404151
+      },
+      {
+        "url": "https://esm.ee/en/",
+        "title": "Estonian War Museum",
+        "content": "The museum's exhibitions take you on a journey through the wars that Estonia and Estonians have had to fight in. About the Museum. Exhibitions. All current",
+        "score": 0.3844966
+      },
+      {
+        "url": "https://www.dark-tourism.com/index.php/1434-estonianwarmuseum",
+        "title": "Estonian War Museum - Dark Tourism",
+        "content": "A museum outside Tallinn about the military history of Estonia from the War of Independence (1919-20) to almost the present day.",
+        "score": 0.35240287
+      },
+      {
+        "url": "https://esm.ee/en/exhibitions/",
+        "title": "Exhibitions - Estonian War Museum",
+        "content": "All exhibitions · From ancient times to the 20th century · World War I and the War of Independence · NATION'S OWN FORCE: Estonian National Defence 1920–1940 and",
+        "score": 0.348934
+      },
+      {
+        "url": "https://balticguide.ee/en/a-new-permanent-exhibition-at-the-estonian-war-museum/",
+        "title": "New Permanent Exhibition at Estonian War Museum",
+        "content": "The exhibition tells the history of the voluntary national defence organisation, and offers an overview of the history of the Defence League—",
+        "score": 0.2817172
+      },
+      {
+        "url": "https://visitestonia.com/en/what-to-do/new-and-ongoing-exhibitions-in-estonia",
+        "title": "New and ongoing exhibitions in Estonia",
+        "content": "Many museums feature a constant rotation of temporary exhibitions alongside their permanent ones, making a trip to the museum a great way to immerse yourself in Estonian culture and history. In this article, we provide a sampling of some of the \"star exhibitions\" and tips for planning your museum visits while you're in Estonia. If you plan on visiting several exhibitions in Estonia during your stay, invest in a Museum Card. ## More museums with permanent exhibitions in Tallinn ### Best Estonian museum exhibition of 2024 The exhibition **\"If So Reclined: Luxury and Simplicity in Estonian Furniture History from the 1400s to the Early 1900s\"** at Rakvere's Rehbinder House Museum won the award for best museum exhibition in 2024. Photo author: Tartu Toy Museum, Visit Tartu",
+        "score": 0.24985929
+      },
+      {
+        "url": "https://www.meer.com/en/42305-outdoor-exhibition-of-soviet-monuments",
+        "title": "Outdoor exhibition of Soviet Monuments - Meer",
+        "content": "The Estonian History Museum has been collecting monuments from the Soviet period with the intention of making an outdoor exhibition that presents a specific",
+        "score": 0.20088705
+      }
+    ]
+  }
+}

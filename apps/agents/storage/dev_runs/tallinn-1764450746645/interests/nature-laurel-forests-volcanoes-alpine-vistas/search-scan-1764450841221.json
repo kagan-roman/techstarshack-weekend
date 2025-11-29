@@ -1,0 +1,49 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "scan",
+  "query": "Looduse Omnibuss detsember 2025 kava matk Tallinn",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "Looduse Omnibuss detsember 2025 kava matk Tallinn",
+    "timestamp": "2025-11-29T21:14:01.221Z",
+    "results": [
+      {
+        "url": "https://www.looduseomnibuss.ee/",
+        "title": "Looduse Omnibuss: Esileht",
+        "content": "Retk Riiga Baltimaade suurimale jõuluturule Kipsalas · Looduse Omnibuss Tallinn. 13.12.2025. Laupäeval 13.detsembril 2025. Vabandame, kohad on täis. Selle aasta",
+        "score": 0.8593928
+      },
+      {
+        "url": "https://www.looduseomnibuss.ee/taxonomy/term/3",
+        "title": "Looduse Omnibuss Tallinn",
+        "content": "07.12.2025. Retk Riiga Baltimaade suurimale jõuluturule Kipsalas. 13.12.2025 ... 01.11.2025 Retk Laulasmaale Arvo Pärdi Keskusesse kontserti kuulama.",
+        "score": 0.82048416
+      },
+      {
+        "url": "https://wanderlust.ee/",
+        "title": "wanderlust.ee - wanderlust.ee",
+        "content": "detsember. Päkapikumatk. 06. detsember 2025. Laupäev, 11:00 - 12:30. Lükati tee ülemine puhkeala(Tallinn, Pirita / Kloostrimetsa). täispilet. 20 €. sooduspilet",
+        "score": 0.7040996
+      },
+      {
+        "url": "https://www.looduseomnibuss.ee/node",
+        "title": "| Looduse Omnibuss",
+        "content": "Pühapäeval 07.detsembril 2025. Lähenevd pühad ja sõidame külla akadeemik Anu Rauale Kääriku tallu. Anu tutvustab meile pühade traditsioone Viljandimaal,",
+        "score": 0.67321366
+      },
+      {
+        "url": "https://www.facebook.com/looduseomnibuss/?locale=et_EE",
+        "title": "Looduse Omnibuss",
+        "content": "detsembril 2025 Lähenevd pühad ja sõidame külla akadeemik Anu Rauale Kääriku tallu. Anu tutvustab meile pühade traditsioone Viljandimaal, oma loomingut ja",
+        "score": 0.54521364
+      },
+      {
+        "url": "https://www.facebook.com/looduseomnibuss/posts/eelteade-n%C3%A4dalane-reis-andres-adamsoniga-j%C3%B5uluehteis-euroopa-s%C3%BCdamesse-ja-kuning/1225624796265480/",
+        "title": "Eelteade. Nädalane reis Andres Adamsoniga jõuluehteis ...",
+        "content": "Laupäev 20.detsember 2025 - reede 26.12.2025 Algab eelregistreerimine meie ajaloo ja kultuuriretkele mida juhib ajaloolane Andres Adamson. Kava",
+        "score": 0.29148024
+      }
+    ]
+  }
+}

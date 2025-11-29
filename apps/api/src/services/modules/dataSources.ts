@@ -1,4 +1,6 @@
-import { supabaseAdmin } from "../../lib/supabase";
+import { sql } from "../../lib/db";
+
+const TABLE = "hackathon.data_sources";
 
 export type DataSourceStatus = "pending" | "ready" | "failed";
 
@@ -10,36 +12,21 @@ export type CreateDataSourceInput = {
 };
 
 export const createDataSource = async (input: CreateDataSourceInput) => {
-  const { data, error } = await supabaseAdmin
-    .from("data_sources")
-    .insert({
-      user_id: input.userId,
-      provider: input.provider,
-      payload_url: input.payloadUrl,
-      notes: input.notes,
-      status: "pending",
-    })
-    .select("*")
-    .single();
+  const [row] = await sql.unsafe(`
+    INSERT INTO ${TABLE} (user_id, provider, payload_url, notes, status)
+    VALUES ($1::uuid, $2, $3, $4, 'pending')
+    RETURNING *
+  `, [input.userId, input.provider, input.payloadUrl ?? null, input.notes ?? null]);
 
-  if (error) {
-    throw new Error(`Failed to create data source: ${error.message}`);
-  }
-
-  return data;
+  return row;
 };
 
 export const listDataSources = async (userId: string) => {
-  const { data, error } = await supabaseAdmin
-    .from("data_sources")
-    .select("*")
-    .eq("user_id", userId)
-    .order("created_at", { ascending: false });
+  const rows = await sql.unsafe(`
+    SELECT * FROM ${TABLE}
+    WHERE user_id = $1::uuid
+    ORDER BY created_at DESC
+  `, [userId]);
 
-  if (error) {
-    throw new Error(`Failed to list data sources: ${error.message}`);
-  }
-
-  return data;
+  return rows;
 };
-

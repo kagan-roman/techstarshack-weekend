@@ -1,0 +1,61 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "scan",
+  "query": "Tallinn December 2025 museum tours memory history arms armor Tallinn Kiek in de Kök Bastion Tunnels Vabamu guided tour schedule",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Tallinn December 2025 museum tours memory history arms armor Tallinn Kiek in de Kök Bastion Tunnels Vabamu guided tour schedule",
+    "timestamp": "2025-11-29T21:03:42.222Z",
+    "results": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d290218-Reviews-Kiek_in_de_Kok_and_Bastion_Passages_Museum-Tallinn_Harju_County.html",
+        "title": "Kiek in de Kok and Bastion Passages Museum (2025) - Tripadvisor",
+        "content": "The towerKiekindeKöktogether with the passages of the Ingrian and Swedishbastionsis an exciting part ofTallinnhistorical fortifications.The exhibition of \"KiekindeKökandBastionPassages\" reopened in March 2010 takes the visitor to a time journey that begins in 1219 and offers experience, information and entertainment. With the help of innovative video- and sound-effects and",
+        "score": 0.6628188
+      },
+      {
+        "url": "https://evendo.com/locations/estonia/tallinn-old-town/attraction/kiek-in-de-kok-museum-and-bastion-tunnels",
+        "title": "Explore the Depths of History at Kiek in de Kök Museum and Bastion Tunnels",
+        "content": "Nestled in the heart ofTallinn,KiekindeKökMuseumandBastionTunnelsserves as a fascinating gateway to Estonia's richhistoryand architectural marvels. Themuseum, housed in a formidable tower built in the 15th century, provides a unique perspective on the city's past, particularly its militaryhistory.",
+        "score": 0.6122407
+      },
+      {
+        "url": "https://www.airial.travel/attractions/estonia/tallinn/kiek-in-de-k%C3%B6k-and-bastion-passages-museum-NRvpmmff",
+        "title": "Kiek in de Kök and Bastion Passages Museum (2025) - Best of TikTok ...",
+        "content": "Visitors consistently praiseKiekindeKökand theBastionPassages for their impressive historical depth and engaging, interactive nature. The combination ofmuseumexhibits, tower views, and undergroundtunneltoursoffers excellent value and a memorable experience for all ages.",
+        "score": 0.58976424
+      },
+      {
+        "url": "https://visitestonia.com/en/kiek-in-de-kok-fortifications-museum",
+        "title": "Kiek in de Kök Fortifications Museum - Visit Estonia",
+        "content": "Photo author: Visit Tallinna, Tallinn City Museum Photo author: Visit Tallinn Photo author: Vist Tallinn, Rasmus Jurkatam Photo author: Visit Tallinn, Kadi- Liis Koppel Photo author: Visit Tallinn, Rea Kõiv Photo author: Muuseum Kiek in de Kök Photo author: Kiek in de Kök Photo author: Kiek in de Kök Photo author: Visit Tallinn, Kadi- Liis Koppel Photo author: Meeli Küttim, Tallinna Linnamuuseum Photo author: Visit Tallinn, Rea Kõiv Photo author: Visit Tallinn, Rea Kõiv Photo author: Visit Tallinn Rea Kõiv Tallinn # Kiek in de Kök Fortifications Museum Tallinn Photo author: Tallinna Linnamuuseum Tue-Sun11:00 - 18:00 Mon-Sun11:00 - 18:00 Photo author: Tallinna Linnamuuseum",
+        "score": 0.5622973
+      },
+      {
+        "url": "https://visittallinn.ee/eng/visitor/see-do/things-to-do/attractions-museums/175387/bastion-passages-in-the-tallinn-old-town",
+        "title": "Bastion passages in the Tallinn Old Town",
+        "content": "Thebastionpassages are part of theKiekindeKökFortificationMuseum.The mysterious passages inTallinn'searthwork fortifications were built along with thebastionsinthe 17th and 18th centuries to conceal the movement of soldiers, ammunition, and other equipment from the enemy. They were also used to monitor the enemy's underground activities of planting mines. After the",
+        "score": 0.528753
+      },
+      {
+        "url": "https://www.tallinn.ee/en/kultuur/kiek-de-kok-fortification-museum",
+        "title": "Kiek in de Kök Fortification Museum | Tallinn",
+        "content": "The FortificationMuseumalso includes the mysterious undergroundbastionpassages and the Carved StoneMuseumhoused there. TheKiekindeKökexhibition gives an overview of the historic war efforts, how it suffered under the plague and famine and also talks about crime and punishment in the medieval city.",
+        "score": 0.5012457
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/visitor-info/",
+        "title": "Plan your visit to the Kiek in de Kök Fortifications museum",
+        "content": "TheBastionpassages can be visited on your own, independently, without a specialtour. On the other hand, you can book a guidedtourof the spot. Please note that temperature in the passages is 10 -12 °C throughout the year and we have to navigate some rather steep stairs, so please dress appropriately!",
+        "score": 0.493336
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/",
+        "title": "Kiek in de Kök - Tallinna Linnamuuseum",
+        "content": "TallinnCityMuseumencompasses multiplemuseumsinTallinn'smedieval Old Town and districts of Kadriorg and Kalamaja.",
+        "score": 0.4854295
+      }
+    ]
+  }
+}

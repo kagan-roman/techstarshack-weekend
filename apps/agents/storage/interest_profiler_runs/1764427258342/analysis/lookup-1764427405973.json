@@ -1,0 +1,25 @@
+{
+  "query": "Noblessner Tallinn creative quarter seafront",
+  "context": "Verify instagram location reference 'Noblessner' from blob-1 refers to Port Noblessner area in Tallinn, Estonia.",
+  "timestamp": "2025-11-29T14:43:25.972Z",
+  "results": [
+    {
+      "url": "https://estonia.ee/noblessner-quarter/",
+      "title": "Noblessner quarter - Estonia.ee",
+      "content": "Noblessner is the first real waterfront quarter of Tallinn. The former submarine factory has become a friendly urban space, a combination of grand historic",
+      "score": 0.81418616
+    },
+    {
+      "url": "https://visittallinn.ee/eng/visitor/see-do/things-to-do/attractions-museums/179864/port-noblessner",
+      "title": "Noblessner seafront quarter - Visit Tallinn",
+      "content": "Noblessner is located next to the Seaplane Harbour, a walking distance from the Kalamaja district and the Old Town. Once the major submarine shipyard of",
+      "score": 0.8138313
+    },
+    {
+      "url": "https://www.nordicexperience.com/noblessner-trendy-new-seaside-quarter-discover-tallinn/",
+      "title": "Noblessner- A Trendy New Seaside Quarter to Discover in Tallinn",
+      "content": "# Noblessner- A Trendy New Seaside Quarter to Discover in Tallinn ### A cool urban environment with magnificent seaside views not to miss while in Tallinn is the former submarine shipyard Noblessner Quarter. The former submarine shipyard Noblessner is the fastest developing, and thus the most interesting, area in Tallinn today. The original plans were never fulfilled, yet a huge submarine shipyard was built in the area now known as Noblessner. Noblessner wins your heart with its distinctive and colorful architecture, boldly combining old and new. Book your private Tallinn city tour including the Noblessner area here: ## Bastion Underground Passages & Tallinn Lower Old Town Private Tour ## Tallinn Private Old Town Walking Tour",
+      "score": 0.79119295
+    }
+  ]
+}

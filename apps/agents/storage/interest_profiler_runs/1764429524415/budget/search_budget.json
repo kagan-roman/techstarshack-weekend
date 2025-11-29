@@ -1,0 +1,37 @@
+[
+  {
+    "event": "init",
+    "reason": null,
+    "timestamp": "2025-11-29T15:18:44.417Z",
+    "total": 8,
+    "remaining": 8
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner Tallinn Noblessner seafront quarter what is it",
+    "timestamp": "2025-11-29T15:19:54.441Z",
+    "total": 8,
+    "remaining": 7
+  },
+  {
+    "event": "consume",
+    "reason": "Devojački Grob Kopaonik hike Serbia",
+    "timestamp": "2025-11-29T15:20:53.713Z",
+    "total": 8,
+    "remaining": 6
+  },
+  {
+    "event": "consume",
+    "reason": "Fanal Madeira laurel forest UNESCO Laurisilva",
+    "timestamp": "2025-11-29T15:22:56.278Z",
+    "total": 8,
+    "remaining": 5
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner Tallinn culture quarter museums restaurants breweries",
+    "timestamp": "2025-11-29T15:22:59.924Z",
+    "total": 8,
+    "remaining": 4
+  }
+]

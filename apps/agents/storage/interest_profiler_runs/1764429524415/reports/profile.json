@@ -1,0 +1,131 @@
+{
+  "userId": "demo-user",
+  "identity": {
+    "displayName": null,
+    "homeBase": null,
+    "preferredLanguages": ["ru", "en"],
+    "bioSummary": "Russian-speaking traveler balancing reflective history days, mystical nature hikes, and high-energy nightlife; curious about cities, castles, and islands."
+  },
+  "macroPreferences": {
+    "adventureOutdoor": 0.75,
+    "cultureArt": 0.8,
+    "nightlifeFestivals": 0.7,
+    "foodCulinary": 0.3,
+    "wellnessRelaxation": 0.45,
+    "natureScenic": 0.85,
+    "urbanExploration": 0.75,
+    "techInnovation": 0.35,
+    "sportsActive": 0.5,
+    "luxuryTravel": 0.3
+  },
+  "latentTraits": {
+    "curiosity": 0.9,
+    "socialEnergy": 0.55,
+    "intensity": 0.7,
+    "aestheticSensitivity": 0.8,
+    "natureAffinity": 0.8,
+    "culturalDepth": 0.85,
+    "festivalAffinity": 0.6,
+    "planningStyle": "flexible"
+  },
+  "budget": {
+    "explicit": {
+      "level": null,
+      "perDayMin": null,
+      "perDayMax": null,
+      "currency": null
+    },
+    "inferred": {
+      "score": 0.6,
+      "confidence": 0.4
+    },
+    "final": {
+      "score": 0.6,
+      "level": "mid"
+    }
+  },
+  "interests": [
+    {
+      "id": "nature-hiking-islands",
+      "label": "Nature – laurel forests, volcanoes, alpine vistas",
+      "description": "Dramatic island topography, cloud forests, geothermal pools, and Central/Eastern European alpine day hikes.",
+      "tags": ["laurel forest", "volcano", "hot springs", "miradouro", "alpine hike", "island landscapes"],
+      "macroFocus": ["adventureOutdoor", "natureScenic", "wellnessRelaxation"],
+      "preferredFormats": ["self-guided day hikes", "scenic viewpoints", "thermal baths", "sunrise/sunset sessions", "guided nature walks"],
+      "weight": 0.9
+    },
+    {
+      "id": "history-museums-memory",
+      "label": "Knowledge / History – memory culture, arms & armor, Egyptology",
+      "description": "Sites of memory, national history museums, fortresses, and rigorous, context-rich tours and exhibits.",
+      "tags": ["memorials", "national museums", "arms & armor", "archaeology", "Egypt"],
+      "macroFocus": ["cultureArt", "urbanExploration"],
+      "preferredFormats": ["curated museum routes", "audio guides", "walking history tours", "fortress visits"],
+      "weight": 0.85
+    },
+    {
+      "id": "urbanism-architecture-nights",
+      "label": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+      "description": "Photogenic creative districts, diverse architecture, and street-level city exploration with an urbanist lens.",
+      "tags": ["waterfront renewal", "creative districts", "night photography", "architecture"],
+      "macroFocus": ["urbanExploration", "cultureArt", "nightlifeFestivals"],
+      "preferredFormats": ["evening photo walks", "architecture tours", "creative district hops", "ferry/riverfront loops"],
+      "weight": 0.75
+    },
+    {
+      "id": "nightlife-techno-dnb",
+      "label": "Nightlife – hard techno, drum & bass, carnival energy",
+      "description": "Bass-heavy underground nights and festival vibes; industrial/acid techno and DnB rooms over mainstream pop.",
+      "tags": ["hard techno", "industrial", "acid", "drum & bass", "warehouse"],
+      "macroFocus": ["nightlifeFestivals"],
+      "preferredFormats": ["underground clubs", "festival afterparties", "DnB events", "street parades"],
+      "weight": 0.7
+    },
+    {
+      "id": "medieval-castles-reenactment",
+      "label": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+      "description": "Castle circuits, living history, and weaponry exhibits rooted in RPG and strategy-game tastes.",
+      "tags": ["castles", "reenactment", "blacksmithing", "arms & armor"],
+      "macroFocus": ["cultureArt", "urbanExploration"],
+      "preferredFormats": ["castle tours", "living history museums", "medieval fairs", "weaponry exhibitions"],
+      "weight": 0.65
+    },
+    {
+      "id": "tropics-islands-beach",
+      "label": "Tropics & Islands – playful beach escapes",
+      "description": "Occasional warm-water getaways with snorkeling, catamarans, and beach clubs.",
+      "tags": ["snorkeling", "catamaran", "beach club", "tropical"],
+      "macroFocus": ["wellnessRelaxation", "natureScenic", "nightlifeFestivals"],
+      "preferredFormats": ["day passes to private beaches", "snorkel trips", "catamaran sails", "casual beach clubs"],
+      "weight": 0.55
+    },
+    {
+      "id": "food-local-cuisine",
+      "label": "Food & Dining – local specialties, authentic eateries",
+      "description": "Local cuisine exploration, traditional dishes, street food, markets, and neighborhood restaurants where locals actually eat.",
+      "tags": ["local cuisine", "street food", "traditional dishes", "cafes", "restaurants", "markets", "breakfast", "lunch", "dinner"],
+      "macroFocus": ["foodCulinary", "urbanExploration"],
+      "preferredFormats": ["local restaurants", "food markets", "street food tours", "traditional cafes", "neighborhood joints"],
+      "weight": 0.75
+    }
+  ],
+  "trip": {
+    "city": null,
+    "country": null,
+    "startDate": null,
+    "endDate": null,
+    "notes": null,
+    "hardConstraints": {
+      "radiusKm": null,
+      "mustBeLocal": null,
+      "excludeTouristTraps": null,
+      "timeOfDay": ["morning", "afternoon", "evening", "night"],
+      "daysOfWeekPriority": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    }
+  },
+  "outputPreferences": {
+    "deliverableFormat": "markdown",
+    "maxEventsPerInterest": 5,
+    "includeDebugInfo": false
+  }
+}

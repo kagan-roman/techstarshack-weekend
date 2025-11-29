@@ -1,0 +1,290 @@
+[
+  {
+    "type": "event",
+    "id": "tll-2025-12-05-hall-cu-kontrast",
+    "title": "CU Showcase x kontrast - HALL x SVE x culture unseen",
+    "description": "Mini-festival night bridging experimental live sets and late-night techno across multiple stages at Tallinn’s underground institution HALL.",
+    "startDateTime": "2025-12-05T19:00:00+02:00",
+    "endDateTime": "2025-12-06T06:00:00+02:00",
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10411 Tallinn, Estonia",
+      "neighborhood": "Põhja-Tallinn"
+    },
+    "categories": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "underground"
+    ],
+    "tags": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "warehouse",
+      "multi-room"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2266146",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://fienta.com/cu-showcase-x-kontrast-hall-x-sve-x-culture-unseen",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://gateme.com/halltallinn/",
+        "name": "GateMe (venue/ticketing)",
+        "sourceType": "regional"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tiered presale on Fienta; check link for current price"
+    },
+    "touristTrap": 45,
+    "confidence": 0.82
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-hall-isola-ix",
+    "title": "ISOLA IX invites: SPACE SERIES x CHAMI & D-LERIA",
+    "description": "Nine-year celebration of ISOLA — vinyl-forward, performance-driven techno night at HALL with guests Space Series, CHAMI and D-LERIA.",
+    "startDateTime": "2025-12-12T23:59:00+02:00",
+    "endDateTime": "2025-12-13T08:00:00+02:00",
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10411 Tallinn, Estonia",
+      "neighborhood": "Põhja-Tallinn"
+    },
+    "categories": [
+      "hard techno",
+      "industrial",
+      "acid",
+      "underground"
+    ],
+    "tags": [
+      "hard techno",
+      "industrial",
+      "vinyl",
+      "live",
+      "warehouse"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2313947",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/",
+        "name": "Facebook event",
+        "sourceType": "community"
+      },
+      {
+        "url": "https://www.instagram.com/halltallinn/reel/DRhnkQqCM3y/",
+        "name": "Instagram promo",
+        "sourceType": "community"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tickets via RA/Fienta per links in event feed; tiers vary"
+    },
+    "touristTrap": 40,
+    "confidence": 0.86
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-rawest-twisted-xmas",
+    "title": "RAWEST presents: TWISTED CHRISTMAS Vol.5",
+    "description": "Local hard dance crew RAWEST takes over Club NINE for a bass-heavy Christmas special spanning hardstyle, rawstyle and hardcore.",
+    "startDateTime": "2025-12-12T23:00:00+02:00",
+    "endDateTime": "2025-12-13T06:00:00+02:00",
+    "venue": {
+      "name": "Club NINE",
+      "address": "Tulika 9/11, 10613 Tallinn, Estonia",
+      "neighborhood": "Kristiine"
+    },
+    "categories": [
+      "hard dance",
+      "hardcore",
+      "bass"
+    ],
+    "tags": [
+      "hardstyle",
+      "rawstyle",
+      "hardcore",
+      "bass",
+      "warehouse"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2301795",
+        "name": "Resident Advisor (event listing)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.ticketer.ee/rawest-twisted-christmas-5/",
+        "name": "Ticketer (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://allevents.in/tallinn/rawest-presents-twisted-christmas-vol5/200029067443655",
+        "name": "AllEvents (listing)",
+        "sourceType": "regional"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et",
+      "ru"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "Tickets via Ticketer; tiers on sale"
+    },
+    "touristTrap": 50,
+    "confidence": 0.8
+  },
+  {
+    "type": "event",
+    "id": "tll-2025-12-12-ame-golden-gate",
+    "title": "Âme @ Golden Gate (Rotermann one-night warehouse)",
+    "description": "Innervisions’ Âme plays a one-night transformation of Rotermann’s Golden Gate parking level into a large-scale dancefloor — site-specific industrial vibes.",
+    "startDateTime": "2025-12-12T23:00:00+02:00",
+    "endDateTime": "2025-12-13T05:30:00+02:00",
+    "venue": {
+      "name": "Golden Gate (Rotermann)",
+      "address": "Ahtri 6, 10151 Tallinn, Estonia",
+      "neighborhood": "Rotermanni"
+    },
+    "categories": [
+      "techno",
+      "house",
+      "club night"
+    ],
+    "tags": [
+      "warehouse",
+      "industrial",
+      "one-off",
+      "innervisions"
+    ],
+    "sources": [
+      {
+        "url": "https://fienta.com/ame",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.bandsintown.com/e/107637291-ame-at-golden-gate",
+        "name": "Bandsintown (listing)",
+        "sourceType": "national"
+      },
+      {
+        "url": "https://www.instagram.com/reel/DQ_27EADG3x/",
+        "name": "Instagram promo (Movements Events)",
+        "sourceType": "community"
+      }
+    ],
+    "languageSupport": [
+      "en",
+      "et"
+    ],
+    "price": {
+      "currency": "EUR",
+      "note": "30–70 EUR tiers on Fienta (Regular, Final, VIP)"
+    },
+    "touristTrap": 55,
+    "confidence": 0.83
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-hall",
+    "title": "HALL",
+    "description": "Tallinn’s core underground techno stronghold and homebase for vinyl-forward, industrial/acid-leaning series like ISOLA; multi-room warehouse club on the water.",
+    "operatingHours": {
+      "summary": "Event-based; typical Fri/Sat 23:59–late; check event pages for hours"
+    },
+    "address": "Peetri 6, 10411 Tallinn, Estonia",
+    "neighborhood": "Põhja-Tallinn",
+    "uniquenessReason": "Irreplaceable nucleus of Tallinn’s underground techno scene with resident series (ISOLA) and a raw industrial setting not replicable elsewhere in the city.",
+    "fitReason": "Consistent hard/industrial/acid techno bookings and late sessions align directly with bass-heavy, warehouse preferences.",
+    "touristTrap": 40,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "name": "HALL Facebook",
+        "sourceType": "community"
+      },
+      {
+        "url": "https://ra.co/clubs/149915",
+        "name": "HALL on Resident Advisor",
+        "sourceType": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-club-nine",
+    "title": "Club NINE (Tulika 9/11)",
+    "description": "Legacy warehouse-style venue carrying the energy of Tallinn’s 9/11-era underground; home to local hard dance and bass crews like RAWEST.",
+    "operatingHours": {
+      "summary": "Event-based; typical party nights 23:00–06:00"
+    },
+    "address": "Tulika 9/11, 10613 Tallinn, Estonia",
+    "neighborhood": "Kristiine",
+    "uniquenessReason": "Continuation of Tallinn’s raw, industrial club lineage with locally-driven hardstyle/raw/hardcore programming.",
+    "fitReason": "Delivers bass-heavy, high-intensity nights and carnival-level energy through hard dance lineups.",
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://ra.co/venues/102008",
+        "name": "Club NINE on Resident Advisor",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://ra.co/events/2301795",
+        "name": "RAWEST event on RA",
+        "sourceType": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-tll-golden-gate",
+    "title": "Golden Gate (Rotermann, site-specific party space)",
+    "description": "Rotermann Quarter’s Golden Gate building — temporarily converted into a large-scale dancefloor for the Âme night; a rare one-off industrial event setup.",
+    "operatingHours": {
+      "summary": "Not a regular club; opens for the Âme event 23:00–05:30 on Dec 12 only"
+    },
+    "address": "Ahtri 6, 10151 Tallinn, Estonia",
+    "neighborhood": "Rotermanni",
+    "uniquenessReason": "One-night-only transformation of a new landmark’s parking level into an industrial club environment — not a repeatable tourist experience.",
+    "fitReason": "Warehouse/industrial setting and headliner techno aesthetic fit the interest’s ‘underground clubs’ and ‘festival afterparty’ vibe.",
+    "touristTrap": 55,
+    "sources": [
+      {
+        "url": "https://fienta.com/ame",
+        "name": "Fienta (tickets)",
+        "sourceType": "regional"
+      },
+      {
+        "url": "https://www.instagram.com/reel/DQ_27EADG3x/",
+        "name": "Instagram promo",
+        "sourceType": "community"
+      }
+    ]
+  }
+]

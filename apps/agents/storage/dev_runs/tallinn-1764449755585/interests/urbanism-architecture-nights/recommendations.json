@@ -1,0 +1,80 @@
+[
+  {
+    "type": "location",
+    "id": "estonian-architecture-museum-rotermann",
+    "title": "Estonian Museum of Architecture (Rotermann Salt Storage)",
+    "description": "Tallinn’s architecture hub housed in the monumental 1908 Rotermann Salt Storage—an industrial brick landmark anchoring the Rotermann regeneration between the harbour and Old Town.",
+    "interestId": "urbanism-architecture-nights",
+    "venue": "Estonian Museum of Architecture",
+    "address": "Ahtri 2, 10151 Tallinn, Estonia",
+    "operatingHours": {
+      "summary": "Tue–Sun 11:00–18:00, Mon closed",
+      "details": {
+        "monday": "closed",
+        "tuesday": "11:00–18:00",
+        "wednesday": "11:00–18:00",
+        "thursday": "11:00–18:00",
+        "friday": "11:00–18:00",
+        "saturday": "11:00–18:00",
+        "sunday": "11:00–18:00"
+      }
+    },
+    "uniquenessReason": "Rotermann’s Salt Storage is a rare early-20th‑century industrial complex repurposed as Estonia’s national architecture museum—only here will you see the country’s architectural models and archives inside this flagship conversion.",
+    "locationCategory": "museum",
+    "bestTimeToVisit": "Late afternoon for interior light; then blue-hour shots across Rotermann lanes.",
+    "seasonalNotes": "No late Thursdays in winter (extended hours only May–Sept).",
+    "matchReason": "Combines industrial heritage and contemporary urban renewal—prime for an urbanist photo walk and context-rich exhibits.",
+    "vibe": "industrial heritage, scholarly, design-forward",
+    "priceHint": "mid",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "label": "Official site – Museum info",
+        "url": "https://www.arhitektuurimuuseum.ee/eng/the-museum/"
+      },
+      {
+        "label": "Official site footer – hours/address",
+        "url": "https://www.arhitektuurimuuseum.ee/eng/product/rotermanni-soolalao-portselankruus/"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kai-art-center-noblessner",
+    "title": "Kai Art Center (Noblessner waterfront)",
+    "description": "Contemporary art centre in a former submarine factory at Noblessner—anchors a photogenic waterfront cluster (HALL, PROTO, Põhjala Tap Room) with cinema and exhibitions.",
+    "interestId": "urbanism-architecture-nights",
+    "venue": "Kai Art Center",
+    "address": "Peetri 12, 10415 Tallinn, Estonia",
+    "operatingHours": {
+      "summary": "Wed–Sun 12:00–18:00, Mon–Tue closed",
+      "details": {
+        "monday": "closed",
+        "tuesday": "closed",
+        "wednesday": "12:00–18:00",
+        "thursday": "12:00–18:00",
+        "friday": "12:00–18:00",
+        "saturday": "12:00–18:00",
+        "sunday": "12:00–18:00"
+      }
+    },
+    "uniquenessReason": "A flagship of Tallinn’s Noblessner waterfront regeneration—post‑industrial halls reimagined as a contemporary art and cinema hub right on the quay.",
+    "locationCategory": "art centre",
+    "bestTimeToVisit": "Arrive before sunset, then shoot blue hour across Noblessner piers and facades.",
+    "seasonalNotes": "Winter exhibitions continue; check on-site cinema for evening screenings.",
+    "matchReason": "You wanted regenerated waterfronts and night cityscapes—Kai’s setting plus Noblessner’s lighting creates ideal evening photography conditions.",
+    "vibe": "waterfront, contemporary, adaptive reuse",
+    "priceHint": "mid",
+    "touristTrap": 65,
+    "sources": [
+      {
+        "label": "Noblessner – Kai page",
+        "url": "https://noblessner.ee/en/kai-art-centre/"
+      },
+      {
+        "label": "Kai calendar (exhibitions in Nov/Dec)",
+        "url": "https://www.kai.center/en/calendar"
+      }
+    ]
+  }
+]

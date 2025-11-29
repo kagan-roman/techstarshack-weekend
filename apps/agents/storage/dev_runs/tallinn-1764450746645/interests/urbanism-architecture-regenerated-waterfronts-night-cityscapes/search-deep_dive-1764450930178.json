@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "deep_dive",
+  "query": "Kultuurikatel events December 2025 Tallinn Creative Hub joul turg disainiturg",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "Kultuurikatel events December 2025 Tallinn Creative Hub joul turg disainiturg",
+    "timestamp": "2025-11-29T21:15:30.177Z",
+    "results": [
+      {
+        "url": "https://kultuurikatel.ee/en/events/eesti-disainikeskuse-disainiturg/",
+        "title": "Design Market - Tallinn Creative Hub",
+        "content": "The market, which takes place at Kultuurikatel, features clothing, accessories, bags, ceramics, home furnishings, illustrations, eco-cosmetics, textiles,",
+        "score": 0.6238588
+      },
+      {
+        "url": "https://allevents.in/tallinn/december",
+        "title": "Events & Things To Do in Tallinn in December 2025",
+        "content": "Find events and things to do in december 2025 in Tallinn. Discover parties, concerts, meets,shows, sports, club, reunion, Performance happening in 2025 in",
+        "score": 0.61279696
+      },
+      {
+        "url": "https://expotobi.com/region/tallinn/sector/culture-arts-crafts",
+        "title": "Culture, Arts & Crafts events in Tallinn 2025-2026",
+        "content": "Culture, Arts & Crafts events Tallinn 2025-2026 · Online Events · All · Exhibitions · Сonferences · Forums · Seminars · Festivals.",
+        "score": 0.58123237
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=WrgGnZFjwLE",
+        "title": "Tallinn Creative Hub (Kultuurikatel) - a meeting place for ideas",
+        "content": "Tallinn is a perfect destination for conferences and events, starting from the welcoming and close-by Tallinn Airport, and continuing with",
+        "score": 0.4882108
+      },
+      {
+        "url": "https://www.facebook.com/72956099103/photos/10153116079039104/",
+        "title": "Tallinn Creative Hub, photo by Toomas Tuul.",
+        "content": "2025 - 20.09.2025, Tallinn Creative Hub (Kultuurikatel) The largest tattoo and lifestyle festival in the Baltics returns! Street Mirror Expo",
+        "score": 0.4874788
+      },
+      {
+        "url": "https://kultuurikatel.ee/en/events/",
+        "title": "Events - Tallinn Creative Hub",
+        "content": "Events ; 01.11. · Hospitality Estonia 2025 ; 02.11. · Candlelight® concerts ; 06.11. · Telia Digital Hub ; 08.11 - · J-TSOON: BURNING PUMPKIN FEST ; 09.11. · The",
+        "score": 0.4457955
+      }
+    ]
+  }
+}

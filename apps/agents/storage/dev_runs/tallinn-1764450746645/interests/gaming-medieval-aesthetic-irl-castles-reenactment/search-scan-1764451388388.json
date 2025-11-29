@@ -1,0 +1,12 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "Tallinn medieval tours bastion passages Kiek in de K\u0014dk December 2025 schedule site:muuseumikaart.ee OR site:linnamuuseum.ee OR site:kiekindekok.ee",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Tallinn medieval tours bastion passages Kiek in de K\u0014dk December 2025 schedule site:muuseumikaart.ee OR site:linnamuuseum.ee OR site:kiekindekok.ee",
+    "timestamp": "2025-11-29T21:23:08.387Z",
+    "results": []
+  }
+}

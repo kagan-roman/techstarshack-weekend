@@ -1,0 +1,31 @@
+{
+  "query": "Devojački grob hike Kopaonik Serbia",
+  "context": "Disambiguate 'Devojacki Grob' from instagram blob-1 as a hiking spot/peak near Kopaonik, Serbia.",
+  "timestamp": "2025-11-29T14:43:41.877Z",
+  "results": [
+    {
+      "url": "https://explore-serbia.rs/en/tours-2/suva-planina-ascend-to-trem/",
+      "title": "Suva Planina-ascend to the peak Trem - Explore Serbia",
+      "content": "We start our hike at Bojanine Vode at 864 m. The initial part of the trail is a climb through a fairy-tale forest until you reach the pass Devojački Grob at",
+      "score": 0.6455898
+    },
+    {
+      "url": "https://www.alltrails.com/poi/serbia/nisava/donji-dusnik/devojacki-grob",
+      "title": "Best trails near Devojački grob - AllTrails",
+      "content": "According to users from AllTrails.com, the best place to hike near Devojački grob is Trem Summit, which has a 4.9 star rating from 64 reviews. This trail is 8.9",
+      "score": 0.5951402
+    },
+    {
+      "url": "https://www.wikiloc.com/hiking-trails/kopaonik-djacki-grob-52732576",
+      "title": "Kopaonik - Djacki grob Trail - Wikiloc",
+      "content": "Trail stats ; Max elevation: 5,653 ft ; TrailRank: 30 ; Min elevation: 4,922 ft ; Trail type: Loop ; Moving time: 2 hours 39 minutes.",
+      "score": 0.57952
+    },
+    {
+      "url": "https://www.komoot.com/guide/3246444/hiking-in-srp-suva-planina",
+      "title": "Top 9 Hikes and Walks in Срп Сува Планина - Komoot",
+      "content": "5. Devojački Grob – Trem Trail Junction loop from Горња Студена ... Expert hike. Very good fitness required. Easily-accessible paths. Suitable for all skill",
+      "score": 0.5683445
+    }
+  ]
+}

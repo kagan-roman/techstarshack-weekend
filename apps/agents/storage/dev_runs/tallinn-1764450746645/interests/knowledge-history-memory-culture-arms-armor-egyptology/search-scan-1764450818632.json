@@ -1,0 +1,49 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "scan",
+  "query": "Vabamu Museum of Occupations events December 2025 Tallinn detsember 2025 sündmused Vabamu",
+  "payload": {
+    "localeHint": "en+et+ru",
+    "intent": "scan",
+    "query": "Vabamu Museum of Occupations events December 2025 Tallinn detsember 2025 sündmused Vabamu",
+    "timestamp": "2025-11-29T21:13:38.631Z",
+    "results": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d281978-Reviews-Vabamu_Museum_of_Occupations_and_Freedom-Tallinn_Harju_County.html",
+        "title": "Vabamu Museum of Occupations and Freedom (2025) - Tripadvisor",
+        "content": "Vabamu Museum of Occupations and Freedom is situated in the center of Tallinn. Its permanent exhibition, 'Freedom without Borders', showcases Estonia's recent",
+        "score": 0.58948064
+      },
+      {
+        "url": "https://muuseumikaart.ee/en/museums/the-vabamu-museum-of-occupations-and-freedom/",
+        "title": "The Vabamu Museum of Occupations and Freedom - Muuseumikaart",
+        "content": "Vabamu, the Museum of Occupations and Freedom, located in the heart of Tallinn, presents the recent history of Estonia during and after the occupations.",
+        "score": 0.56200886
+      },
+      {
+        "url": "https://whichmuseum.com/museum/vabamu-museum-of-occupations-and-freedom-tallinn-7558",
+        "title": "Vabamu Museum of Occupations and Freedom (Tallinn)",
+        "content": "The Vabamu Museum focuses on Estonia's history during Soviet and Nazi occupations, and its path to independence, with modern, interactive exhibits.",
+        "score": 0.53488034
+      },
+      {
+        "url": "https://vabamu.ee/en/visit-us/",
+        "title": "Vabamu | Visit us",
+        "content": "All events calendar · News · Support The Museum · About us · Team ... Vabamu has two museums: Vabamu Museum of Occupations and Freedom and the KGB Prison Cells.",
+        "score": 0.5271467
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vabamu_Museum_of_Occupations_and_Freedom",
+        "title": "Vabamu Museum of Occupations and Freedom - Wikipedia",
+        "content": "The Vabamu or Vabamu Museum of Occupations and Freedom tells the history of Estonia during and after the Soviet and Nazi occupations, arriving at the era of",
+        "score": 0.49157855
+      },
+      {
+        "url": "https://vabamu.ee/en/all-events-calendar/",
+        "title": "All events calendar - Vabamu",
+        "content": "Saturday. Sunday. 27. 28. 29. 30. 31. 01. 02. Palestine Cinema Days in Vabamu. Documentary “A State of Passion” by Carol Mansour ja Muna Khalidi.",
+        "score": 0.48952848
+      }
+    ]
+  }
+}

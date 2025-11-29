@@ -1,0 +1,49 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "deep_dive",
+  "query": "Resident Advisor Tallinn events December 2025",
+  "payload": {
+    "localeHint": "en",
+    "intent": "deep_dive",
+    "query": "Resident Advisor Tallinn events December 2025",
+    "timestamp": "2025-11-29T21:23:21.407Z",
+    "results": [
+      {
+        "url": "https://de.ra.co/events/2313947",
+        "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria bei Hall, Tallinn",
+        "content": "Fri, 12 Dec 2025. Line-Up: D-Leria, Chami, Labrighli, Katja Adrikova, FAKIGN. Holen Sie sich Ihre Tickets bei RA.",
+        "score": 0.83093774
+      },
+      {
+        "url": "https://ra.co/events/2300383",
+        "title": "TWILIGHT RAVE - 20th Anniversay Celebration (Tallinn)",
+        "content": "TWILIGHT RAVE - 20th Anniversay Celebration (Tallinn) · Venue. Club Privé. Harju 6 (Old Town); Tallinn; Estonia · Date. Sat, 6 Dec 2025. 23:00 - 04:00 · Promoter.",
+        "score": 0.6188962
+      },
+      {
+        "url": "https://ra.co/events/2266146?sharedId=&subId1=&subId3=2QOdDDdHKt0kxcNme35qTN&partnerId=residentadvisor",
+        "title": "CU Showcase x kontrast - Hall x SVE x culture unseen",
+        "content": "Fri, 5 Dec 2025. Line-Up: Rome In Reverse, lego, Gusted, Merimell, Motobor, Katja Adrikova & More. Get Your Tickets On RA.",
+        "score": 0.5849357
+      },
+      {
+        "url": "https://ra.co/events/2301795",
+        "title": "RAWEST PRESENTS: TWISTED CHRISTMAS VOL.5 at Club.Nine ...",
+        "content": "RAWEST PRESENTS: TWISTED CHRISTMAS VOL.5 · Venue. Club.Nine. Tulika St 9/11, 10613 Tallinn, Estonia · Date. Fri, 12 Dec 2025. 23:00 - 06:00.",
+        "score": 0.5201313
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn?startDate=2025-12-13",
+        "title": "Events · Tallinn RA - Resident Advisor",
+        "content": "Discover upcoming electronic music events in Tallinn and get your tickets on RA.",
+        "score": 0.45449692
+      },
+      {
+        "url": "https://ra.co/events/ee/all",
+        "title": "Upcoming Events in Estonia · Get Your Tickets On RA",
+        "content": "Popular ; TWILIGHT RAVE - 20th Anniversay Celebration (Tallinn) · Club Privé · 6 ; Bar IDA: Maa-alune with Yasmine (UK) · Bar IDA. 5 ; HITS OF DECADES · TBA - Venus",
+        "score": 0.43698296
+      }
+    ]
+  }
+}

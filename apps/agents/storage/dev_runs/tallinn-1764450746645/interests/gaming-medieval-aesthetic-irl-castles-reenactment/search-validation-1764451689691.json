@@ -1,0 +1,12 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "validation",
+  "query": "Kiek in de K\u0015fk lahtiolekuajad detsember 2025 Bastionik\u0000e4igud giidituur lahtiolekuajad site:kiekindekok.ee OR site:linnamuuseum.ee Hellemann torn linnam\u0000fcer lahtiolekuajad talv 2025 Tallinn",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "validation",
+    "query": "Kiek in de K\u0015fk lahtiolekuajad detsember 2025 Bastionik\u0000e4igud giidituur lahtiolekuajad site:kiekindekok.ee OR site:linnamuuseum.ee Hellemann torn linnam\u0000fcer lahtiolekuajad talv 2025 Tallinn",
+    "timestamp": "2025-11-29T21:28:09.691Z",
+    "results": []
+  }
+}

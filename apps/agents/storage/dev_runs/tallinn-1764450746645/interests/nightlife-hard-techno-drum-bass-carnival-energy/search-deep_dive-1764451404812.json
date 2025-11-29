@@ -1,0 +1,50 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "deep_dive",
+  "query": "Selecta Tallinn drum & bass December 2025 | Selecta DNB Tallinn detsember 2025 Helitehas",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "Selecta Tallinn drum & bass December 2025 | Selecta DNB Tallinn detsember 2025 Helitehas",
+    "timestamp": "2025-11-29T21:23:24.811Z",
+    "results": [
+      {
+        "title": "Selecta - Find a distributor",
+        "url": "https://distributors.selectainc.com/",
+        "content": "Looking for a Selecta authorized distributor? Enter Address or Zip Code: Locate distributors",
+        "score": 0.07964606
+      },
+      {
+        "title": "Selecta Products Inc.",
+        "url": "https://www.selectainc.com/default.aspx?page=home",
+        "content": "SELECTA is ‘your one source solution’ for well-known, Top-quality Brands for the Electrical Distributor. SELECTA allows you to place multiple brands of products on one purchase order, …",
+        "score": 0.07015732
+      },
+      {
+        "title": "Selecta Products Inc.",
+        "url": "https://selectainc.com/default.aspx?Page=Contact+Us",
+        "content": "Home >> Contact Us Ask us questions about manufacturers, products or any other area that you would like to receive information about. If there is anything that you would like to see on this site, …",
+        "score": 0.0685688
+      },
+      {
+        "title": "Selecta Products Inc.",
+        "url": "https://selectainc.com/default.aspx?page=customer&file=customer/seswit/customerpages/products.html",
+        "content": "Explore a wide range of top-quality electrical products and solutions offered by Selecta Products Inc. for various applications.",
+        "score": 0.050410144
+      },
+      {
+        "title": "Selecta Products Inc.",
+        "url": "https://www.selectainc.com/Default.aspx?page=category",
+        "content": "Home Products Literature/Resources About Us Contact UsLogon Register",
+        "score": 0.047998354
+      },
+      {
+        "title": "PUSHBUTTON SWITCHES - Selecta",
+        "url": "https://selectainc.com/Customer/SESWIT/specpages/Selecta_Switch_Cat_P5.PDF",
+        "content": ".900”W .561” .415” 15/32-32 TPI .925” .660” .406” .524” Mounting Hole: .50” Dia. .542” .562” .44” 15/32-32 TPI 1.305” .406” .406” .524” Mounting Hole: .50” Dia. .542” .562” .44” 6” Wire leads 15/32-32 TPI 1.183” max .640” Mounting Hole: .50” Dia. .615” .561” .405” 15/32-32 TPI 6” Wire leads .980” Mounting Hole: .50” Dia. .604”W .576” .562” .32” 1.382” .345” 15/32 – 32 TPI Mounting Hole: .50” Dia. .900”W .561” .415” 15/32-32 TPI .925” .406” .660” Mounting Hole: .50” Dia. .604”W .576” .562” .24” 1.382” .345” 15/32 – 32 TPI Mounting Hole: .50” Dia. .900”W .561” .415” .406” 15/32-32 TPI .925” .660” Mounting Hole: .38” Dia.",
+        "score": 0.042439613,
+        "raw_content": "PUSHBUTTON SWITCHES PUSHBUTTON SWITCHES NOMINAL RATING CATALOG NUMBER POLES & CIRCUIT AMPS AMPS H.P. ACTUATOR ACTUATOR TERMINATION MOUNTING FIG. THROWS FUNCTIONS 125- STYLE MATERIAL TYPE HOLE NO. 125 250 250 DIAMETER VAC VAC VAC SPST PUSH ON-PUSH OFF 3† STRAIGHT NYLON WIRE .38” SS103-BG 1 SPST PUSH ON-PUSH OFF 6‡ 3 STRAIGHT BRASS/BRONZE WIRE .39” SS104-BG 2 SPST PUSH ON-PUSH OFF 6* 3* CAP BRASS/NICKEL SCREW .50” SS216-11-BG 3 SPST PUSH ON-PUSH OFF 6* 3* CAP BRASS/NICKEL WIRE .50” SS215-10-BG 4 SPST PUSH ON-PUSH OFF 8^* 4* 1/ 3 @ 125 CAP NYLON WIRE .50” SS105-BG 5 SPST PUSH ON-PUSH OFF 15 10 CAP BRASS/NICKEL SCREW .50” SS224-BG 6 SPDT PUSH ON-PUSH ON 15 10 CAP BRASS/NICKEL SCREW .50” SS223S-BG 7 SPST N.O. OFF-(ON) 3/ 4* 1/ 4* STRAIGHT NYLON SCREW .50” SS213-13-BG 8 SPST N.O. OFF-(ON) 3† STRAIGHT NYLON WIRE .38” SS101-BG 9 SPST N.O. OFF-(ON) 15 10 CAP BRASS/NICKEL SCREW .50” SS228-BG 10 SPST N.O. OFF-(ON) 15 10 CAP BRASS/NICKEL .250” SPADE .50” SS232P-BG 11 SPST N.C. ON-(OFF) 3/ 4* 1/ 4* STRAIGHT NYLON SCREW .50” SS214-14-BG 8 SPST N.C. ON-(OFF) 3† STRAIGHT NYLON WIRE .38” SS102-BG 12 SPST N.C. ON-(OFF) 6* 3* CAP BRASS/NICKEL WIRE .50” SS233W-BG 13 SPST N.C. ON-(OFF) 15 10 CAP BRASS/NICKEL SCREW .50” SS229-BG 14 NOMINAL RATING AMPS AMPS H.P. 125- 125 250 250 VAC VAC VAC 3† 6‡ 3 6* 3* 6* 3* 8^* 4* 1/ 1 3 / @ 125 15 10 15 10 3/ 3 4 /* 4 1/ 1 4 /* 4 3† 15 10 15 10 3/ 3 4 /* 4 1/ 1 4 /* 4 3† 6* 3* 15 10 † Rated 3 Amps Inductive 125 VAC; 2 Amps, 125VAC-L ‡ Also rated 3 Amps 125VAC-L *Stated Amperage and voltage also valid for D.C. Rating ^ Also rated 10 Amps 125 VAC CATALOG NUMBER SS103-BG SS104-BG SS216-11-BG SS215-10-BG SS105-BG SS224-BG SS223S-BG SS213-13-BG SS101-BG SS228-BG SS232P-BG SS214-14-BG SS102-BG SS233W-BG SS229-BG continued on page 2 Mounting Hole: .50” Dia.\n.900”W .561” .415” 15/32-32 TPI .925” .660” .406” .524” Mounting Hole: .50” Dia.\n.542” .562” .44” 15/32-32 TPI 1.305” .406” .406” .524” Mounting Hole: .50” Dia.\n.542” .562” .44” 6” Wire leads 15/32-32 TPI 1.183” max .640” Mounting Hole: .50” Dia.\n.615” .561” .405” 15/32-32 TPI 6” Wire leads .980” Mounting Hole: .50” Dia.\n.604”W .576” .562” .32” 1.382” .345” 15/32 – 32 TPI Mounting Hole: .50” Dia.\n.900”W .561” .415” 15/32-32 TPI .925” .406” .660” Mounting Hole: .50” Dia.\n.468” 1.093”W .656” .375” A / .406” B .31” Dia.\nSS213-13-BG = A SS214-14-BG = B Mounting Hole: .38” Dia.\n.660” 530” .333” max .43” .20” max .220” 3/8-27 THC Mounting Hole: .38” Dia.\n4” Wire leads .333” max .43” .220” .660” 530” .20” max 3/8-27 THC .787” Mounting Hole: .39” Dia.\n.354” .375” .355” 3/8-27 UNS 6” Wire leads .906” .220” MAINTAINED CONTACT Fig. 1 Fig. 2 Fig.6 Fig. 5 Fig. 4 Fig. 3 Fig. 7 Fig. 8 Fig. 9 Fig. 10 MOMENTARY CONTACT Mounting Hole: .50” Dia.\n.604”W .576” .562” .24” 1.382” .345” 15/32 – 32 TPI Mounting Hole: .50” Dia.\n.900”W .561” .415” .406” 15/32-32 TPI .925” .660” Mounting Hole: .38” Dia.\n.333” max .43” .220” .660” 530” .20” max 3/8-27 THC Mounting Hole: .50” Dia.\n.542” .524” .562” .44” 15/32-32 TPI 1.183” max .406” Fig. 11 Fig. 12 Fig. 13 Fig. 14 All speciﬁcations and dimensions are for reference only. If speciﬁc information is needed and/or of critical nature, contact Selecta Products headquarters for speciﬁc information before ordering.\nSELECTA PRODUCTS, INC. • Tehachapi, CA • Memphis, TN • Bristol, CT • 800-722-6445 • 800-433-4319 FAX • www.selectaproductsinc.com 5 \u0002 Switch height measurement in Figures above, includes body and terminals combined"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "query": "Noblessner district location and description",
+  "context": "Instagram location tag 'Noblessner' appears among travel posts. Verify what and where Noblessner is.",
+  "timestamp": "2025-11-29T14:23:56.246Z",
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Noblessner",
+      "title": "Noblessner - Wikipedia",
+      "content": "Noblessner is a harbour and former industrial area in the northern district of Tallinn, Estonia. Since 2013 it has been redeveloped into a cultural and",
+      "score": 0.8679453
+    },
+    {
+      "url": "https://mapcarta.com/W813621272",
+      "title": "Noblessner Marina - Harju, Estonia - Mapcarta",
+      "content": "Noblessner is a harbour and former industrial area in the northern district of Tallinn, Estonia. Since 2013 it has been redeveloped into a cultural and",
+      "score": 0.8080827
+    },
+    {
+      "url": "https://noblessner.ee/en/",
+      "title": "A versatile port city - Noblessner",
+      "content": "Noblessner is Tallinn's first district that is open to the sea and is very likely to please many people who enjoy life by the sea, close to the city centre.",
+      "score": 0.7898345
+    }
+  ]
+}

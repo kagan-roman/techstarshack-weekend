@@ -1,0 +1,43 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "deep_dive",
+  "query": "RA HALL Tallinn 2025-12-12 ISOLA IX CHAMI D-LERIA tickets",
+  "payload": {
+    "localeHint": "en",
+    "intent": "deep_dive",
+    "query": "RA HALL Tallinn 2025-12-12 ISOLA IX CHAMI D-LERIA tickets",
+    "timestamp": "2025-11-29T20:57:49.294Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/events/peetri-6-10414-tallinn-estonia/isola-ix-invites-space-series-x-chami-x-d-leria/1504584827467535/",
+        "title": "ISOLA IX invites: SPACE SERIES x CHAMI & D-LERIA",
+        "content": "Public · Hosted by HALL, Halal Club and 2 others · Friday, December 12, 2025 at 11:59PM EET · Peetri 6, 10414 Tallinn, Estonia · Tickets.",
+        "score": 0.86441374
+      },
+      {
+        "url": "https://ra.co/events/2313947",
+        "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria",
+        "content": "Fri, 12 Dec 2025. Line-Up: D-Leria, Chami, Labrighli, Katja Adrikova, FAKIGN. Get Your Tickets On RA.",
+        "score": 0.84948516
+      },
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "title": "HALL | Tallinn",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by vinyl,",
+        "score": 0.8332299
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn",
+        "title": "Upcoming Events in Tallinn · Get Your Tickets On RA",
+        "content": "TBA - Venus Club. ̸Fri, 12 Dec. ISOLA IX invites: SPACE SERIES x Chami & D-Leria. ̸. D-Leria, Chami, Labrighli, Katja Adrikova, FAKIGN. Hall · RARA Tickets.",
+        "score": 0.8055255
+      },
+      {
+        "url": "https://ra.co/events/ee/all",
+        "title": "Upcoming Events in Estonia · Get Your Tickets On RA",
+        "content": "TBA - Venus Club. ̸Fri, 12 Dec. ISOLA IX invites: SPACE SERIES x Chami & D-Leria. ̸. D-Leria, Chami, Labrighli, Katja Adrikova, FAKIGN. Hall · RARA Tickets.",
+        "score": 0.7763013
+      }
+    ]
+  }
+}

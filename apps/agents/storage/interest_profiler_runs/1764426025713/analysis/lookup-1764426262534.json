@@ -1,0 +1,25 @@
+{
+  "query": "Devojački grob Kopaonik hike location",
+  "context": "Instagram mentions 'Devojacki Grob' near Kopaonik. Verify it is a hiking spot/peak in Serbia.",
+  "timestamp": "2025-11-29T14:24:22.534Z",
+  "results": [
+    {
+      "url": "https://www.wikiloc.com/hiking-trails/kopaonik-djacki-grob-52732576",
+      "title": "Kopaonik - Djacki grob Trail - Wikiloc",
+      "content": "Kopaonik - Djacki grob Hiking trail in Kopaonik, Central Serbia (Serbia). Download its GPS track and follow the itinerary on a map.",
+      "score": 0.8700796
+    },
+    {
+      "url": "https://www.wikiloc.com/hiking-trails/sokolov-kamen-devojacki-grob-61729939",
+      "title": "Sokolov Kamen - Devojacki grob Trail - Wikiloc",
+      "content": "Sokolov Kamen - Devojacki grob Hiking trail in Ćelije, Central Serbia (Serbia). Download its GPS track and follow the itinerary on a map.",
+      "score": 0.7591723
+    },
+    {
+      "url": "https://www.wikiloc.com/hiking-trails/devojacki-grob-from-celije-168783311",
+      "title": "Devojački grob from Ćelije Trail - Wikiloc",
+      "content": "Devojački grob from Ćelije Hiking trail in Ćelije, Central Serbia (Serbia). Download its GPS track and follow the itinerary on a map.",
+      "score": 0.7253574
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "deep_dive",
+  "query": "Telliskivi Christmas market 2025 Tallinn food vendors",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "Telliskivi Christmas market 2025 Tallinn food vendors",
+    "timestamp": "2025-11-29T21:35:06.810Z",
+    "results": [
+      {
+        "url": "https://telliskivi.cc/en/events/telliskivi-creative-city-christmas-market-2025/",
+        "title": "Telliskivi Creative City Christmas Market 2025",
+        "content": "The Christmas market will take place on Saturday, December 20, from 11 am to 5 pm in the Telliskivi Creative City, mainly on the city's shopping streets and in",
+        "score": 0.79958355
+      },
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "title": "Tallinn Christmas Market – 21.11 – 28.12.2025",
+        "content": "Tallinn Christmas Market On 21 November, Town Hall Square in the heart of Tallinn’s medieval Old Town will once again be transformed into a small piece of a Christmas fairy tale: the traditional Tallinn Christmas Market will open its “imaginary gates” for the 25th time. The Tallinn Christmas Market will remain open until the evening of 28 December, but the Christmas fairy tale does not end there: the Christmas tree will stay on Town Hall Square for several more weeks, and the story continues throughout the festively decorated Old Town! #### Christmas Market at the Town Hall Square in Tallinn, 21 November – 28 December 2025",
+        "score": 0.7813477
+      },
+      {
+        "url": "https://www.facebook.com/groups/236576921294199/posts/1399027551715791/",
+        "title": "This year, the Christmas Market will take place from ...",
+        "content": "This year, the Christmas Market will take place from November 21 to December 28, 2025. ✨️ - at Raekoja plats, Tallinn. · May be an image of",
+        "score": 0.72559077
+      },
+      {
+        "url": "https://andrewandkait.com/blogs/tallinn-estonia-christmas-market-guide",
+        "title": "2025 Tallinn Christmas Market Travel Guide - Andrew & Kait",
+        "content": "## **Tallinn Christmas Market Location** As you wander through the enchanting Old Town of Tallinn during the Christmas season, you'll discover that the main Christmas Market unfolds as a captivating centerpiece, radiating festive cheer throughout the historic heart of the city. **Tallinn's Must-Visit Christmas Market - Town Hall Square (Raekoja plats):** It's the central point from which your Tallinn Christmas Market adventure will likely begin and where you'll find the most comprehensive Christmas experience. ## **When Is the Tallinn Christmas Market Open?** ## **Food & Drinks to Try at Tallinn’s Christmas Market** **Glögi (Mulled Wine):** No Christmas market experience is complete without a mug of warm, spiced mulled wine, and Tallinn's glögi is no exception. ## **Where We Stayed for Tallinn’s Christmas Market**",
+        "score": 0.6739866
+      },
+      {
+        "url": "https://heleneinbetween.com/2025/11/ultimate-guide-to-the-tallinn-estonia-christmas-market.html",
+        "title": "Ultimate Guide to the Tallinn, Estonia Christmas Market",
+        "content": "Here, you'll find everything you need to know about visiting the award-winning Tallinn Christmas Market. Tallinn's Christmas Market for 2025 are from November",
+        "score": 0.67347145
+      },
+      {
+        "url": "https://www.mycityhotel.ee/en/what-food-is-served-at-tallinn-christmas-market/",
+        "title": "What food is served at Tallinn Christmas Market?",
+        "content": "Several vendors now specifically cater to plant-based diets with offerings like mushroom-filled pastries, vegetable stews, and bean dishes that provide hearty,",
+        "score": 0.6188962
+      }
+    ]
+  }
+}

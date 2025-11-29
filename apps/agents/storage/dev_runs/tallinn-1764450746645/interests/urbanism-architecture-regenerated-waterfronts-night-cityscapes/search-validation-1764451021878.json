@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "validation",
+  "query": "ISOLA IX HALL Tallinn 12 December 2025 Resident Advisor event time",
+  "payload": {
+    "localeHint": "en",
+    "intent": "validation",
+    "query": "ISOLA IX HALL Tallinn 12 December 2025 Resident Advisor event time",
+    "timestamp": "2025-11-29T21:17:01.877Z",
+    "results": [
+      {
+        "url": "https://ra.co/clubs/140150",
+        "title": "Hall, Tallinn · Upcoming Events & Tickets - Resident Advisor",
+        "content": "16. Fri, 12 Dec. ISOLA IX invites: SPACE SERIES x Chami & D-Leria. ̸. D-Leria ... © 2025 Resident Advisor Ltd. All rights reserved.",
+        "score": 0.84707206
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment",
+        "title": "ISOLA IX invites Space Series - Facebook",
+        "content": "ISOLA IX invites Space Series · Public · Hosted by HALL, Halal Club and 2 others · Friday, December 12, 2025 at 11:59PM EET · Peetri 6, 10414 Tallinn, Estonia.",
+        "score": 0.82994765
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn",
+        "title": "Upcoming Events in Tallinn · Get Your Tickets On RA",
+        "content": "TBA - Venus Club. ̸Fri, 12 Dec. ISOLA IX invites: SPACE SERIES x Chami & D-Leria. ̸. D-Leria, Chami ... © 2025 Resident Advisor Ltd. All rights reserved.",
+        "score": 0.78393924
+      },
+      {
+        "url": "https://ra.co/events/ee/all",
+        "title": "Upcoming Events in Estonia · Get Your Tickets On RA",
+        "content": "TBA - Venus Club. ̸Fri, 12 Dec. ISOLA IX invites: SPACE SERIES x Chami & D-Leria. ̸. D-Leria, Chami ... © 2025 Resident Advisor Ltd. All rights reserved.",
+        "score": 0.75442725
+      },
+      {
+        "url": "https://www.facebook.com/halltallinn/?locale=br_FR",
+        "title": "HALL | Tallinn - Facebook",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by vinyl,",
+        "score": 0.7474137
+      },
+      {
+        "url": "https://ra.co/events/2313947",
+        "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria at Hall, Tallinn",
+        "content": "ISOLA turns IX On 12 December 2025, we gather at HALL to celebrate nine years of ISOLA – a party series where vinyl still speaks and live performance matters.",
+        "score": 0.73642004
+      }
+    ]
+  }
+}

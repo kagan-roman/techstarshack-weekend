@@ -1,0 +1,37 @@
+{
+  "query": "Muzeum Historii Polski location and description",
+  "context": "IG location tag likely; confirm city and nature of museum for travel preference mapping",
+  "timestamp": "2025-11-29T18:46:29.403Z",
+  "results": [
+    {
+      "url": "https://muzhp.pl/en/about-us",
+      "title": "The Museum of Polish History - Muzeum Historii Polski",
+      "content": "The Museum of Polish History or the Polish History Museum (Polish: Muzeum Historii Polski) is a museum and national cultural institute in Warsaw, Poland.",
+      "score": 0.8987045
+    },
+    {
+      "url": "https://muzeum-historii-polski-cytadela-warszawska.wheree.com/",
+      "title": "Muzeum Historii Polski - Cytadela Warszawska - Reviews, Photos ...",
+      "content": "Muzeum Historii Polski - Cytadela Warszawska is a modern museum located in the historic Warsaw Citadel, showcasing Poland's rich history through innovative",
+      "score": 0.8377398
+    },
+    {
+      "url": "https://go2warsaw.pl/en/polish-history-museum/",
+      "title": "Polish History Museum – Go To Warsaw - Go2Warsaw.pl",
+      "content": "The Polish History Museum is located in the Warsaw Citadel – a 19th-century fortress built on the orders of Tsar Nicholas I in order to exercise control",
+      "score": 0.80698997
+    },
+    {
+      "url": "https://artsandculture.google.com/partner/polish-history-museum",
+      "title": "Polish History Museum, Warszawa, Poland - Google Arts & Culture",
+      "content": "# Polish History Museum The Museum aims at presenting the most significant themes in the history of Poland — state and nation — with special emphasis on the idea of freedom: functioning and development of the parliamentary system, civic life and institutions, and the struggle for freedom and independence. In cooperation with Polish Press Agency the Museum runs the website www.dzieje.pl. The Museum building is located on the grounds of the Warsaw Citadel (‘Independence Park’). + World War I5 + Poland439 + Poland52 Poland The story of the first European constitution Follow Polish History Museum on Google Arts & Culture for updates to the collection, new stories and upcoming events. Polish History Museum's website Polish History MuseumGwardii 1, 01-538 Warszawa, Poland",
+      "score": 0.7722049
+    },
+    {
+      "url": "https://muzhp.pl/en/home",
+      "title": "Home - Polish History Museum in Warsaw",
+      "content": "The Conference Centre of the Polish History Museum (PHM) is a unique conference and event space covering nearly 5,000 m²—a place where history meets modernity.",
+      "score": 0.74697095
+    }
+  ]
+}

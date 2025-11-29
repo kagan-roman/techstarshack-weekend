@@ -1,0 +1,122 @@
+{
+  "userId": "1bdfa38f-7e08-466d-aab1-d13e29f25c2f",
+  "identity": {
+    "displayName": null,
+    "homeBase": null,
+    "preferredLanguages": ["ru", "en"],
+    "bioSummary": "Russian-speaking traveler drawn to history, moody nature, and night city energy; balances museums and memorials with hikes, hot springs, and underground club nights."
+  },
+  "macroPreferences": {
+    "adventureOutdoor": 0.7,
+    "cultureArt": 0.85,
+    "nightlifeFestivals": 0.7,
+    "foodCulinary": 0.3,
+    "wellnessRelaxation": 0.4,
+    "natureScenic": 0.8,
+    "urbanExploration": 0.7,
+    "techInnovation": 0.3,
+    "sportsActive": 0.2,
+    "luxuryTravel": 0.3
+  },
+  "latentTraits": {
+    "curiosity": 0.85,
+    "socialEnergy": 0.5,
+    "intensity": 0.7,
+    "aestheticSensitivity": 0.6,
+    "natureAffinity": 0.75,
+    "culturalDepth": 0.8,
+    "festivalAffinity": 0.6,
+    "planningStyle": "flexible"
+  },
+  "budget": {
+    "explicit": {
+      "level": null,
+      "perDayMin": null,
+      "perDayMax": null,
+      "currency": null
+    },
+    "inferred": {
+      "score": 0.55,
+      "confidence": 0.5
+    },
+    "final": {
+      "score": 0.55,
+      "level": "mid"
+    }
+  },
+  "interests": [
+    {
+      "id": "history-memory",
+      "label": "History / Memory – museums, memorials, castles",
+      "description": "WWII memory sites, medieval armory and fortress tours, ancient civilizations (incl. Egypt); favors context-rich, accurate storytelling.",
+      "tags": ["WWII", "armory", "castles", "ancient history", "fortresses", "museum", "memorial"],
+      "macroFocus": ["cultureArt", "urbanExploration"],
+      "preferredFormats": ["museum", "memorial", "guided tour", "fortress tour", "reenactment"],
+      "weight": 0.85
+    },
+    {
+      "id": "nature-scenic",
+      "label": "Nature / Scenic Hikes – volcanic islands & hot springs",
+      "description": "Dramatic coasts, laurel forests, mountain viewpoints; enjoys post-hike thermal pools and moody weather scenes.",
+      "tags": ["volcanic", "laurel forest", "hot springs", "mountains", "viewpoints"],
+      "macroFocus": ["adventureOutdoor", "natureScenic", "wellnessRelaxation"],
+      "preferredFormats": ["hike", "viewpoint", "hot spring", "scenic drive"],
+      "weight": 0.8
+    },
+    {
+      "id": "urban-night-aesthetic",
+      "label": "Urban Exploration – dusk views, old quarters, rooftops",
+      "description": "City character after dark: riverfronts, university/old-town architecture, street cats, late-night food.",
+      "tags": ["night city", "riverfront", "old town", "architecture", "photo spots", "street food"],
+      "macroFocus": ["urbanExploration", "nightlifeFestivals"],
+      "preferredFormats": ["self-guided walk", "photo route", "rooftop bar", "street food crawl"],
+      "weight": 0.65
+    },
+    {
+      "id": "club-culture",
+      "label": "Nightlife – techno/industrial, DnB/trance, retro nights",
+      "description": "Underground warehouse raves, big-room techno, drum & bass, and playful 80s/90s parties.",
+      "tags": ["techno", "industrial", "DnB", "trance", "retro", "warehouse"],
+      "macroFocus": ["nightlifeFestivals"],
+      "preferredFormats": ["nightclub", "warehouse rave", "festival", "live DJ set"],
+      "weight": 0.7
+    },
+    {
+      "id": "gaming-aesthetics-irl",
+      "label": "Gaming Aesthetics IRL – castles, armor, fairs",
+      "description": "CRPG/strategy nostalgia mapped to real places: castle towns, armory museums, medieval fairs, LARP/reenactment, boardgame bars.",
+      "tags": ["medieval", "castles", "armor", "reenactment", "boardgames"],
+      "macroFocus": ["cultureArt", "urbanExploration"],
+      "preferredFormats": ["castle tour", "museum", "medieval fair", "workshop"],
+      "weight": 0.6
+    },
+    {
+      "id": "geopolitics-reality-tours",
+      "label": "Geopolitics & Reality Tours – socio-political lens",
+      "description": "Curious about cities beyond brochures: socio-political museums, guided reality walks, alternative neighborhoods.",
+      "tags": ["geopolitics", "urbanism", "reality tour", "current affairs"],
+      "macroFocus": ["urbanExploration", "cultureArt"],
+      "preferredFormats": ["guided urban walk", "museum", "neighborhood tour"],
+      "weight": 0.55
+    }
+  ],
+  "trip": {
+    "city": null,
+    "country": null,
+    "startDate": null,
+    "endDate": null,
+    "notes": null,
+    "hardConstraints": {
+      "radiusKm": null,
+      "mustBeLocal": null,
+      "excludeTouristTraps": null,
+      "timeOfDay": ["morning", "afternoon", "evening", "night"],
+      "daysOfWeekPriority": ["fri", "sat", "sun", "thu", "wed", "tue", "mon"]
+    }
+  },
+  "outputPreferences": {
+    "deliverableFormat": "markdown",
+    "maxEventsPerInterest": 5,
+    "includeDebugInfo": false
+  }
+}

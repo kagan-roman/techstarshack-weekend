@@ -1,0 +1,79 @@
+Source: dataset
+Description: Imported from profile.schema.json
+{
+  "userId": "<string>",
+  "identity": {
+    "displayName": "<string>",
+    "homeBase": "<string>",
+    "preferredLanguages": ["<string>"],
+    "bioSummary": "<string>"
+  },
+  "macroPreferences": {
+    "adventureOutdoor": "<0-1|null>",
+    "cultureArt": "<0-1|null>",
+    "nightlifeFestivals": "<0-1|null>",
+    "foodCulinary": "<0-1|null>",
+    "wellnessRelaxation": "<0-1|null>",
+    "natureScenic": "<0-1|null>",
+    "urbanExploration": "<0-1|null>",
+    "techInnovation": "<0-1|null>",
+    "sportsActive": "<0-1|null>",
+    "luxuryTravel": "<0-1|null>"
+  },
+  "latentTraits": {
+    "curiosity": "<0-1|null>",
+    "socialEnergy": "<0-1|null>",
+    "intensity": "<0-1|null>",
+    "aestheticSensitivity": "<0-1|null>",
+    "natureAffinity": "<0-1|null>",
+    "culturalDepth": "<0-1|null>",
+    "festivalAffinity": "<0-1|null>",
+    "planningStyle": "<rigid|flexible|spontaneous|null>"
+  },
+  "budget": {
+    "explicit": {
+      "level": "<budget|mid|premium|luxury|null>",
+      "perDayMin": "<number>",
+      "perDayMax": "<number>",
+      "currency": "<string>"
+    },
+    "inferred": {
+      "score": "<0-1|null>",
+      "confidence": "<0-1|null>"
+    },
+    "final": {
+      "score": "<0-1|null>",
+      "level": "<budget|mid|premium|luxury|null>"
+    }
+  },
+  "interests": [
+    {
+      "id": "<string>",
+      "label": "<string>",
+      "description": "<string>",
+      "tags": ["<string>"],
+      "macroFocus": ["<macro key>"],
+      "preferredFormats": ["<format>"],
+      "weight": "<0-1|null>"
+    }
+  ],
+  "trip": {
+    "city": "<string>",
+    "country": "<string>",
+    "startDate": "<ISO>",
+    "endDate": "<ISO>",
+    "notes": "<string>",
+    "hardConstraints": {
+      "radiusKm": "<number>",
+      "mustBeLocal": "<boolean>",
+      "excludeTouristTraps": "<boolean>",
+      "timeOfDay": ["morning", "afternoon", "evening", "night"],
+      "daysOfWeekPriority": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    }
+  },
+  "outputPreferences": {
+    "deliverableFormat": "<markdown|json|plain_text>",
+    "maxEventsPerInterest": "<number>",
+    "includeDebugInfo": "<boolean>"
+  }
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "type": "event",
+    "id": "tallinn-christmas-market-2025-12-01",
+    "interestId": "food-local-cuisine",
+    "title": "Tallinn Christmas Market (Tallinna Jõuluturg) – food stalls and glögi",
+    "description": "Tallinn’s Old Town square transforms into a festive market with traditional Estonian foods (verivorst/blood sausage, sauerkraut, smoked fish, gingerbread) and mulled wine (glögi).",
+    "venue": {
+      "name": "Raekoja plats (Town Hall Square)",
+      "address": "Raekoja plats, 10146 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "startDateTime": "2025-12-01T10:00:00+02:00",
+    "endDateTime": "2025-12-01T20:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "touristTrap": 70,
+    "sources": [
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "note": "Official site confirming 21 Nov – 28 Dec 2025 and daily hours 10:00–20:00 (drinks later)",
+        "type": "national/mainstream"
+      },
+      {
+        "url": "https://www.instagram.com/p/DRXMCnKjG0s/",
+        "note": "Social confirmation of hours",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "estonian-open-air-museum-christmas-village-2025-12-13",
+    "interestId": "food-local-cuisine",
+    "title": "Christmas Village (Jõuluküla) at the Estonian Open Air Museum",
+    "description": "Two-day folk Christmas village with historic farmhouses, choirs, and traditional foods; Kolu Kõrts serves old-style Christmas dishes and there are village food stalls.",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia",
+      "neighborhood": "Rocca al Mare"
+    },
+    "startDateTime": "2025-12-13T11:00:00+02:00",
+    "endDateTime": "2025-12-13T16:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "traditional",
+      "snack",
+      "lunch"
+    ],
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://evm.ee/et",
+        "note": "Museum site banner for Jõuluküla 13–14 Dec with schedule",
+        "type": "regional"
+      },
+      {
+        "url": "https://visitestonia.com/en/christmas-village",
+        "note": "Visit Estonia listing with dates and venue",
+        "type": "national"
+      },
+      {
+        "url": "https://www.kultuurikava.ee/event/joulukula-eesti-vabaohumuuseumis-4",
+        "note": "Kultuurikava event page with dates/times",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "note": "Facebook event confirming times 11:00–16:00",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "eka-christmas-fair-2025-12-14",
+    "interestId": "food-local-cuisine",
+    "title": "EKA Jõuluturg (Estonian Academy of Arts Christmas Fair)",
+    "description": "Student and designer Christmas fair; browse local crafts with pop-up food stalls and cafes around the campus—local, creative vibe.",
+    "venue": {
+      "name": "Eesti Kunstiakadeemia (EKA)",
+      "address": "Põhja puiestee 7, 10412 Tallinn, Estonia",
+      "neighborhood": "Kalamaja/City Centre edge"
+    },
+    "startDateTime": "2025-12-14T12:00:00+02:00",
+    "endDateTime": "2025-12-14T18:00:00+02:00",
+    "tags": [
+      "food",
+      "market",
+      "community",
+      "snack",
+      "lunch"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/events/1237463741444360/",
+        "note": "FB event page with date/time",
+        "type": "community"
+      },
+      {
+        "url": "https://allevents.in/tallinn/eka-j%C3%95uluturg-2025-%7C-eka-christmas-fair-2025/200028597276607",
+        "note": "Aggregator mirror",
+        "type": "community/aggregator"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "balti-jaama-turg",
+    "interestId": "food-local-cuisine",
+    "title": "Balti Jaama Turg (Baltic Station Market)",
+    "description": "Tallinn’s main market hub: farmers’ produce, smoked fish, Estonian deli counters, and 25+ street-food corners in a lively railway-side complex.",
+    "venue": {
+      "name": "Balti Jaama Turg",
+      "address": "Kopli 1, 10412 Tallinn, Estonia",
+      "neighborhood": "Kalamaja/Telliskivi"
+    },
+    "operatingHours": {
+      "summary": "Mon–Sat 09:00–20:00; Sun 09:00–18:00 (vendor hours may vary)"
+    },
+    "uniquenessReason": "Only-in-Tallinn blend of classic Estonian market culture with a modern street-food hall next to the historic station.",
+    "whyItFits": "Direct access to local specialties (smoked fish, black bread, pickles, honey) plus authentic street-food corners popular with locals.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "snack",
+      "local cuisine",
+      "market"
+    ],
+    "touristTrap": 45,
+    "sources": [
+      {
+        "url": "https://astri.ee/bjt/en/avaleht/",
+        "note": "Operator site with hours and overview",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.instagram.com/baltijaamaturg/",
+        "note": "Active IG showcasing food vendors/events",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "nomme-turg",
+    "interestId": "food-local-cuisine",
+    "title": "Nõmme Turg (Nõmme Market)",
+    "description": "Historic garden-district market favored by locals for seasonal produce, smoked meats/fish, sauerkraut, mushrooms, and honey.",
+    "venue": {
+      "name": "Nõmme Turg",
+      "address": "Turu plats 8, 11611 Tallinn, Estonia",
+      "neighborhood": "Nõmme"
+    },
+    "operatingHours": {
+      "summary": "Mon–Fri 08:00–19:00; Sat 08:00–17:00; Sun 09:00–16:00"
+    },
+    "uniquenessReason": "A suburban community market with strong local clientele and old-school Estonian food staples—well off the tourist path.",
+    "whyItFits": "Great for morning browsing and tasting truly local products and smoked items that define Estonian home cooking.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "lunch",
+      "local cuisine",
+      "market"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://nommeturg.ee/",
+        "note": "Official market site with hours and vendor info",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "maiasmokk-cafe-marzipan-room",
+    "interestId": "food-local-cuisine",
+    "title": "Maiasmokk Café & Marzipan Room",
+    "description": "Estonia’s oldest café (since 1864) with a marzipan room where artisans hand-paint marzipan figurines; classic cakes, kohv, and pastries.",
+    "venue": {
+      "name": "Kohvik Maiasmokk",
+      "address": "Pikk 16, 10123 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "operatingHours": {
+      "summary": "Typically daily ~09:00–21:00 (check seasonal hours; marzipan workshops by schedule)"
+    },
+    "uniquenessReason": "Historic café and marzipan atelier unique to Tallinn’s confectionery tradition since the 19th century.",
+    "whyItFits": "Quintessential local sweets and coffee stop; marzipan is a hallmark of Estonian holiday treats.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "local cuisine",
+      "traditional dishes",
+      "cafes"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://maiasmokk.ee/en/marzipan/",
+        "note": "Official site with history and marzipan room details",
+        "type": "national"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kolu-korts-evm",
+    "interestId": "food-local-cuisine",
+    "title": "Kolu Kõrts (Inn at the Estonian Open Air Museum)",
+    "description": "A historic roadside inn serving traditional Estonian fare inside the Open Air Museum; rustic soups, rye bread, and seasonal dishes.",
+    "venue": {
+      "name": "Kolu Kõrts (EVM)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia",
+      "neighborhood": "Rocca al Mare"
+    },
+    "operatingHours": {
+      "summary": "Tue–Sun 10:00–17:00; Mon closed (winter season)"
+    },
+    "uniquenessReason": "Authentic museum inn where recipes and setting reflect Estonian rural traditions—cannot be replicated outside this context.",
+    "whyItFits": "Direct immersion into heritage cooking; pairs perfectly with the museum’s Christmas Village dates during your trip.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "traditional dishes",
+      "local cuisine"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://evm.ee/visitors/opening-hours",
+        "note": "EVM opening hours including Kolu Kõrts",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "pohjala-tap-room-brewery",
+    "interestId": "food-local-cuisine",
+    "title": "Põhjala Tap Room & Brewery",
+    "description": "Flagship taproom of Estonia’s leading craft brewery with on-site brewery, wide tap list of Estonian beers, and hearty smoked/BBQ plates.",
+    "venue": {
+      "name": "Põhjala Tap Room",
+      "address": "Peetri 5, 10415 Tallinn, Estonia",
+      "neighborhood": "Noblessner/Port area"
+    },
+    "operatingHours": {
+      "summary": "Typically daily from noon; Fri–Sat open late (check seasonal hours)"
+    },
+    "uniquenessReason": "Home base of Põhjala—Estonia’s most influential craft brewery—showcasing local beer culture you can’t experience outside the country.",
+    "whyItFits": "Authentic modern Estonian drinking-and-dining culture; good for casual dinner or late-night after exploring Telliskivi/Noblessner.",
+    "tags": [
+      "dinner",
+      "late-night",
+      "local cuisine",
+      "street food"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://www.facebook.com/pohjalataproom/",
+        "note": "Official Facebook page with updates and hours",
+        "type": "community"
+      },
+      {
+        "url": "https://dinnerbooking.com/ee/en-US/re2051/events-for-pohjala-tap-room",
+        "note": "Event/booking listings (seasonal)",
+        "type": "regional"
+      }
+    ]
+  }
+]

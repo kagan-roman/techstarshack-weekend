@@ -1,0 +1,49 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "scan",
+  "query": "Tallinn Museum of Orders of Knighthood events December 2025 Tallinn detsember 2025",
+  "payload": {
+    "localeHint": "en+et+ru",
+    "intent": "scan",
+    "query": "Tallinn Museum of Orders of Knighthood events December 2025 Tallinn detsember 2025",
+    "timestamp": "2025-11-29T21:14:03.226Z",
+    "results": [
+      {
+        "title": "Tallinn - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tallinn",
+        "content": "Situated on a bay in north Estonia, on the shore of the Gulf of Finland of the Baltic Sea, it has a population of 456,518 as of 2025 [2] and administratively lies in Harju County. Tallinn is the main …",
+        "score": 0.26721227
+      },
+      {
+        "title": "A guide to Tallinn - Lonely Planet",
+        "url": "https://www.lonelyplanet.com/articles/guide-to-tallinn",
+        "content": "Experience guides offer travelers innovative ways to discover iconic destinations, featuring unique adventures and trip-building tools for personalized journeys.Language Guides Explore the world’s 25 most exciting places and journeys – handpicked by Lonely Planet’s team for Best in Travel 2026. Explore the world’s 25 most exciting places and journeys – handpicked by Lonely Planet’s team for Best in Travel 2026. Explore Tallinn, Estonia's capital, with its stunning medieval old town, vibrant culture, innovative tech scene, and rich Baltic history. You can explore the cobbled alleys of the charming, small Old Town in a day, but that doesn’t mean you should rush Tallinn. The Old Town of Tallinn, regarded by UNESCO as one of the best-preserved medieval city centers in Europe, entices impromptu explorations.",
+        "score": 0.2119713
+      },
+      {
+        "title": "Tallinn , Estonia: All You Must Know Before You Go (2025) - Tripadvisor",
+        "url": "https://www.tripadvisor.com/Tourism-g274958-Tallinn_Harju_County-Vacations.html",
+        "content": "According to forum posts, travelers highly recommend exploring the Old Town of Tallinn, which offers a rich historical ambiance and numerous photo opportunities.",
+        "score": 0.13442354
+      },
+      {
+        "title": "Tallinn Travel Guide by Rick Steves",
+        "url": "https://www.ricksteves.com/europe/estonia/tallinn",
+        "content": "/* Estonia /* Tallinn /* Estonia /* Tallinn # Tallinn ▲▲▲ **Tallinn's Old Town** Well-preserved medieval center with cobblestoned lanes, gabled houses, historic churches, and turreted city walls. ▲▲ **Vabamu Museum of Occupations and Freedom** Fascinating exhibition telling the story of the Nazi and Soviet occupations of Estonia. ▲ **Museum of Estonian History** High-tech exhibits within the Great Guild Hall explaining Estonia's engaging national narrative. ▲ **Tallinn City Life Museum** Interesting overview of Tallinn's past, from medieval times into the 20th century. ▲▲ **Kumu Art Museum** The best of contemporary Estonian art displayed in a strikingly modern building. #### Tallinn * A Trip to Tallinn * Tallinn and Estonia (46:53) ## Latest Tallinn Travel Forum Posts All Tallinn Travel Forum Posts",
+        "score": 0.13125141
+      },
+      {
+        "title": "What to see and do in Tallinn | ICG",
+        "url": "https://icg.tallinn.ee/en/what-see-and-do-tallinn",
+        "content": "* Tallinn.ee > Sitemap > ICG # What to see and do in Tallinn ## What to see and do in Tallinn Tallinn is a beautiful coastal city filled with fun activities and exciting attractions for visitors of all ages. VisitTallinn.ee is the official tourism website of Tallinn and your go to resource for activities, events and sights in the city. **Tallinn Card – to make the most of your visit**   Take the opportunity to learn about the history, nature and culture of Tallinn and Estonia together with the whole family by visiting exciting museums ranging from medieval towers to submarine bunkers. Or visit one of Tallinn’s adventure parks, which encourage creativity and offer fun physical challenges for kids and parents alike. **Top 10 places in Tallinn you must see**  ",
+        "score": 0.12794678
+      },
+      {
+        "title": "The 46 Best Things To See And Do In Tallinn , Estonia",
+        "url": "https://theculturetrip.com/europe/estonia/articles/the-15-best-things-to-do-in-tallinn-estonia",
+        "content": "Enter Tallinn’s marvelous old town through Viru Gate, which was part of the city’s 14th-century extensive defense system. Book an Old Town walking tour to discover the area with a local expert. Visitors can climb the narrow stairs to the top of the church for a beautiful view over Tallinn’s Old Town, and get a local’s insight on a guided tour of the city. Visitors can climb a portion of Tallinn’s wall to explore the towers and enjoy beautiful city views. You can visit the castle as part of the city’s historical walking tour. Tallinn Day Trip Tours This small town is a must-visit place if you want to learn more about the unique culture of Estonia and relax on the most beautiful white sand beaches.",
+        "score": 0.117420465
+      }
+    ]
+  }
+}

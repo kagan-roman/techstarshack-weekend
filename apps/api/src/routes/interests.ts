@@ -2,7 +2,7 @@ import { FastifyInstance } from "fastify";
 import { z } from "zod";
 import { requireUser } from "../middleware/auth";
 import { enqueueAgentRun } from "../services/modules/agentRuns";
-import { getLatestInterestProfile } from "../services/modules/interests";
+import { getLatestUserProfile } from "../services/modules/userProfiles";
 
 const triggerSchema = z.object({
   dataSourceIds: z.array(z.string().uuid()).optional(),
@@ -30,14 +30,16 @@ export const registerInterestRoutes = async (app: FastifyInstance) => {
     "/interests/latest",
     { preHandler: requireUser },
     async (request, reply) => {
-      try {
-        const profile = await getLatestInterestProfile(request.user!.id);
-        reply.send(profile);
-      } catch (error) {
-        request.log.error({ err: error }, "Failed to fetch interests");
+      const profile = await getLatestUserProfile(request.user!.id);
+      
+      if (!profile) {
         reply.code(404).send({ error: "No interest profile available" });
+        return;
       }
+
+      // Return just the interests array from the profile
+      const interests = profile.profile_data?.interests ?? [];
+      reply.send({ interests });
     },
   );
 };
-

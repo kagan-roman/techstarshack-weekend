@@ -1,0 +1,37 @@
+{
+  "query": "Noblessner location",
+  "context": "Appears in instagram.md posts as a location tag; need to know what and where Noblessner is.",
+  "timestamp": "2025-11-29T14:00:01.181Z",
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Noblessner",
+      "title": "Noblessner - Wikipedia",
+      "content": "Noblessner is a harbour and former industrial area in the northern district of Tallinn, Estonia. Since 2013 it has been redeveloped into a cultural and",
+      "score": 0.90830135
+    },
+    {
+      "url": "https://visitestonia.com/en/noblessner",
+      "title": "Noblessner | Visit Estonia",
+      "content": "Tallinn's seaside gem, Noblessner, is located just a short walk from the Kalamaja district and the city center. Noblessner was established in 1912 when two",
+      "score": 0.87113565
+    },
+    {
+      "url": "https://noblessner.ee/en/development/peetri-7/location-amenities/",
+      "title": "Location & amenities – Noblessner",
+      "content": "The building at 7 Peetri St. is part of the historic Noblessner submarine shipyard. Noblessner, which operated as a shipyard for over a century,",
+      "score": 0.8687491
+    },
+    {
+      "url": "https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/noblessner-an-old-shipyard",
+      "title": "Noblessner – the new life of an old shipyard - Visit Tallinn",
+      "content": "Noblessner, situated in Northern Tallinn next to the renowned Seaplane Harbour, is one of the most interesting marine areas of the city.",
+      "score": 0.8565368
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V6rDuHvKhJQ",
+      "title": "Noblessner, Tallinn What to See, Eat and Do. City Guide 2022",
+      "content": "Noblessner in Tallinn is undoubtedly the trendiest neighbourhood in the city. Located in the former shipyard, this area has so much more",
+      "score": 0.834852
+    }
+  ]
+}

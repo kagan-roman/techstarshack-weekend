@@ -1,0 +1,300 @@
+[
+  {
+    "id": "gaming-bg3",
+    "name": "Baldur’s Gate 3 optimization and guides",
+    "summary": "Actively follows BG3 guides, walkthroughs, and shorts focused on hidden buffs and efficient gold strategies, suggesting ongoing, systems-minded play.
+    ",
+    "tags": ["gaming", "RPG", "BG3", "guides", "min-max"],
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "How Quickly Can You Become a Millionaire in Baldur's Gate 3?" 
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "The Adamantine Forge Walkthrough | Baldur's Gate 3"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Секретный Меррегонский Бафф #baldursgate3 #bg3 #baldursgate3guide"
+      }
+    ]
+  },
+  {
+    "id": "gaming-homm3",
+    "name": "Heroes of Might and Magic III meta and nostalgia",
+    "summary": "Deep engagement with HoMM3 strategy content (templates like Jebus Outcast), co‑op streams, and shorts — indicates long-term affection for classic turn-based strategy and meta learning.",
+    "tags": ["gaming", "strategy", "HoMM3", "nostalgia", "guides"],
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Герои III, Jebus Outcast - Как Играть? (Гайд)"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Co-op c SandBro ~ Noble Nemesis ~  Герои Меча и Магии 3 Рог Бездны, Часть 6"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Ангел в #герои3 (Герои 3)" 
+      }
+    ]
+  },
+  {
+    "id": "history-film-armor",
+    "name": "Historical accuracy in films and medieval armor",
+    "summary": "Watches long deconstructions by Клим Жуков on historical films and detailed lectures on armor, showing sustained interest in history with a critical, technical lens.",
+    "tags": ["history", "film", "armor", "long-form", "analysis"],
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Клим Жуков. Латный доспех - феномен Европейского рыцарства."
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Деконструкция. Клим Жуков о фильме «Бесславные ублюдки» (2009)"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Деконструкция. Клим Жуков о фильме «Король» (2019)"
+      }
+    ]
+  },
+  {
+    "id": "history-ancient-egypt",
+    "name": "Ancient Egypt and early civilizations",
+    "summary": "Multiple lectures and long-form videos on Ancient Egypt (predynastic to New Kingdom) and related anthropology suggest enduring curiosity about early civilizations.",
+    "tags": ["history", "ancient", "Egypt", "anthropology", "lectures"],
+    "confidence": 0.8,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "ДРЕВНИЙ ЕГИПЕТ: ПИРАМИДЫ, КОТИКИ, КРАЖА ШЕДЕВРОВ, ПИВО И ЗВЁЗДЫ"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Египет: Рождение Нового царства"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Додинастический Египет: начало великой истории."
+      }
+    ]
+  },
+  {
+    "id": "history-wwii-memory",
+    "name": "WWII remembrance and museums",
+    "summary": "Reflective post from Auschwitz-Birkenau and Polish history museum tags indicate respect for WWII memory and historical sites.",
+    "tags": ["history", "WWII", "memory", "museums", "ethics"],
+    "confidence": 0.75,
+    "evidence": [
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "Auschwitz-Birkenau Nazi Concentration Camp Museum ... Поэтому давайте не забывать, не принижать происшедшее и не допускать повторения."
+      },
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "Muzeum Historii Polski"
+      }
+    ]
+  },
+  {
+    "id": "travel-hiking",
+    "name": "Hiking and scenic viewpoints",
+    "summary": "Frequent posts from mountainous trails and lookouts (São Miguel ‘Boys do hiking’, Kopaonik/Devojački Grob) show enjoyment of hiking and nature vistas.",
+    "tags": ["travel", "outdoors", "hiking", "nature", "viewpoints"],
+    "confidence": 0.8,
+    "evidence": [
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "São Miguel Island ... Boys do hiking"
+      },
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "Devojacki Grob ... Хайк с благозвучным названием - Девоjачки гроб"
+      }
+    ]
+  },
+  {
+    "id": "travel-atlantic-islands",
+    "name": "Atlantic islands: Madeira and Azores",
+    "summary": "Multiple posts from Madeira (Fanal, Carnival) and São Miguel (Azores) with enthusiastic captions indicate a special fondness for these islands.",
+    "tags": ["travel", "Madeira", "Azores", "Portugal", "islands"],
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "Fanal Mountain Madeira ... Witchcraft place indeed"
+      },
+      {
+        "sourceType": "instagram",
+        "sourceId": "blob-1",
+        "snippet": "São Miguel Island ... Gorgeous, astonishing, mind-blowing ..."
+      }
+    ]
+  },
+  {
+    "id": "travel-urbanism-docs",
+    "name": "Travel journalism and urban safety/exploration",
+    "summary": "Regular viewing of travel docs on cities (Varlamov Travel, Harry Jaggard) suggests an interest in urbanism, safety, and sociocultural aspects of travel.",
+    "tags": ["travel", "urbanism", "documentary", "cities", "safety"],
+    "confidence": 0.7,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Брюссель: здесь опасность на каждом шагу | Ужас в центре Европы, мафия и рейды полиции"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Пхукет без прикрас: правда о тайском рае | Как живут русские на острове"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Я проигнорировал западные СМИ и поехал в Россию"
+      }
+    ]
+  },
+  {
+    "id": "music-hard-techno-dnb",
+    "name": "High‑energy electronic: hard techno/tekk and drum & bass",
+    "summary": "Frequent listening to hard techno/tekk (Paolo Ferrara, Raganzini, Creeds, KI/KI, Schrotthagen) and DnB (B‑Complex, Koven) implies preference for high‑BPM, club/drive/gym energy.",
+    "tags": ["music", "techno", "hardtekk", "drumandbass", "rave"],
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "This Is Technometal — Lorenzo Raganzini & Paolo Ferrara"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Push Up (Short Version) — Creeds"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Beautiful Lies (VIP) — B‑complex"
+      }
+    ]
+  },
+  {
+    "id": "music-cis-rap",
+    "name": "Russian/CIS rap and underground",
+    "summary": "Listens to Скриптонит, Oxxxymiron, Miyagi & Andy Panda, УННВ, Ulukmanapo, Нурминский, etc., indicating strong affinity for CIS hip‑hop and adjacent underground scenes.",
+    "tags": ["music", "rap", "CIS", "Russian", "hiphop"],
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Скриптонит — Я не улыбаюсь / Не надо меня узнавать / 2004"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Oxxxymiron — Город под подошвой; Тентакли"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Miyagi & Andy Panda — Brooklyn"
+      }
+    ]
+  },
+  {
+    "id": "music-2000s-nu-metal",
+    "name": "2000s alternative/nu‑metal nostalgia",
+    "summary": "Frequent plays of Korn, Deftones, System Of A Down, Breaking Benjamin, Mudvayne, Godsmack, Linkin Park, Papa Roach point to enduring 2000s alt/nu‑metal taste.",
+    "tags": ["music", "rock", "nu-metal", "2000s", "nostalgia"],
+    "confidence": 0.85,
+    "evidence": [
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Right Now — Korn; Did My Time — Korn"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Change (In the House of Flies) — Deftones"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "The Diary of Jane (Single Version) — Breaking Benjamin"
+      }
+    ]
+  },
+  {
+    "id": "music-retro-eurodance",
+    "name": "Retro pop / Eurodance classics",
+    "summary": "Enjoys Eurodance/80s–00s pop nostalgia like C.C. Catch, ATC, Mo‑Do, Laura Branigan, Kate Bush; plus Russian pop classics (Пугачёва, Руки Вверх!, Вирус).",
+    "tags": ["music", "eurodance", "retro", "pop", "nostalgia"],
+    "confidence": 0.75,
+    "evidence": [
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Cause You Are Young — C.C. Catch"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Around the World (La La La La La) — ATC"
+      },
+      {
+        "sourceType": "music",
+        "sourceId": "blob-2",
+        "snippet": "Позови меня с собой — Алла Пугачёва; Крошка моя — Руки Вверх!"
+      }
+    ]
+  },
+  {
+    "id": "politics-geopolitics-ru",
+    "name": "RU‑language geopolitics and conflict commentary",
+    "summary": "Regularly watches commentary channels covering Ukraine/Russia war narratives (Анатолий Шарий, HistoryLegends, Руслан Усачев), indicating interest in geopolitics and media analysis.",
+    "tags": ["politics", "geopolitics", "RU-media", "conflict", "commentary"],
+    "confidence": 0.7,
+    "evidence": [
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Ермак и Зе готовятся к посадке — Анатолий Шарий"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Украинская коррупция // Секрет Трампа // Крах биткоина — Руслан Усачев"
+      },
+      {
+        "sourceType": "youtube",
+        "sourceId": "blob-3",
+        "snippet": "Massive Surrender of Ukrainian Soldiers in Pokrovsk Cauldron — HistoryLegends"
+      }
+    ]
+  }
+]

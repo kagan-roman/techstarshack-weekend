@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "scan",
+  "query": "\u00042\u00044\u00043\u00043\u00043\u00043\u00044\u00043\u00043\u00044\u00043\u00043 \u00043c\u000430\u000441\u000442\u000435\u000440-\u00043a\u00043b\u000430\u000441\u000441 \u000422\u000430\u00043b\u00043b\u000438\u00043d \u000434\u000435\u00043a\u000430\u000431\u000440\u00044c 2025 \u000435\u000434\u000430 \u00043a\u000443\u00043b\u000438\u00043d\u000430\u000440\u00043d\u00044b\u000439",
+  "payload": {
+    "localeHint": "ru",
+    "intent": "scan",
+    "query": "\u00042\u00044\u00043\u00043\u00043\u00043\u00044\u00043\u00043\u00044\u00043\u00043 \u00043c\u000430\u000441\u000442\u000435\u000440-\u00043a\u00043b\u000430\u000441\u000441 \u000422\u000430\u00043b\u00043b\u000438\u00043d \u000434\u000435\u00043a\u000430\u000431\u000440\u00044c 2025 \u000435\u000434\u000430 \u00043a\u000443\u00043b\u000438\u00043d\u000430\u000440\u00043d\u00044b\u000439",
+    "timestamp": "2025-11-29T21:33:01.039Z",
+    "results": [
+      {
+        "url": "https://iplocation.io/mac-address-lookup",
+        "title": "MAC Address Checker | MAC Address Lookup/Vendor Lookup - IPLocation",
+        "content": "# MAC Address Lookup Our MAC address lookup tool allows you to find the vendor details for any MAC address. Our MAC lookup tool serves the function of identifying a MAC address and providing details about its vendor and history. When you enter the MAC address into the tool, it provides various bits of information about it, including the: Other than the MAC address lookup, our tool also allows you to perform a vendor lookup. ## How to Perform a MAC Address Lookup with Our Tool * **MAC address lookup:** A MAC address lookup will show which vendor is associated with a particular MAC address as well as various basic details about the MAC address block, such as the date of registration, date of last update, etc. * MAC Address Lookup",
+        "score": 0.1476169
+      },
+      {
+        "url": "https://tools.iplocation.net/mac-lookup",
+        "title": "MAC Address Vendor Lookup - IP Location",
+        "content": "A MAC address is known as the Ethernet hardware address, and it is comprised of 6-bytes. An unique MAC address is assigned to a Network Interface Card (NIC) to communicate with other devices in a network. IEEE is the authority managing MAC Addresses, and each hardware manufacturers must register with IEEE to allocate the MAC Prefix to be used by the vendor. By examining the first few bytes of",
+        "score": 0.12155038
+      },
+      {
+        "url": "https://www.macaddresslookup.org/",
+        "title": "MAC Address Lookup - Free online tool to lookup any MAC address",
+        "content": "Enter any MAC address (or OUI) to search our database of 30,000+ vendors and find the device manufacturer, location (including city & state) and more! Use our MAC Address Lookup tool to find detailed information about any MAC address instantly. Quickly determine the manufacturer and model of a device based on its MAC address. Aid in digital investigations by tracking device footprints through MAC addresses. Before buying second-hand smart devices, ensure their authenticity through a MAC address check. Our MAC Address Lookup tool is designed with precision and packed with features. \"Before using this tool, I would spend way too much time searching for MAC address details. Use MAC address lookups to trace devices involved in cybercrimes or unauthorized network access.",
+        "score": 0.10509128
+      },
+      {
+        "url": "https://www.macvendorlookup.com/",
+        "title": "MAC Address Lookup - MAC/OUI/IAB/IEEE Vendor Manufacturer Search",
+        "content": "* MAC Address Lookup * MAC Address Generator # MAC Address Lookup Enter any MAC address, OUI, or IAB below to lookup the manufacturer, location, and more Where can I find my MAC Address? ## MAC Address Details Address | Totaling | 55,574 Vendor Entries - Which is 278,171,123,449,855 unique MAC addresses! * MA-L: IEEE MAC Address Large (24-bit block size) * MA-M: IEEE MAC Address Medium (28-bit block size) * MA-S: IEEE MAC Address Small (36-bit block size) ### MAC Address Lookup RESTful API ### More MAC Address Tools * Random MAC Address Generator * MAC Address Lookup API * MAC Address Database Search #### Where can I find my MAC Address? To find the MAC address in **Windows**...",
+        "score": 0.10290736
+      },
+      {
+        "url": "https://www.macverify.com/",
+        "title": "MACVerify - Free MAC Address Lookup Tool | Identify Network Device ...",
+        "content": "## MAC Address Lookup ### About MAC Address Lookup MAC Address Lookup is a tool that helps you identify the manufacturer of a device based on its MAC address. Every network device has a unique MAC address, with the first 6 characters (OUI - Organizationally Unique Identifier) assigned to specific manufacturers. A Media Access Control (MAC) address is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. What is an OUI in MAC addresses? It's the first 24 bits (3 bytes) of a MAC address that identifies the manufacturer or vendor of a network interface. MAC address vendor lookups are highly accurate for identifying the manufacturer of network devices. How can I find my device's MAC address?",
+        "score": 0.09871195
+      },
+      {
+        "url": "http://mac-look-up.com/",
+        "title": "MAC Address Lookup - Search Vendor by OUI or MAC Address",
+        "content": "Look up vendors by MAC address or OUI. Very handy for tech support and troubleshooting networking issues. Find MAC vendor by doing a search of at least the first six digits of the MAC address.",
+        "score": 0.098503634
+      }
+    ]
+  }
+}

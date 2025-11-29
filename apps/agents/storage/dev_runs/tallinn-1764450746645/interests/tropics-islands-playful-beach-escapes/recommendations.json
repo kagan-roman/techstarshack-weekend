@@ -1,0 +1,283 @@
+[
+  {
+    "type": "event",
+    "id": "event-christmas-bachata-2025-12-13-kopli25",
+    "interestId": "tropics-islands-beach",
+    "title": "Christmas Bachata Party",
+    "description": "Latin beach-vibe social with bachata focus—dance on a warm December night with Tallinn's bachata community.",
+    "startDateTime": "2025-12-13T21:00:00+02:00",
+    "endDateTime": "2025-12-14T03:00:00+02:00",
+    "venue": {
+      "name": "Bachata Studio Tallinn (Kopli 25)",
+      "address": "Kopli 25, 10412 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "nightlifeFestivals",
+      "beach club vibe",
+      "latin",
+      "dance"
+    ],
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Studio/door pricing; see event page"
+    },
+    "sources": [
+      {
+        "url": "https://www.facebook.com/events/kopli-25-10412-tallinn-estonia/-christmas-bachata-party-/995379036053009/",
+        "type": "community"
+      },
+      {
+        "url": "https://bachatastudio.ee/en/product/christmas-bachata-party/",
+        "type": "regional"
+      },
+      {
+        "url": "https://happeningnext.com/event/%F0%9F%8E%84%E2%9C%A8-christmas-bachata-party-%E2%9C%A8%F0%9F%8E%84-eid3a0cxuid09",
+        "type": "community"
+      }
+    ],
+    "touristTrap": 30,
+    "confidence": 0.78
+  },
+  {
+    "type": "event",
+    "id": "event-terasbeach-joulupidu-2025-12-05",
+    "interestId": "tropics-islands-beach",
+    "title": "Teras Beach Jõuluüritus 2025",
+    "description": "One-night tropical Christmas party at Tallinn’s indoor beach: live band Pille-Riin & The Wet Cats, dance workshop, DJ, beach lounge and saunas on warm white sand.",
+    "startDateTime": "2025-12-05T18:30:00+02:00",
+    "endDateTime": "2025-12-06T01:30:00+02:00",
+    "venue": {
+      "name": "Teras Beach Tallinn",
+      "address": "Lõuka tn 6, 13516 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "beach club",
+      "tropical",
+      "live music",
+      "dance",
+      "party"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Tickets via email/phone (info@terasbeach.ee / +372 5623 4404)"
+    },
+    "sources": [
+      {
+        "url": "https://www.terasbeach.ee/en/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/TerasBeach/",
+        "type": "community"
+      }
+    ],
+    "touristTrap": 50,
+    "confidence": 0.82
+  },
+  {
+    "type": "event",
+    "id": "event-elamusspa-aufguss-daily-2025-12-01to14",
+    "interestId": "tropics-islands-beach",
+    "title": "Elamus Spa Daily Aufguss Show (19:00)",
+    "description": "Theatrical sauna Aufguss in the Baltics’ largest ritual sauna—steam, aromas, music and lights for a warm-winter escape.",
+    "startDateTime": "2025-12-01T19:00:00+02:00",
+    "endDateTime": "2025-12-14T19:45:00+02:00",
+    "venue": {
+      "name": "Mustamäe Elamus Spa (SPA21+ and family areas)",
+      "address": "Akadeemia tee 30, 12618 Tallinn, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "wellnessRelaxation",
+      "tropical",
+      "sauna ritual",
+      "spa"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "notes": "Included with spa admission; check site for ticket tiers"
+    },
+    "sources": [
+      {
+        "url": "https://elamusspa.ee/en/saunarituaalid/",
+        "type": "regional"
+      },
+      {
+        "url": "https://elamusspa.ee/en/spa21/rituals/",
+        "type": "regional"
+      }
+    ],
+    "touristTrap": 60,
+    "confidence": 0.7
+  },
+  {
+    "type": "event",
+    "id": "event-viimsi-spa-sauna-friday-2025-12-05-12",
+    "interestId": "tropics-islands-beach",
+    "title": "Viimsi SPA Sauna Friday (Sauna master + cold beer)",
+    "description": "Weekly 20:00 ritual night at Tallinn Viimsi SPA sauna center—Aufguss-style sessions and a casual spa-bar vibe.",
+    "startDateTime": "2025-12-05T20:00:00+02:00",
+    "endDateTime": "2025-12-05T21:00:00+02:00",
+    "extraDates": [
+      {
+        "startDateTime": "2025-12-12T20:00:00+02:00",
+        "endDateTime": "2025-12-12T21:00:00+02:00"
+      }
+    ],
+    "venue": {
+      "name": "Tallinn Viimsi SPA Sauna Center / Atlantis H2O",
+      "address": "Randvere tee 11, Viimsi, 74001 Harju County, Estonia",
+      "lat": null,
+      "lng": null
+    },
+    "tags": [
+      "wellnessRelaxation",
+      "sauna ritual",
+      "tropical",
+      "spa"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ],
+    "price": {
+      "amount": 9,
+      "currency": "EUR",
+      "notes": "Listed on site for Sauna Fridays; confirm inclusion with admission"
+    },
+    "sources": [
+      {
+        "url": "https://www.spatallinn.ee/en/spa-packages/",
+        "type": "regional"
+      },
+      {
+        "url": "https://aquapark.ee/en/sauna-center/",
+        "type": "regional"
+      }
+    ],
+    "touristTrap": 60,
+    "confidence": 0.65
+  },
+  {
+    "type": "location",
+    "id": "loc-teras-beach-tallinn",
+    "interestId": "tropics-islands-beach",
+    "title": "Teras Beach Tallinn (Indoor Beach Hall)",
+    "operatingHours": {
+      "summary": "Mon–Sun 09:00–22:30"
+    },
+    "address": "Lõuka tn 6, 13516 Tallinn, Estonia",
+    "uniquenessReason": "Year-round 26°C indoor white-sand beach with saunas and lounge—closest to a tropical beach club in Baltic winter.",
+    "whyItFits": "Delivers warm-water tropical beach-club vibe in subzero season; frequent parties and sports on sand.",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://visitestonia.com/en/teras-beach-tallinn",
+        "type": "national"
+      },
+      {
+        "url": "https://www.terasbeach.ee/en/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "beach club",
+      "tropical",
+      "active"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-elamus-spa",
+    "interestId": "tropics-islands-beach",
+    "title": "Mustamäe Elamus Spa (SPA21+ & Family)",
+    "operatingHours": {
+      "summary": "Mon–Sun 10:00–00:00"
+    },
+    "address": "Akadeemia tee 30, 12618 Tallinn, Estonia",
+    "uniquenessReason": "Baltics’ largest ritual sauna with daily theatre-style Aufguss; 22 unique saunas and outdoor hot tubs.",
+    "whyItFits": "A tropical-warm escape in winter with immersive steam, aromas, and music—relaxation meets spectacle.",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://elamusspa.ee/en/saunarituaalid/",
+        "type": "regional"
+      },
+      {
+        "url": "https://elamusspa.ee/en/spa21/rituals/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "wellnessRelaxation",
+      "sauna",
+      "tropical"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  },
+  {
+    "type": "location",
+    "id": "loc-viimsi-spa-atlantis",
+    "interestId": "tropics-islands-beach",
+    "title": "Tallinn Viimsi SPA + Atlantis H2O Aquapark",
+    "operatingHours": {
+      "summary": "Daily; Sauna Friday ritual at 20:00 (check site)"
+    },
+    "address": "Randvere tee 11, Viimsi, 74001 Estonia",
+    "uniquenessReason": "Connected aquapark and adult-only SPA18+ with themed tropical sauna rituals and spa-bar.",
+    "whyItFits": "Warm-water pools and rituals create playful beach-spa energy close to Tallinn; weekly ritual night fits nightlife + relaxation.",
+    "touristTrap": 65,
+    "sources": [
+      {
+        "url": "https://aquapark.ee/en/sauna-center/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.spatallinn.ee/en/spa-packages/",
+        "type": "regional"
+      }
+    ],
+    "tags": [
+      "wellnessRelaxation",
+      "sauna",
+      "tropical"
+    ],
+    "languages": [
+      "en",
+      "ru",
+      "et"
+    ]
+  }
+]

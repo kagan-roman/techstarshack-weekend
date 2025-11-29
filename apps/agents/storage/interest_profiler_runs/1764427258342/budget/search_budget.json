@@ -1,0 +1,37 @@
+[
+  {
+    "event": "init",
+    "reason": null,
+    "timestamp": "2025-11-29T14:40:58.343Z",
+    "total": 8,
+    "remaining": 8
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner Tallinn creative quarter seafront",
+    "timestamp": "2025-11-29T14:43:24.309Z",
+    "total": 8,
+    "remaining": 7
+  },
+  {
+    "event": "consume",
+    "reason": "Devojački grob hike Kopaonik Serbia",
+    "timestamp": "2025-11-29T14:43:40.272Z",
+    "total": 8,
+    "remaining": 6
+  },
+  {
+    "event": "consume",
+    "reason": "Fanal Forest Madeira laurisilva UNESCO",
+    "timestamp": "2025-11-29T14:43:46.770Z",
+    "total": 8,
+    "remaining": 5
+  },
+  {
+    "event": "consume",
+    "reason": "Muzeum Historii Polski location",
+    "timestamp": "2025-11-29T14:43:50.162Z",
+    "total": 8,
+    "remaining": 4
+  }
+]

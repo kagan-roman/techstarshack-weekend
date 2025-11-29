@@ -1,0 +1,19 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "scan",
+  "query": "täiskuu rabamatk detsember 2025 Tallinn Kõrvemaa Viru raba",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "täiskuu rabamatk detsember 2025 Tallinn Kõrvemaa Viru raba",
+    "timestamp": "2025-11-29T21:15:21.225Z",
+    "results": [
+      {
+        "url": "http://www.tlu.ee/~jaagup/andmed/keel/uhendkorpus2021_lemmad.csv",
+        "title": "uhendkorpus2021_lemmad.csv - | Tallinna Ülikool",
+        "content": "... detsember,178215 korralik,178135 peaaegu,177844 õnnestuma,177653 kaitsma ... Viru,23872 teismeline,23866 igatsema,23866 omapärane,23864 jääv,23861",
+        "score": 0.051486712
+      }
+    ]
+  }
+}

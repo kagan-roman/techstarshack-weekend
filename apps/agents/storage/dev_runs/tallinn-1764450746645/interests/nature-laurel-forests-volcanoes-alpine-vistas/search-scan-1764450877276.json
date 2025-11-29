@@ -1,0 +1,49 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "scan",
+  "query": "Viru raba päikesetõusumatk detsember 2025 Tallinn 360 kraadi matk",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "Viru raba päikesetõusumatk detsember 2025 Tallinn 360 kraadi matk",
+    "timestamp": "2025-11-29T21:14:37.275Z",
+    "results": [
+      {
+        "url": "https://sunrise.maplogs.com/viru_raba_pperada_kolga_harju_county_estonia.229745.html",
+        "title": "Sunrise Sunset Times of Viru raba õpperada, Kolga, Harju ...",
+        "content": "The sunrise time and sunset time in Viru raba õpperada, Kolga, Harju County, Estonia, including beautiful sunrise or sunset photos, local current time,",
+        "score": 0.19287392
+      },
+      {
+        "url": "https://stjerneskinn.com/sunrise-world-tallinn-new.htm",
+        "title": "Sunrise, sunset and twilights in Tallinn in 2025",
+        "content": "This table is for the year 2025. See also table for 2024. There are also tables of daylength in Tallinn in 2024 and 2025, and tables of moonrise and moonset in",
+        "score": 0.18541595
+      },
+      {
+        "url": "https://www.sunrise-and-sunset.com/en/sun/estonia/tallinn",
+        "title": "Sunrise and sunset times Tallinn, Estonia",
+        "content": "Sunrise and sunset Tallinn, Estonia. Current date, November 18, 2025. Current time, 18:52. Sunrise today, 08:23. Sunset today, 15:48. Timezone, UTC+2.",
+        "score": 0.18537171
+      },
+      {
+        "url": "https://www.sunrisesunset.com/Estonia/Harju/Tallinn.asp",
+        "title": "Tallinn, Estonia - Sunrise Sunset Calendar",
+        "content": "Free printable Sunrise Sunset Calendar for Tallinn, Estonia. You can also create a calendar for your own location by entering the latitude, longitude,",
+        "score": 0.124457784
+      },
+      {
+        "url": "https://en.true-time.com/sun_tallinn/",
+        "title": "Tallinn — sunrise and sunset times - Exact time",
+        "content": "sunrise, sunset, length of day 05/11/2025. Sunrise, 07:51:25 am. Sunset, 04:17:48 pm. Day length, 08:26:23. Sun at zenith, 12:04:36 pm.",
+        "score": 0.1153716
+      },
+      {
+        "url": "https://sunrise.maplogs.com/kolga_harju_county_estonia.229747.html",
+        "title": "Sunrise Sunset Times of Kolga, Harju County, Estonia",
+        "content": "The sunrise time and sunset time in Kolga, Harju County, Estonia, including beautiful sunrise or sunset photos, local current time, timezone, longitude,",
+        "score": 0.02396436
+      }
+    ]
+  }
+}

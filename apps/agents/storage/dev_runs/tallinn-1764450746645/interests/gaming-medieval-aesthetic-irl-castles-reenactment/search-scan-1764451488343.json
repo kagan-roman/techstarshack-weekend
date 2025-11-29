@@ -1,0 +1,49 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "site:piletilevi.ee Tallinn Niguliste detsember 2025 Hortus Musicus",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "site:piletilevi.ee Tallinn Niguliste detsember 2025 Hortus Musicus",
+    "timestamp": "2025-11-29T21:24:48.343Z",
+    "results": [
+      {
+        "title": "XXX Rahvusvahelise Festivali Orient et Occident Lõppkontsert",
+        "url": "https://www.piletilevi.ee/piletid/RVOXVHGA4J/xxx-rahvusvahelise-festivali-orient-et-occident-loppkontsert",
+        "content": "K 17.12. 2025 • 19:00 - 21:00 Niguliste 3, Tallinn, Harjumaa XXX Rahvusvahelise Festivali ORIENT et OCCIDENT Lõppkontsert Tallinnas Niguliste muuseumis 17. detsembril kl 19 Andide, Euroopa keskaja, Jaapani shakuhachi ja pärsia klassikaline muusika Los EstAndinos ja Patricio Zeoli, Triskele, Roland Suits, Hossein Parnia ja Dariush Rasouli",
+        "score": 0.64826655
+      },
+      {
+        "title": "Muusika - Piletilevi.ee",
+        "url": "https://www.piletilevi.ee/est/piletid/muusika/?productID=16260",
+        "content": "Hortus Musicus , Maria Valdmaa, Tõnu Oja / XXXX Viljandi Vanamuusika Festival Koomikute taplus.Ulla Krigul (orel)K 9.7. 2025 K 09 juuli19:00 Niguliste Muuseum, Tallinn .",
+        "score": 0.64344186
+      },
+      {
+        "title": "In Horto Regis XV. Laudate Dominum - 13.07. 2025 - Niguliste ...",
+        "url": "https://www.piletilevi.ee/rus/tickets/muusika/suvekontsert/in-horto-regis-xv-laudate-dominum-466440/",
+        "content": "\"In Horto Regis\" on Hortus Musicuse suvine festival, mis toimub juba viieteistkümnendat korda ja pakub muusikaelamusi Tallinna erinevates paikades. Festivali kunstiline juht on Andres Mustonen.Место проведения. Niguliste Muuseum, Tallinn . Цена. 22.60 - 27.60.",
+        "score": 0.62934244
+      },
+      {
+        "title": "In Horto Regis XV. Bachi partiitad sooloviiulile - 16.07. 2025 - Niguliste ...",
+        "url": "https://www.piletilevi.ee/rus/tickets/muusika/suvekontsert/in-horto-regis-xv-bachi-partiitad-sooloviiulile-466441/",
+        "content": "\"In Horto Regis\" on Hortus Musicuse suvine festival, mis toimub juba viieteistkümnendat korda ja pakub muusikaelamusi Tallinna erinevates paikades. Festivali kunstiline juht on Andres Mustonen.Место проведения. Niguliste Muuseum, Tallinn . Цена. 22.60 - 27.60.",
+        "score": 0.5786631
+      },
+      {
+        "title": "Niguliste muuseum, Tallinn - üritused, lavastused - Piletilevi",
+        "url": "https://www.piletilevi.ee/saalid/21-61-368/niguliste-muuseum-tallinn",
+        "content": "Tallinna rahvusvaheline orelifestival Reval 2025 . Arvo Pärt 90. Hingekell. Niguliste muuseum, Tallinn N 29.01.2026 • 19:00",
+        "score": 0.5712171
+      },
+      {
+        "title": "Niguliste muuseum, Tallinn - events, performances - Piletilevi",
+        "url": "https://www.piletilevi.ee/en/venues/21-61-368/niguliste-muuseum-tallinn",
+        "content": "Tallinna rahvusvaheline orelifestival Reval 2025 . Arvo Pärt 90. Hingekell. Niguliste muuseum, Tallinn Th 29.01.2026 • 19:00",
+        "score": 0.5709301
+      }
+    ]
+  }
+}

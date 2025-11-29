@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "deep_dive",
+  "query": "Eesti Vaba\u0015\u0013humuuseum J\u0000f5ulud 2025 p\u0000e4evad ajakava Tallinn Christmas Village Open Air Museum December 2025 opening hours",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "deep_dive",
+    "query": "Eesti Vaba\u0015\u0013humuuseum J\u0000f5ulud 2025 p\u0000e4evad ajakava Tallinn Christmas Village Open Air Museum December 2025 opening hours",
+    "timestamp": "2025-11-29T21:34:41.283Z",
+    "results": [
+      {
+        "url": "https://balticguide.ee/en/explore-the-christmas-village-at-the-open-air-museum/",
+        "title": "Explore the Christmas Village at the Open Air Museum",
+        "content": "The Christmas Village at the Estonian Open Air Museum will take place on December 14 and 15, from 11 am to 4 pm. The event will offer",
+        "score": 0.8646883
+      },
+      {
+        "url": "https://bestinestonia.com/events/tallinn/christmas-village-at-the-estonian-open-air-museum/",
+        "title": "Christmas Village at the Estonian Open Air Museum - Best in Estonia",
+        "content": "Running from December 13th to 14th, 2025, this cherished Tallinn tradition invites visitors to experience Christmas celebrations from different eras, all set",
+        "score": 0.84246206
+      },
+      {
+        "url": "https://www.visittallinn.ee/eng/professional/about-tallinn/newsletter/news/21295/tallinn-old-town-christmas-market-dates-announced",
+        "title": "Tallinn Old Town Christmas Market dates announced",
+        "content": "The Christmas village \"Christmas with the written word” \" will take place at the Estonian Open Air Museum on December 13 and 14, from 11.00 to 16.00! From",
+        "score": 0.79580134
+      },
+      {
+        "url": "https://evm.ee/whats-s-on/the-estonian-open-air-museum-invites-you-to-enjoy-the-festive-season",
+        "title": "The Estonian Open Air Museum invites you to enjoy the festive season",
+        "content": "The Estonian Open Air Museum is open Tuesday through Sunday from 10:00 to 19:00 (entrance from 10:00 to 17:00). Pre-booked events are also held",
+        "score": 0.7491794
+      },
+      {
+        "url": "https://evm.ee/visitors/opening-hours",
+        "title": "Opening hours - Estonian Open Air Museum",
+        "content": "Winter season ; Museum park 10am – 7pm ; Ticket office and museum shop 10am – 5pm ; Farms*, Kolkhoz apartment building, Kuie school, Lau village shop 10am – 5pm",
+        "score": 0.6768127
+      },
+      {
+        "url": "https://www.evm-dev.voog.com/venue-hire/event-ideas/different-events/folk-calendar-events",
+        "title": "Folk calendar events - Estonian Open Air Museum",
+        "content": "Ticket office, museum shop and Kolu Inn: 10am-5pm ; Buildings, Lau Village Shop: 10am-5pm ; Farm Kid`s World Thu-Sun 10am-4pm ; Museum Park: 10am-7pm.",
+        "score": 0.5860734
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "deep_dive",
+  "query": "Tallinna Linnamuuseum kalender detsember 2025 sündmused Tallinn Kiek in de Kök giidituur detsember",
+  "payload": {
+    "localeHint": "et",
+    "intent": "deep_dive",
+    "query": "Tallinna Linnamuuseum kalender detsember 2025 sündmused Tallinn Kiek in de Kök giidituur detsember",
+    "timestamp": "2025-11-29T21:15:02.463Z",
+    "results": [
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/",
+        "title": "Kiek in de Kök - Tallinna Linnamuuseum",
+        "content": "Joy and Wisdom”** in the Kiek in de Kök tower * ### **Kiek in de Kök Fortification Museum tickets now on sale online Buy your ticket in advance!** * ### Exhibition in Kiek in de Kök **„History of Estonian Civil Defence“** * ### Exhibition 16.05–31.12.2025 **„Miniature books in the Kiek in de Kök Artillery Tower“** * ### Alessio Franconi photographic exhibition at Kiek in de Kök tower: **“Here They Fought!”** * ### **The artillery tower Kiek in de Kök presents the history of the defense of Tallinn** * ### Kiek in de Kök Fortification Museum **Recognized as Tripadvisor® 2023 Travelers’ Choice® Award Winner** * ### **Exhibition „Endless Coffee Drinking“ At the Kiek in de Kök Fortress Museum, in the Gate Tower.**",
+        "score": 0.8380581
+      },
+      {
+        "url": "https://linnamuuseum.ee.klient.veebimajutus.ee/en/tallinna-linnamuuseum/exhibitions/",
+        "title": "EXHIBITIONS - Tallinna Linnamuuseum",
+        "content": "The artillery towerKiekindeKökpresents the history of the defense ofTallinnOne ofTallinn'smost famous landmarks and the city's tallest defence tower - the first artillery tower in our history,KiekindeKök- is once again open to visitors.",
+        "score": 0.48279548
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/current-events/",
+        "title": "What's on in Kiek in de Kök - Tallinna Linnamuuseum",
+        "content": "The artillery towerKiekindeKökpresents the history of the defense ofTallinnOne ofTallinn'smost famous landmarks and the city's tallest defence tower - the first artillery tower in our history,KiekindeKök- is once again open to visitors.",
+        "score": 0.47767657
+      },
+      {
+        "url": "https://muuseumioo.muuseum.ee/en/museum/kiek-in-de-kok-museum/",
+        "title": "Kiek in de Kök Museum - Muuseumiöö",
+        "content": "Museum night at theKiekindeKökInsurance Museum One ofTallinn'sbest-known landmarks and the city's tallest defence tower is the first artillery turret in our history, theKiekindeKök, which has six floors of exhibition.",
+        "score": 0.46628717
+      },
+      {
+        "url": "https://www.visittallinn.ee/est/k%C3%BClastaja/mida-teha/s%C3%BCndmused/s%C3%BCndmused",
+        "title": "Sündmuste kalender - Visit Tallinn",
+        "content": "Tallinnastoimuvadsündmused- festivalid, kontserdid, näitused, etendused.",
+        "score": 0.4224814
+      },
+      {
+        "url": "https://www.hellomondo.com/estonia/tallinn/kiek-in-de-kok-fortifications-museum/",
+        "title": "Kiek in de Kök Fortifications Museum - Tallinn, Estonia",
+        "content": "TheKiekindeKökFortifications Museum, located inTallinn, Estonia, offers a remarkable glimpse into the city's storied past. The museum, housed in a medieval cannon tower, combines rich history with exquisite exhibitions, detailing the architectural marvels ofTallinn'sdefenses and showcasing daily life during the Middle Ages.",
+        "score": 0.4189114
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/about-the-museum/",
+        "title": "The Kiek in de Kök Fortifications Museum - Linnamuuseum",
+        "content": "It comprises four medieval towers: **Kiek in de Kök, the Maiden Tower, the Marstal Tower and the Short Leg Gate Tower.** The Fortification Museum also includes the underground BASTION Towers of the earthworks, built at the end of the 17th century, and the **Carved Stone Museum** housed in them. The Fortress Museum presents the city’s historical fortifications, the late 18th-century houses of the citizens built in the towers and along the wall, the artists who lived in the tower, and the famous café built in the 1980s in the Virgin Tower. The Tower of the Virgin is Tallinn’s only rectangular tower, the medieval name for the Tower of Megede, and was probably built in the mid-14th century, although it was first mentioned in 1373.The permanent exhibition tells the story of the time when the tower was converted into a residential building: it also housed artists’ studios.",
+        "score": 0.3788962
+      },
+      {
+        "url": "https://www.tallinn.ee/en/kultuur/kiek-de-kok-fortification-museum",
+        "title": "Kiek in de Kök Fortification Museum | Tallinn",
+        "content": "The Fortification Museum is an over 500-metre-long museum complex. It is made up of four towers:KiekindeKök, the Maiden Tower, the Marshal or Stable Tower and the Short-Leg Gate Tower. The Fortification Museum also includes the mysterious underground bastion passages and the Carved Stone Museum housed there. TheKiekindeKökexhibition gives an overview of the historic war efforts, how",
+        "score": 0.34634283
+      }
+    ]
+  }
+}

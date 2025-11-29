@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { BudgetAllocation, InterestTopic } from "@weekend/core";
+import { BudgetAllocation, InterestSlice } from "@weekend/core";
 import { slugify } from "./slugify";
 
 export type BudgetStage = "scan" | "deep_dive" | "validation";
@@ -20,7 +20,7 @@ export class BudgetManager {
 
   constructor(
     totalBudget: number,
-    interests: InterestTopic[],
+    interests: InterestSlice[],
     private readonly workspaceRoot: string,
   ) {
     if (!Number.isFinite(totalBudget) || totalBudget <= 0) {
@@ -35,13 +35,14 @@ export class BudgetManager {
     let remainder = totalBudget % interests.length;
 
     for (const topic of interests) {
-      const slug = slugify(topic.name || topic.id);
+      const label = this.getInterestLabel(topic);
+      const slug = slugify(label);
       const allowance = base + (remainder > 0 ? 1 : 0);
       if (remainder > 0) remainder -= 1;
 
       this.ledger[topic.id] = {
         interestId: topic.id,
-        interestName: topic.name,
+        interestName: label,
         slug,
         totalCalls: allowance,
         usedCalls: 0,
@@ -96,6 +97,10 @@ export class BudgetManager {
       JSON.stringify(snapshot, null, 2),
       "utf-8",
     );
+  }
+
+  private getInterestLabel(topic: InterestSlice): string {
+    return topic.label || (topic as Record<string, string>).name || topic.id;
   }
 }
 

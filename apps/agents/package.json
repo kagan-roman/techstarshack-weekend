@@ -8,7 +8,8 @@
     "build": "tsc -p tsconfig.json",
     "start": "node dist/index.js",
     "lint": "eslint \"src/**/*.ts\"",
-    "run:scouter": "tsx src/experiments/weekendScouterIsolated.ts"
+    "run:scouter": "tsx src/experiments/weekendScouterIsolated.ts",
+    "run:profiler": "tsx src/experiments/interestProfilerIsolated.ts"
   },
   "dependencies": {
     "@langchain/openai": "^1.1.3",

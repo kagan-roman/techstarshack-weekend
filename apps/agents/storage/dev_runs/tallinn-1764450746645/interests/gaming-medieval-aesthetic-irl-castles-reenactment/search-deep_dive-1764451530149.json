@@ -1,0 +1,61 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "deep_dive",
+  "query": "Eesti Vabaõhumuuseum Jõuluküla 2025 13. detsember 14. detsember evm.ee Tallinn Facebook event",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "deep_dive",
+    "query": "Eesti Vabaõhumuuseum Jõuluküla 2025 13. detsember 14. detsember evm.ee Tallinn Facebook event",
+    "timestamp": "2025-11-29T21:25:30.148Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment",
+        "title": "Jõuluküla Eesti Vabaõhumuuseumis - Facebook",
+        "content": "Public · Hosted by Eesti Vabaõhumuuseum / Estonian Open Air Museum · Dec 13 at 11:00AM – Dec 14 at 4:00PM EET · Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia.",
+        "score": 0.8737439
+      },
+      {
+        "url": "https://www.facebook.com/EestiVabaohumuuseum/posts/1369288431866128/",
+        "title": "Eesti Vabaõhumuuseum / Estonian Open Air Museum - Facebook",
+        "content": "Jõulukülas ootavad lahke pererahvas, jõuluvana ja jõulusokk. Tule kogu perega 13. ja 14. detsembril Eesti Vabaõhumuuseumisse Rocca al Mares!",
+        "score": 0.8482825
+      },
+      {
+        "url": "https://www.facebook.com/photo.php?fbid=1375265401268431&id=100063549522076&set=a.641548691306776",
+        "title": "Eesti Vabaõhumuuseum / Estonian Open Air Museum - Facebook",
+        "content": "Tule kogu perega 13. ja 14. detsembril Eesti Vabaõhumuuseumisse Rocca al Mares! Vaata lisa: https://evm.ee/sundmused/joulukula. Heiki",
+        "score": 0.83290404
+      },
+      {
+        "url": "https://www.facebook.com/EestiVabaohumuuseum/",
+        "title": "Eesti Vabaõhumuuseum / Estonian Open Air Museum | Tallinn",
+        "content": "Tule kogu perega 13. ja 14. detsembril Eesti Vabaõhumuuseumisse Rocca al Mares! Vaata lisa: https://evm.ee/sundmused/joulukula.",
+        "score": 0.78294516
+      },
+      {
+        "url": "https://evm.ee/et",
+        "title": "Eesti Vabaõhumuuseum – EVM",
+        "content": "Jõuluküla 13.-14.12. Eesti Vabaõhumuuseumis tulevad tänavu jõulud kirjasõnaga – rehemajast kolhoosi korterelamuni, piiblist Kodu Anttilani! Täpsem kava siin",
+        "score": 0.73981786
+      },
+      {
+        "url": "https://evm.ee/sundmused/joulukula",
+        "title": "Jõuluküla \"Jõulud kirjasõnaga\" – EVM",
+        "content": "Eesti Vabaõhumuuseumi aastapääsmega, muuseumikaardiga ja Tallinn Cardiga. Jõulud kirjasõnaga 13. ja 14. detsembril kell 11–16. Enne jõule",
+        "score": 0.72675586
+      },
+      {
+        "url": "https://www.facebook.com/EestiVabaohumuuseum/videos/eesti-vaba%C3%B5humuuseumis-tulevad-t%C3%A4navu-j%C3%B5ulud-kirjas%C3%B5naga-rehemajast-kolhoosi-kor/1429954808551580/",
+        "title": "Eesti Vabaõhumuuseumis tulevad tänavu jõulud kirjasõnaga ...",
+        "content": "... ee/sundmused/joulukula | Eesti Vabaõhumuuseum / Estonian Open Air Museum | Facebook ... Vaata lisa: https://evm.ee/sundmused/joulukula",
+        "score": 0.63179934
+      },
+      {
+        "url": "https://www.facebook.com/events/eesti-vaba%C3%B5humuuseum/j%C3%B5ulumatk-eesti-vaba%C3%B5humuuseumis/1073583443408006/?locale=en_GB",
+        "title": "Jõulumatk Eesti Vabaõhumuuseumis! - Facebook",
+        "content": "Pea kõik eestlased on käinud Vabaõhumuuseumis, näinud kauneid talukomplekse ning ilmselt ka unistanud, kui tore võiks olla kenal suvepäeval sellises idüllis",
+        "score": 0.5414337
+      }
+    ]
+  }
+}

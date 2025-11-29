@@ -1,0 +1,61 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "scan",
+  "query": "Tallinn City Museum events December 2025 Kiek in de Kök Bastion Passages guided tour detsember 2025 Tallinn linnamuuseum sündmused",
+  "payload": {
+    "localeHint": "en+et",
+    "intent": "scan",
+    "query": "Tallinn City Museum events December 2025 Kiek in de Kök Bastion Passages guided tour detsember 2025 Tallinn linnamuuseum sündmused",
+    "timestamp": "2025-11-29T21:13:24.421Z",
+    "results": [
+      {
+        "url": "https://linnamuuseum.ee/kiek-in-de-kok/mis-toimub-kok/",
+        "title": "Mis toimub - Tallinna Linnamuuseum",
+        "content": "Tallinna tuntumaid maamärke ja linna kõrgeim kaitsetorn on meie ajaloo esimene suurtükitorn Kiek in de Kök, mille ekspositsioon kulgeb läbi kuue korruse.",
+        "score": 0.6164054
+      },
+      {
+        "url": "https://airial.travel/attractions/estonia/tallinn/kiek-in-de-k%C3%B6k-and-bastion-passages-museum-NRvpmmff",
+        "title": "Kiek in de Kök and Bastion Passages Museum - Airial Travel",
+        "content": "Explore Tallinn's medieval defenses: a 15th-century cannon tower museum with interactive exhibits and secret underground tunnels.",
+        "score": 0.58777803
+      },
+      {
+        "url": "https://www.expedia.com/Kiek-In-De-Kok-And-Bastion-Passages-Museum-Old-Town-Tallinn.d6073059.Vacation-Attraction",
+        "title": "Kiek in de Kok and Bastion Passages Museum Tours - Expedia",
+        "content": "Book an English-speaking guided tour for a comprehensive overview of the tower's place in Estonia's military history.",
+        "score": 0.5654673
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/guided-tours/",
+        "title": "Guided tours - Tallinna Linnamuuseum",
+        "content": "The tours are available in Estonian, English, Russian, and Finnish. Group size is limited to 20 persons. The tour will take about 1 h 20 min.",
+        "score": 0.5530473
+      },
+      {
+        "url": "https://www.sales.vikingline.com/destinations/estonia/tallinn/sights/kiek-in-de-kok/",
+        "title": "Kiek in de Kök Fortifications Museum in Tallinn | Viking Line",
+        "content": "The Kiek in de Kök Fortifications Museum, with its underground passages and defence towers, immerses visitors in the fascinating history of the city of Tallinn.",
+        "score": 0.54245186
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d290218-Reviews-Kiek_in_de_Kok_and_Bastion_Passages_Museum-Tallinn_Harju_County.html",
+        "title": "Kiek in de Kok and Bastion Passages Museum - Tallinn - Tripadvisor",
+        "content": "The tower Kiek in de Kök together with the passages of the Ingrian and Swedish bastions is an exciting part of Tallinn historical fortifications.",
+        "score": 0.5393963
+      },
+      {
+        "url": "https://lydian.ee/en/kiek-in-de-kok-kindlustustemuuseum/programs/",
+        "title": "kiek in de kök fortifications museum - Lydian.ee",
+        "content": "Introduction tour of the new exhibition at Kiek in de Kök · Bastion passages and Craved Stone museum · Four Towers tour · The Maiden´s tower as home and cafe · Kiek",
+        "score": 0.4757764
+      },
+      {
+        "url": "https://www.getyourguide.com/kiek-in-de-kok-l169701/",
+        "title": "Kiek in de Kök, Tallinn - Book Tickets & Tours | GetYourGuide",
+        "content": "Unique walking tour with a lot of tales about medieval Tallinn - get to know the most interesting stories from our history. How the city of Tallinn came to be,",
+        "score": 0.40260404
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "scan",
+  "query": "Tallinn hard techno December 2025 HALL Sveta Noblessner Resident Advisor DnB Tallinn",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Tallinn hard techno December 2025 HALL Sveta Noblessner Resident Advisor DnB Tallinn",
+    "timestamp": "2025-11-29T20:56:50.106Z",
+    "results": [
+      {
+        "url": "https://noblessner.ee/en/technoclub-hall/",
+        "title": "Technoclub HALL - Noblessner",
+        "content": "Technoclub HALL is a modern cultural center, known for electronic dance music, visual experience, and great food and drink.",
+        "score": 0.4024631,
+        "raw_content": "### <Explore Noblessner>\n\n![Location & parking]()\n\n### Location & parking\n\n![Internal Rules of Noblessner]()\n\n### Internal Rules of Noblessner\n\n![About Noblessner]()\n\n### About Noblessner\n\n![Future]()\n\n### Future\n\n### [Eat & Drink](https://noblessner.ee/en/category/eat-drink/)\n\n![LORE]()\n\n### LORE\n\n![PROTO Café]()\n\n### PROTO Café\n\n![Põhjala Tap Room]()\n\n### Põhjala Tap Room\n\n### [Venues](https://noblessner.ee/en/category/venues/)\n\n![PROTO invention factory]()\n\n### PROTO invention factory\n\n![KAI Art Centre]()\n\n### KAI Art Centre\n\n![Technoclub HALL]()\n\n### Technoclub HALL\n\n![Noblessner foundry]()\n\n### Noblessner foundry\n\n### [Shopping & Services](https://noblessner.ee/en/category/shopping-services/)\n\n![IGLUPARK]()\n\n### IGLUPARK\n\n![SHISHI]()\n\n### SHISHI\n\n![ATELIER]()\n\n### ATELIER\n\n# Technoclub HALL\n\nPeetri 6, Noblessner, Tallinn\n\nScheduled events\n\nHall is a modern cultural centre.\n\nIt is internationally known as a Mecca for new electronic dance music in the region.\n\nHall focuses on new electronic dance music, offering guests superb visual and spatial experience and a chance to relax and recharge batteries.\n\nHall is also known in Tallinn for its great food and drink.\n\nHall is a source of inspiration where you can enjoying music, dance and socialise.\n\nFacebook: <https://www.facebook.com/halltallinn/>\n\n![](1)\n\n### Venues\n\n![Advent SUnday in Noblessner 2025]()\n\n### Advent SUnday in Noblessner 2025\n\nOn 30 November at 16:00, the lights of Noblessner's Christmas Tree will switched on festively!\n\n![The Tall Ships Races Tallinn 2024]()\n\n### The Tall Ships Races Tallinn 2024\n\nThe Tall Ships Races is Europe’s largest and oldest sail training ship regatta which will reach Tallinn from July 11th to 14th!\n\n![December 2023 in Noblessner]()\n\n### December 2023 in Noblessner\n\nEvents and offers in Noblessner in December and on Advent Sundays\n\n![Advent Sunday in Noblessner 2023]()\n\n### Advent Sunday in Noblessner 2023\n\nOn 3 December at 16.00, the lights of Noblessner’s Christmas Tree will be switched on festively with the boys’ choir ‘Juhanid’ of the National Opera.\n\n![ARCHITECTURAL COMPETITION LAUNCHED FOR NOBLESSNER]()\n\n### ARCHITECTURAL COMPETITION LAUNCHED FOR NOBLESSNER\n\nKodusadam OÜ announces an open architectural competition for seaside buildings and urban space in Noblessner, Tallinn.\n\n![Tallinn Maritime Days 2023]()\n\n### Tallinn Maritime Days 2023\n\nTallinn Maritime Days 2023 will take place from July 14 to 16! See Noblessner's program here\n\n![Tallinn Maritime Days 2022]()\n\n### Tallinn Maritime Days 2022\n\nTallinn Maritime Days 2022 will take place this year from 25 to 28 in August! See Noblessner's program here.\n\n![Advent Sunday in Noblessner 2021]()\n\n### Advent Sunday in Noblessner 2021\n\nAdvent Sunday will be celebrated for the first time and lights on the Christmas tree will be lit at Noblessner Square on 28 November at 16.00!\n\n![NEW APARTMENT BUILDING IN NOBLESSNER]()\n\n### NEW APARTMENT BUILDING IN NOBLESSNER\n\nAn apartment building accommodating 148 apartments and 11 commercial spaces and featuring a spacious courtyard will be completed at the end of 2023 in Noblessner.\n\n![Ironman Tallinn in Noblessner 7 and 8 August 2021]()\n\n### Ironman Tallinn in Noblessner 7 and 8 August 2021\n\nThe Ironman Tallinn and Ironman Tallinn 70.3 triathlon competitions will be held on 7 and 8 August. The competition centre and finish will be located in Noblessner.\n\n![New development project in Noblessner]()\n\n### New development project in Noblessner\n\nKodusadam OÜ, a joint venture of AS BLRT Grupp and AS Merko Ehitus Eesti, has decided to launch a new real estate development project in Noblessner.\n\n![Noblessner won the international award]()\n\n### Noblessner won the international award\n\nNoblessner district won the highest real estate award in the Baltics.\n\n### Contact"
+      },
+      {
+        "url": "https://ra.co/clubs/140150",
+        "title": "Hall, Tallinn · Upcoming Events & Tickets - Resident Advisor",
+        "content": "Discover events and find tickets for Hall, Tallinn on RA. Platform offering a stage to electronic music and visual arts, introducing Eastern European",
+        "score": 0.39641917
+      },
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "title": "HALL | Tallinn - Facebook",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by vinyl,",
+        "score": 0.39445806
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn/techno",
+        "title": "Upcoming Techno Events in Tallinn · Get Your Tickets On RA",
+        "content": "Discover upcoming electronic music events in Tallinn and get your tickets on RA.",
+        "score": 0.3908251
+      },
+      {
+        "url": "https://ra.co/events/ee/all/techno",
+        "title": "Upcoming Techno Events in Estonia · Get Your Tickets On RA",
+        "content": "Discover upcoming electronic music events in Estonia and get your tickets on RA.",
+        "score": 0.3659556
+      },
+      {
+        "url": "https://www.instagram.com/techno.tallinn/?hl=en",
+        "title": "techno.tallinn - Instagram",
+        "content": "Elektroonilise muusika pidudesari @momentum.ofc esitleb: 5.12.2025 INNELLEA (Afterlife) @innellea esmakordselt Eestis!",
+        "score": 0.28225106
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn?startDate=2025-12-12",
+        "title": "Upcoming Events in Tallinn · Get Your Tickets On RA",
+        "content": "Discover upcoming electronic music events in Tallinn and get your tickets on RA.",
+        "score": 0.24728735
+      },
+      {
+        "url": "https://ra.co/events/ee/tallinn",
+        "title": "Upcoming Events in Tallinn · Get Your Tickets On RA",
+        "content": "Discover upcoming electronic music events in Tallinn and get your tickets on RA.",
+        "score": 0.24728735
+      }
+    ]
+  }
+}

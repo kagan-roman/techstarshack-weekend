@@ -1,0 +1,61 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "scan",
+  "query": "360 kraadi täiskuu rabamatk detsember 2025 Tallinn 360kraadi rabamatk detsember",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "360 kraadi täiskuu rabamatk detsember 2025 Tallinn 360kraadi rabamatk detsember",
+    "timestamp": "2025-11-29T21:14:59.556Z",
+    "results": [
+      {
+        "title": "Display & Video 360 Help - Google Help",
+        "url": "https://support.google.com/displayvideo/?hl=en",
+        "content": "Display & Video 360 Help Display & Video 360 Help Google Help * Help Center* Display & Video 360 * Privacy Policy* Terms of Service* Submit feedback This help content & information  *   Help Center Display & Video 360 How can we help you? Display & Video 360 announcements Link a Display & Video 360 account to Merchant Center ### Build and manage creatives Build creatives How Display & Video 360 billing works Billing profile and invoice settings Create or request a Display & Video 360 billing report Compare invoices with reporting About reporting Audience performance and data cost report types Send feedback about our Help Center This help content & information General Help Center experience Search Help Center",
+        "score": 0.01741743
+      },
+      {
+        "title": "Search Ads 360 Help - Google Help",
+        "url": "https://support.google.com/sa360/?hl=en",
+        "content": "Search Ads 360 Help Search Ads 360 Help Search Ads 360Contact us Help us with aquick studyabout the Search Ads 360 Help Center. Image 1: Search Ads 360 logo How can we help you? Search Ads 360 experience UI navigation Reporting concepts in Search Ads 360 Access to labels and other management data in the new Search Ads 360 How Search Ads 360 collects social reporting data Introducing Help Guide in Search Ads 360 Scheduled edits in Search Ads 360 2024 Search Ads 360 recap Custom Attributes Management in Search Ads 360 Retail Media Support in Search Ads 360 Search Ads 360 adds support for Microsoft automated bidding Search Help Center Google Help * Help Center* Search Ads 360",
+        "score": 0.016981656
+      },
+      {
+        "title": "[GA4] Google Analytics 360 (Google Analytics 4 Properties)",
+        "url": "https://support.google.com/analytics/answer/11202874?hl=en",
+        "content": "+ Get started with Analytics+ Collect and manage data+ Report and explore+ Advertising and attribution+ Audiences and remarketing+ Manage accounts, properties, and users+ Google Analytics 360+ Policies and data privacy For downgrading Google Analytics 4 properties to standard, refer to the Upgrading/downgrading to/from 360 section of this article. The self-service upgrade/downgrade option is only available to Analytics properties that are linked to a Google Marketing Platform organization that has an active 360 order (learn more about orders). Users who are either Org admins or Billing admins for the organization to which the Analytics account is linked can upgrade Google Analytics 4 properties to or downgrade them from the 360 service level. 5. Select the check box for the Google Analytics 4 property you want to upgrade/downgrade.",
+        "score": 0.015846916
+      },
+      {
+        "title": "[GA4] Google Analytics 360 - Analytics Help",
+        "url": "https://support.google.com/analytics/answer/14985986?hl=en",
+        "content": "Analytics Help Google Help + Get started with Analytics+ Collect and manage data+ Report and explore+ Advertising and attribution+ Audiences and remarketing+ Manage accounts, properties, and users+ Google Analytics 360+ Policies and data privacy * Community* Analytics Analytics  Contact us Set up audiencesUse audiences for advertising and remarketing [[GA4] Audiences for common marketing objectives](/analytics/topic/13286687? [[GA4] Subproperties](/analytics/topic/11525653? hl=en&ref_topic=9303569,3544742,2986333,)[[GA4] Roll-up properties](/analytics/topic/11525654? * Google Analytics 360 [[GA4] Subproperties](/analytics/topic/11525653? hl=en&ref_topic=10985992,3544742,2986333,)[[GA4] Roll-up properties](/analytics/topic/11525654? * [[GA4] Google Analytics 360](/analytics/answer/14985986) # [GA4] Google Analytics 360 Google Analytics 360 (GA360) is the premium, enterprise version of Google Analytics 4 (GA4). To learn more about upgrading your property to Google Analytics 360, please contact your account representative or get in touch with a Google Analytics partner. ## Was this helpful?",
+        "score": 0.015846916
+      },
+      {
+        "title": "About Floodlight and Floodlight activities - Campaign Manager …",
+        "url": "https://support.google.com/campaignmanager/answer/3027419?hl=en",
+        "content": "Skip to main content Campaign Manager 360 Help * **Monitor and report on conversions.** For example, the actions users take interacting with one of your ads. * **Create audiences.** For example, lists of users who’ve performed specific actions on a site. Floodlight activities are shared across the Google Marketing Platform, which means you can use a single set of Floodlight tags to track conversions from both display and search advertising. Due to differences in cookie and device ID settings, advertisers may see fluctuations in delivery and performance when cookies or device ID are unavailable. Choose a section to give feedback on 2024 Privacy Readiness guide Prepare for a world without third-party cookies and unlock the AI   Main menu * Privacy Policy* Terms of Service* Submit feedback",
+        "score": 0.015810406
+      },
+      {
+        "title": "Display & Video 360 overview - Display & Video 360 Help",
+        "url": "https://support.google.com/displayvideo/answer/9059464?hl=en",
+        "content": "Display & Video 360 Help * Help Center* Display & Video 360 Display & Video 360 helps teams execute digital advertising campaigns. Your team can design creatives, organize audience data, purchase inventory, and optimize campaigns. Display & Video 360 is organized around five integrated modules that work together to simplify the campaign management process: Campaigns, Audiences, Creatives, Inventory, and Insights. You can see new views that help you organize every component of your campaign, including views that combine insertion orders, line items, and creatives for easier QA checks. Features that help you build and manage audiences include: Build audiences from campaign activity in Display & Video 360.",
+        "score": 0.015557138
+      },
+      {
+        "title": "Manage account links to organizations, move accounts, upgrade …",
+        "url": "https://support.google.com/marketingplatform/answer/9014054?hl=en",
+        "content": "* When you link an account to an organization, any objects associated with that account (e.g., Analytics properties, Tag Manager containers) become accessible from the Administration page, and you can take actions on those accounts and objects (e.g., change the service level from standard to 360 for an Analytics property or a Tag Manager account). | Google Analytics 360 | *Org admin* or *Billing admin* role for the organization    *Administrator role* for the Analytics 360 account    The organization you're linking to must have an active order for the Analytics 360 account | After you link a product account to an organization, you can change the service level from standard to 360 for objects like Analytics properties.",
+        "score": 0.0146847805
+      },
+      {
+        "title": "Campaign Manager 360 Help - Google Help",
+        "url": "https://support.google.com/campaignmanager/?hl=en",
+        "content": "Official Campaign Manager 360 Help Center where you can find tips and tutorials on using Campaign Manager 360 and other answers to frequently asked questions.",
+        "score": 0.013543917
+      }
+    ]
+  }
+}

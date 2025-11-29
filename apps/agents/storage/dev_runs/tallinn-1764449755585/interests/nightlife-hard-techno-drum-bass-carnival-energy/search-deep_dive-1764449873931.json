@@ -1,0 +1,12 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "deep_dive",
+  "query": "site:facebook.com/events HALL Tallinn 12.12.25 ISOLA IX SPACE SERIES CHAMI D-LERIA",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "deep_dive",
+    "query": "site:facebook.com/events HALL Tallinn 12.12.25 ISOLA IX SPACE SERIES CHAMI D-LERIA",
+    "timestamp": "2025-11-29T20:57:53.931Z",
+    "results": []
+  }
+}

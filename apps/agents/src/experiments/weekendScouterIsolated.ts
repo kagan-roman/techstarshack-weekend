@@ -1,58 +1,54 @@
+import fs from "node:fs";
 import path from "node:path";
 import pino from "pino";
 import { WeekendScouterAgent } from "../agents/weekendScouterAgent";
-import { WeekendScouterRequest } from "@weekend/core";
+import { WeekendScouterRequest, UserProfile } from "@weekend/core";
 
 const logger = pino({ name: "weekend-scouter-isolated", level: "info" });
+const DEFAULT_PROFILE_PATH =
+  "/Users/romankaganov/Documents/onecraft/techstarshack-weekend/apps/agents/storage/interest_profiler_runs/1764429524415/reports/profile.json";
+
+const loadProfile = (): UserProfile => {
+  const profilePath = process.env.SCOUTER_PROFILE_PATH ?? DEFAULT_PROFILE_PATH;
+  if (!fs.existsSync(profilePath)) {
+    throw new Error(`Profile JSON not found at ${profilePath}. Set SCOUTER_PROFILE_PATH to override.`);
+  }
+
+  const raw = fs.readFileSync(profilePath, "utf-8");
+  const profile = JSON.parse(raw) as UserProfile;
+  return profile;
+};
 
 const main = async () => {
   const agent = new WeekendScouterAgent({
-    searchBudget: 6,
+    searchBudget: 70, // 10 calls per interest (7 interests including food)
     workspaceRoot: path.resolve(process.cwd(), "storage/dev_runs"),
+    maxParallel: 3, // Run 3 interest agents in parallel
   });
 
+  const profile = loadProfile();
+  
+  // Ensure trip context has all required fields (profile may have trip object with null values)
+  const defaultTrip = {
+    city: "Tallinn",
+    country: "Estonia",
+    startDate: "2025-12-01",
+    endDate: "2025-12-14",
+    notes: "Default trip context injected by isolated runner",
+  };
+  
+  profile.trip = {
+    ...defaultTrip,
+    ...profile.trip,
+    // Override nulls with defaults
+    city: profile.trip?.city ?? defaultTrip.city,
+    country: profile.trip?.country ?? defaultTrip.country,
+    startDate: profile.trip?.startDate ?? defaultTrip.startDate,
+    endDate: profile.trip?.endDate ?? defaultTrip.endDate,
+  };
+
   const request: WeekendScouterRequest = {
-    profile: {
-      userId: "demo-user",
-      displayName: "Space Punk Nomad",
-      homeBase: "Tallinn",
-      preferredLanguages: ["English", "Estonian", "Russian"],
-      bioSummary:
-        "Obsessed with astronomy, heavy underground scenes, early-stage founders, and local comfort food with attitude.",
-      interests: [
-        {
-          id: "astro",
-          name: "Astronomy & Physics salons",
-          summary: "Observatory nights, citizen science meetups, space cafes.",
-          tags: ["astronomy", "physics"],
-        },
-        {
-          id: "punk",
-          name: "Underground punk/metal/electronic",
-          summary: "DIY shows, rave collectives, independent venues.",
-          tags: ["punk", "metal", "electronic"],
-        },
-        {
-          id: "startups",
-          name: "Startup/tech founders",
-          summary: "Meetups, hacker houses, demo nights.",
-          tags: ["founders", "meetups"],
-        },
-        {
-          id: "foodie",
-          name: "Mid-range local foodie gems",
-          summary: "Modern Estonian, Baltic-Asian mashups, hidden bars.",
-          tags: ["food", "drink"],
-        },
-      ],
-    },
-    trip: {
-      city: "Tallinn",
-      country: "Estonia",
-      startDate: "2025-12-01",
-      endDate: "2025-12-14",
-      notes: "Wants local-only experiences + interesting communities. Budget flexible but prefers mid-range.",
-    },
+    profile,
     deliverableFormat: "markdown",
   };
 

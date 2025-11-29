@@ -1,0 +1,43 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "scan",
+  "query": "Tallinn food tour December 2025 \"Food Sightseeing Estonia\"",
+  "payload": {
+    "localeHint": "en/ru",
+    "intent": "scan",
+    "query": "Tallinn food tour December 2025 \"Food Sightseeing Estonia\"",
+    "timestamp": "2025-11-29T21:32:56.519Z",
+    "results": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d3195170-Reviews-or10-Food_Sightseeing_Estonia-Tallinn_Harju_County.html",
+        "title": "Food Sightseeing Estonia (2025) - All You Need to Know BEFORE ...",
+        "content": "Tours and Tickets by Food Sightseeing Estonia. LIKELY TO SELL OUT*. Tallinn 3-Hour Estonian Food Tour · 4.4. (180). Walking Tours. 3–4 hours. Enjoy this food",
+        "score": 0.7325349
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d11463606-Tallinn_3_Hour_Estonian_Food_Tour-Tallinn_Harju_County.html",
+        "title": "2025 Tallinn 3-Hour Estonian Food Tour - with Trusted Reviews",
+        "content": "Great information, food and sights. The history is fascinating - from award winning chocolates, to superb elk broth, to mushroom pies, to great coffee - and",
+        "score": 0.7116118
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d21240042-Tallinn_Food_Tour_with_Round_trip_Transfer_Port_City-Tallinn_Harju_County.html",
+        "title": "2025 Tallinn Food Tour with Round-trip Transfer Port-City - Tripadvisor",
+        "content": "You'll enjoy around 7 food and drink stops combined with strolls around the old town and city centre. Enjoy the venues like: medieval thematic tavern, local",
+        "score": 0.69672287
+      },
+      {
+        "url": "https://hekla-travel.com/estonia/tallinn-3-hour-estonian-food-tour",
+        "title": "Tallinn 3-hour Estonian Food Tour | Hekla.com",
+        "content": "Tallinn 3-hour Estonian Food Tour One-day tour. Our partner: Food Sightseeing Estonia.",
+        "score": 0.61251885
+      },
+      {
+        "url": "https://www.facebook.com/groups/ExpatsEstonia/posts/2610885232637858/",
+        "title": "Tallinn Food Tour – eat, walk & discover Estonia! Wanna taste the ...",
+        "content": "Food Sightseeing Estonia is in Tallinn, Estonia. 6h󰞋󱘺Enaid󰞋󱟠. Tallinn",
+        "score": 0.5914643
+      }
+    ]
+  }
+}

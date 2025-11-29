@@ -1,0 +1,49 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "deep_dive",
+  "query": "Sportland Kõrvemaa Matka- ja Suusakeskus üritused detsember 2025 täiskuu matk",
+  "payload": {
+    "localeHint": "et",
+    "intent": "deep_dive",
+    "query": "Sportland Kõrvemaa Matka- ja Suusakeskus üritused detsember 2025 täiskuu matk",
+    "timestamp": "2025-11-29T21:16:01.638Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/korvemaa/?locale=cy_GB",
+        "title": "Sportland Kõrvemaa - Facebook",
+        "content": "Mae Sportland Kõrvemaa yn Kõrvemaa Matka- Ja Suusakeskus. 5 Tach 2025 · 󰟠. 󰟝. KÕRVEMAA x PIKNIK Kõrvemaal peame pikniku igal aastaajal! Eriti mõnus on",
+        "score": 0.6882385
+      },
+      {
+        "url": "https://sport.sportlandkorvemaa.ee/",
+        "title": "Sportland Kõrvemaa Neliküritus",
+        "content": "Kuni 31.12.2025 kehtib soodustus 30%, kui valid korraga registreerimiseks vähemalt 4 Sportland Kõrvemaa Neliku sarja võistlust. Kui Sul endal suuski pole",
+        "score": 0.5829428
+      },
+      {
+        "url": "https://sportlandkorvemaa.ee/",
+        "title": "Sportland Kõrvemaa - Matka ja Suusakeskus",
+        "content": "PAKUME. Aktiivtegevused. Matkad · Discgolf · Viburada · Orienteerumine · Rajad · Suusatamine · Toitlustamine · Saunad ja kümblustünnid · Majutus",
+        "score": 0.51530343
+      },
+      {
+        "url": "https://sportlandkorvemaa.ee/events/list/?tribe_event_display=past&lang=en",
+        "title": "Archives: Events - Sportland Kõrvemaa",
+        "content": "Maastikumatkajooks · Isadepäeva matk · Sportlik jalgsimatk 20 km · Lambimatk · Päikesetõusu jalgsimatk · Sportlik treening lisaraskustega · Jalgsimatk koos lastega",
+        "score": 0.4600226
+      },
+      {
+        "url": "https://sportlandkorvemaa.ee/event/salomon-jooks-matk-korvemaal/",
+        "title": "Salomon jooks-matk Kõrvemaal - Sportland Kõrvemaa",
+        "content": "Tule ja osale JOOKS-MATKAL! AEG 26.10.2025, start kell 10.00, alates 09.00 algab numbrite väljastamine. REGISTREERUMINE",
+        "score": 0.44015694
+      },
+      {
+        "url": "https://sportlandkorvemaa.ee/Korraldaja/korvemaa/?eventDisplay=past",
+        "title": "Sportland Kõrvemaa",
+        "content": "Suusatamise personaaltreeningud · Sportland Kõrvemaa Suusakool lastele · Sõbrapäeva off-road suusaretk rabas · Talisuplus – teadlikult, turvaliselt ja",
+        "score": 0.36432564
+      }
+    ]
+  }
+}

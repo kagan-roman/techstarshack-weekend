@@ -1,0 +1,43 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "scan",
+  "query": "Estonia full moon hike December 2025 jõulukuine täiskuu matk Tallinn",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "Estonia full moon hike December 2025 jõulukuine täiskuu matk Tallinn",
+    "timestamp": "2025-11-29T21:13:33.683Z",
+    "results": [
+      {
+        "url": "https://www.timeanddate.com/moon/phases/estonia/tallinn",
+        "title": "Moon Phases 2025 – Lunar Calendar for Tallinn, Estonia",
+        "content": "Moon Phases for Tallinn, Nov 28, 2025 – Dec 20, 2025 ; First Quarter. November 28. 8:58 am ; Full Moon. December 5. 1:14 am ; Third Quarter. December 11. 10:51 pm",
+        "score": 0.72489023
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d25315873-or10-Half_Day_Hiking_Tour_in_Beautiful_Estonian_Nature-Tallinn_Harju_County.html",
+        "title": "2025 Half Day Hiking Tour in Beautiful Estonian Nature (Tallinn)",
+        "content": "It was such a pleasure to join Juhan for this carefully curated tour including bogland, forest, lakes and a stunning waterfall.",
+        "score": 0.6396691
+      },
+      {
+        "url": "https://www.timeanddate.com/moon/estonia/tallinn?month=3",
+        "title": "Tallinn, Estonia — Moonrise, Moonset, and Moon Phases, March 2025",
+        "content": "Dec 5, 2025, 1:14 am. Next New Moon: Dec 20, 2025, 3:43 am. Next Moonrise: Today ... The third primary phase of the Moon is the Full Moon. How was your",
+        "score": 0.5489884
+      },
+      {
+        "url": "https://www.timeanddate.com/moon/estonia/tallinn?month=12",
+        "title": "Moonrise, Moonset, and Moon Phase in Tallinn, December 2025",
+        "content": "Moonrise and moonset time, Moon direction, and Moon phase in Tallinn – Estonia for December 2025. When and where does the Moon rise and set?",
+        "score": 0.5433243
+      },
+      {
+        "url": "https://www.mooninfo.org/world/estonia/68385/full-moon-2025-for-tallinn.html",
+        "title": "Full Moon 2025 for Tallinn, Harjumaa, Estonia",
+        "content": "The full moon 2025 for Tallinn, Harjumaa, Estonia and the next full moon including exact date and local times are listed below.",
+        "score": 0.52057004
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "site:eestikontsert.ee Niguliste 2025 detsember Hortus Musicus Tallinn",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "site:eestikontsert.ee Niguliste 2025 detsember Hortus Musicus Tallinn",
+    "timestamp": "2025-11-29T21:24:48.489Z",
+    "results": [
+      {
+        "title": "Hortus Musicus tähistab sel nädalal 50 aasta juubelit – Eesti Kontsert",
+        "url": "https://eestikontsert.ee/en/hortus-musicus-tahistab-sel-nadalal-oma-50-aasta-juubelit/",
+        "content": "School concerts 2025 /2026. Collectives. Services. Hortus Musicus 50“, mis viib külastaja ajarännule ning pakub võimalust end argimõtetest välja lülitada. Inspireeruda saab samadest allikatest, millest noored muusikud omal ajal loomejulgust said – selleks on ilu, headus ja armastus.",
+        "score": 0.68723184
+      },
+      {
+        "title": "Hortus Musicus – Eesti Kontsert",
+        "url": "https://eestikontsert.ee/festival/hortus-musicus/",
+        "content": "Hortus Musicus andis oma esimese kontserdi 1972. aastal. Ansambel asutati toonase Tallinna Riikliku Konservatooriumi viiuliüliõpilase Andres Mustoneni eestvedamisel ja on omal alal vanim katkematult tänini tegutsev ansambel Ida-Euroopas ja üks väheseid nii pikaealisi maailmas.",
+        "score": 0.52334785
+      },
+      {
+        "title": "X Tallinna Bachi muusika festival Hortus Musicus (KONTSERT ...",
+        "url": "https://eestikontsert.ee/kontsert/x-tallinna-bachi-muusika-festival-hortus-musicus-kontsert-jaab-ara/",
+        "content": "Valitsuse korraldusest tulenevalt jätab Eesti Kontsert 28. detsembrist 17. jaanuarini ära kontserdid Tallinnas ja Jõhvis.",
+        "score": 0.50490767
+      },
+      {
+        "title": "Hortus Musicus – Eesti Kontsert",
+        "url": "https://eestikontsert.ee/en/festival/hortus-musicus-2/",
+        "content": "Introduction Hortus Musicus was performed in concert in 1972. The ensemble was founded upon the initiative of Andres Mustonen, violin student at the institution, which at the time was known as the Tallinn State Conservatoire. Hortus Musicus is the oldest continuously working ensemble in its field in Eastern Europe and one of the few of such longevity in the world. Hortus Musicus is classed",
+        "score": 0.5035894
+      },
+      {
+        "title": "Hortus Musicus – 45 aastat ühisel teel – Eesti Kontsert",
+        "url": "https://eestikontsert.ee/hortus-musicus-45-aastat-uhisel-teel/",
+        "content": "Sel sügisel tähistab ansambel Hortus Musicus 45 aasta koosmusitseerimise juubelit, olles omal alal vanim katkematult tegutsev ansambel Ida-Euroopas ja üks väheseid nii pikaealisi terves maailmas.",
+        "score": 0.5010992
+      },
+      {
+        "title": "Hortus Musicus . X Tallinna Bachi muusika festival – Eesti Kontsert",
+        "url": "https://eestikontsert.ee/kontsert/hortus-musicus-x-tallinna-bachi-muusika-festival/",
+        "content": "X Tallinna Bachi muusika festival. Reede, 30.07. 19:00. Tallinn , Niguliste kirik. Klassika.",
+        "score": 0.4893821
+      }
+    ]
+  }
+}

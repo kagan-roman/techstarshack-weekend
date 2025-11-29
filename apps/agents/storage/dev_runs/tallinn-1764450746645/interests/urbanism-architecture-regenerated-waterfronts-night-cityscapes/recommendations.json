@@ -1,0 +1,243 @@
+[
+  {
+    "type": "event",
+    "id": "isola-ix-hall-2025-12-12",
+    "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria",
+    "description": "Nine-year celebration of ISOLA at HALL — underground electronic music night with live performance focus in repurposed industrial space on Tallinn’s waterfront (Noblessner). Ideal for night cityscape vibes before/after inside shots.",
+    "startDateTime": "2025-12-12T23:59:00+02:00",
+    "endDateTime": null,
+    "venue": {
+      "name": "HALL",
+      "address": "Peetri 6, 10414 Tallinn, Estonia",
+      "neighborhood": "Noblessner / Port of Tallinn"
+    },
+    "tags": [
+      "nightlife",
+      "creative districts",
+      "waterfront renewal",
+      "night photography",
+      "electronic"
+    ],
+    "sources": [
+      {
+        "url": "https://ra.co/events/2313947",
+        "name": "Resident Advisor event page",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/",
+        "name": "Facebook event",
+        "type": "community"
+      },
+      {
+        "url": "https://ra.co/clubs/140150",
+        "name": "HALL club page on RA",
+        "type": "regional"
+      }
+    ],
+    "ticket": {
+      "status": "available",
+      "url": "https://ra.co/events/2313947"
+    },
+    "languageNotes": "Door and event info typically in EN/ET; crowd mixed Estonian/Russian/English.",
+    "touristTrap": 35,
+    "confidence": 0.79
+  },
+  {
+    "type": "event",
+    "id": "fotografiska-dago-2025-12-13",
+    "title": "Concert: Dagö · Martin Kosseson at Fotografiska Tallinn",
+    "description": "A concert set inside Fotografiska Tallinn at Telliskivi Creative City — perfect combo of creative district architecture and evening culture; pair with blue-hour shots around Telliskivi courtyards.",
+    "startDateTime": "2025-12-13T19:00:00+02:00",
+    "endDateTime": null,
+    "venue": {
+      "name": "Fotografiska Tallinn",
+      "address": "Telliskivi 60a/8, 10412 Tallinn, Estonia",
+      "neighborhood": "Telliskivi Creative City"
+    },
+    "tags": [
+      "creative districts",
+      "night photography",
+      "music",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://tallinn.fotografiska.com/en/whats-on/upcoming",
+        "name": "Fotografiska Tallinn — What’s On",
+        "type": "regional"
+      }
+    ],
+    "ticket": {
+      "status": "tbd",
+      "url": "https://tallinn.fotografiska.com/en/events"
+    },
+    "languageNotes": "Site in EN/ET; door staff English-friendly.",
+    "touristTrap": 55,
+    "confidence": 0.68
+  },
+  {
+    "type": "event",
+    "id": "tallinn-christmas-market-fri-late-2025-12-12",
+    "title": "Tallinn Christmas Market — Friday late hours",
+    "description": "Historic Town Hall Square market with extended Fri–Sat hours to 23:00. While mainstream, it’s the best opportunity for festive night cityscapes with medieval architecture lighting and seasonal performances.",
+    "startDateTime": "2025-12-12T10:00:00+02:00",
+    "endDateTime": "2025-12-12T23:00:00+02:00",
+    "venue": {
+      "name": "Tallinn Christmas Market (Raekoja plats)",
+      "address": "Raekoja plats, 10146 Tallinn, Estonia",
+      "neighborhood": "Old Town"
+    },
+    "tags": [
+      "night photography",
+      "architecture",
+      "market",
+      "seasonal"
+    ],
+    "sources": [
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "name": "Official Tallinn Christmas Market site",
+        "type": "national"
+      },
+      {
+        "url": "https://www.instagram.com/tallinnchristmasmarket/",
+        "name": "Tallinn Christmas Market Instagram",
+        "type": "community"
+      }
+    ],
+    "ticket": {
+      "status": "free",
+      "url": "https://christmasmarket.ee/en/"
+    },
+    "languageNotes": "Crowd multilingual; some vendors speak Russian and English.",
+    "touristTrap": 85,
+    "confidence": 0.75
+  },
+  {
+    "type": "location",
+    "id": "noblessner-seafront-quarter",
+    "title": "Noblessner Seafront Quarter",
+    "description": "Former Tsarist submarine shipyard transformed into a contemporary waterfront quarter with Kai Art Center and HALL; industrial brick, cranes, and quay reflections make it Tallinn’s prime regenerated waterfront for night photography.",
+    "operatingHours": {
+      "summary": "Public waterfront realm open 24/7; venue hours vary (Kai exhibition Wed–Sun; restaurants late)"
+    },
+    "venue": {
+      "name": "Noblessner Quarter",
+      "address": "Peetri 10, 10415 Tallinn, Estonia",
+      "neighborhood": "Noblessner"
+    },
+    "tags": [
+      "waterfront renewal",
+      "creative districts",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://noblessner.ee/en/kai-art-centre/",
+        "name": "Noblessner – Kai Art Center",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.kai.center/en",
+        "name": "Kai Art Center — official site",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s flagship adaptive reuse on the Baltic seafront, clustering art spaces and clubs within a historic submarine shipyard complex.",
+    "whyItFits": "Direct hit on waterfront renewal + night cityscapes; industrial textures and harbor lights are tailor-made for evening photo walks.",
+    "touristTrap": 60,
+    "confidence": 0.8
+  },
+  {
+    "type": "location",
+    "id": "telliskivi-creative-city",
+    "title": "Telliskivi Creative City",
+    "description": "Railway depot and factory buildings turned into Estonia’s densest creative quarter with Fotografiska, galleries, and nightlife; neon signage and courtyards glow at blue hour.",
+    "operatingHours": {
+      "summary": "Public courtyards open 24/7; Fotografiska late on Fridays (open until midnight)"
+    },
+    "venue": {
+      "name": "Telliskivi Loomelinnak",
+      "address": "Telliskivi 60, 10412 Tallinn, Estonia",
+      "neighborhood": "Telliskivi/Pelgulinn"
+    },
+    "tags": [
+      "creative districts",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://tallinn.fotografiska.com/en/visit",
+        "name": "Fotografiska Tallinn – Visit info",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s pioneering creative campus; the specific mix of brick industrial halls and contemporary cultural anchors is distinctive to the city.",
+    "whyItFits": "Creative district hop with reliable evening ambiance for urban photography.",
+    "touristTrap": 65,
+    "confidence": 0.74
+  },
+  {
+    "type": "location",
+    "id": "reidi-tee-promenade",
+    "title": "Reidi tee Promenade (Kadriorg–Pirita waterfront)",
+    "description": "Newest stretch of illuminated seaside promenade linking Kadriorg parkland with the port; long lines of light poles and sea vistas ideal for blue-hour shots and ferry-light trails.",
+    "operatingHours": {
+      "summary": "Open 24/7 (public promenade)"
+    },
+    "venue": {
+      "name": "Reidi tee Promenade",
+      "address": "Reidi tee, 10151 Tallinn, Estonia",
+      "neighborhood": "Kadriorg/Harbour"
+    },
+    "tags": [
+      "waterfront renewal",
+      "night photography",
+      "architecture"
+    ],
+    "sources": [
+      {
+        "url": "https://visittallinn.ee/eng/visitor/see-do/attractions/all-attractions/179850",
+        "name": "Visit Tallinn listing (Reidi tee promenade)",
+        "type": "national"
+      }
+    ],
+    "uniquenessReason": "Tallinn’s newest waterfront public space designed for pedestrians and cyclists with city-lit views across the bay.",
+    "whyItFits": "Direct waterfront renewal and night cityscape frames facing the harbor and skyline.",
+    "touristTrap": 70,
+    "confidence": 0.62
+  },
+  {
+    "type": "location",
+    "id": "linnahall-exteriors",
+    "title": "Linnahall Exteriors & Terraces",
+    "description": "Monumental late-Soviet seafront complex by Raine Karp; stark concrete terraces give cinematic night perspectives over the harbor; interiors usually closed.",
+    "operatingHours": {
+      "summary": "Exterior public access generally open; interior closed due to long-term redevelopment"
+    },
+    "venue": {
+      "name": "Linnahall",
+      "address": "Mere puiestee 20, 10111 Tallinn, Estonia",
+      "neighborhood": "Harbour/Old Town edge"
+    },
+    "tags": [
+      "architecture",
+      "night photography",
+      "waterfront"
+    ],
+    "sources": [
+      {
+        "url": "https://estonianarchitecture.com/guided-tours/",
+        "name": "Estonian Centre for Architecture — guided tours (incl. Linnahall)",
+        "type": "regional"
+      }
+    ],
+    "uniquenessReason": "One of the most iconic Soviet-modernist waterfront megastructures in the Baltics.",
+    "whyItFits": "Irreplaceable architecture on the seafront with dramatic night geometry.",
+    "touristTrap": 45,
+    "confidence": 0.66
+  }
+]

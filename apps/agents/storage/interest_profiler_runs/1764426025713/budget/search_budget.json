@@ -1,0 +1,30 @@
+[
+  {
+    "event": "init",
+    "reason": null,
+    "timestamp": "2025-11-29T14:20:25.714Z",
+    "total": 8,
+    "remaining": 8
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner district location and description",
+    "timestamp": "2025-11-29T14:23:55.096Z",
+    "total": 8,
+    "remaining": 7
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner Tallinn district port area Estonia",
+    "timestamp": "2025-11-29T14:24:01.847Z",
+    "total": 8,
+    "remaining": 6
+  },
+  {
+    "event": "consume",
+    "reason": "Devojački grob Kopaonik hike location",
+    "timestamp": "2025-11-29T14:24:21.264Z",
+    "total": 8,
+    "remaining": 5
+  }
+]

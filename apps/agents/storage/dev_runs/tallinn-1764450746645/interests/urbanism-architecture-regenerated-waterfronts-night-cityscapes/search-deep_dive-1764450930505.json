@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "deep_dive",
+  "query": "Resident Advisor Tallinn December 2025 events HALL Hall Tallinn Noblessner",
+  "payload": {
+    "localeHint": "en",
+    "intent": "deep_dive",
+    "query": "Resident Advisor Tallinn December 2025 events HALL Hall Tallinn Noblessner",
+    "timestamp": "2025-11-29T21:15:30.504Z",
+    "results": [
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "title": "HALL | Tallinn - Facebook",
+        "content": "25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we ... More info can be found on Resident Advisor, and tickets are available via the",
+        "score": 0.66229486
+      },
+      {
+        "url": "https://ra.co/events/2266146?sharedId=&subId1=&subId3=3Uk5KJ07hWByOaaHWdbZrC&partnerId=residentadvisor",
+        "title": "CU Showcase x kontrast - Hall x SVE x culture unseen",
+        "content": "Fri, 5 Dec 2025. Line-Up: Rome In Reverse, lego, Gusted, Merimell, Motobor, Katja Adrikova & More. Get Your Tickets On RA.",
+        "score": 0.53065056
+      },
+      {
+        "url": "https://ra.co/clubs/140150",
+        "title": "Hall, Tallinn · Upcoming Events & Tickets - Resident Advisor",
+        "content": "Discover events and find tickets for Hall, Tallinn on RA. Platform offering a stage to electronic music and visual arts, introducing Eastern European",
+        "score": 0.498609
+      },
+      {
+        "url": "https://ra.co/promoters/100742",
+        "title": "HALL · Upcoming Events, Tickets & News - Resident Advisor",
+        "content": "Discover events and find tickets for HALL on RA.",
+        "score": 0.42319635
+      },
+      {
+        "url": "https://www.songkick.com/concerts/42819302-sachal-vasandani-at-nobel-hall",
+        "title": "Sachal Vasandani Tallinn Tickets, Nobel Hall, 08 Dec 2025 - Songkick",
+        "content": "Buy tickets, find event, venue and support act information and reviews for Sachal Vasandani's upcoming concert at Nobel Hall in Tallinn on 08 Dec 2025.",
+        "score": 0.3382962
+      },
+      {
+        "url": "https://ra.co/events/2300383",
+        "title": "TWILIGHT RAVE - 20th Anniversay Celebration (Tallinn)",
+        "content": "TWILIGHT RAVE - 20th Anniversay Celebration (Tallinn) · Venue. Club Privé. Harju 6 (Old Town); Tallinn; Estonia · Date. Sat, 6 Dec 2025. 23:00 - 04:00 · Promoter.",
+        "score": 0.281295
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "event": "init",
+    "reason": null,
+    "timestamp": "2025-11-29T13:57:39.835Z",
+    "total": 8,
+    "remaining": 8
+  },
+  {
+    "event": "consume",
+    "reason": "Noblessner location",
+    "timestamp": "2025-11-29T13:59:59.741Z",
+    "total": 8,
+    "remaining": 7
+  },
+  {
+    "event": "consume",
+    "reason": "Port Noblessner Tallinn Estonia",
+    "timestamp": "2025-11-29T14:02:40.311Z",
+    "total": 8,
+    "remaining": 6
+  },
+  {
+    "event": "consume",
+    "reason": "Devojacki Grob Kopaonik meaning",
+    "timestamp": "2025-11-29T14:03:30.385Z",
+    "total": 8,
+    "remaining": 5
+  },
+  {
+    "event": "consume",
+    "reason": "Muzeum Historii Polski location",
+    "timestamp": "2025-11-29T14:03:35.186Z",
+    "total": 8,
+    "remaining": 4
+  },
+  {
+    "event": "consume",
+    "reason": "Fanal Madeira witch forest",
+    "timestamp": "2025-11-29T14:03:43.944Z",
+    "total": 8,
+    "remaining": 3
+  },
+  {
+    "event": "consume",
+    "reason": "Caldeira Velha Sao Miguel Azores",
+    "timestamp": "2025-11-29T14:03:48.037Z",
+    "total": 8,
+    "remaining": 2
+  }
+]

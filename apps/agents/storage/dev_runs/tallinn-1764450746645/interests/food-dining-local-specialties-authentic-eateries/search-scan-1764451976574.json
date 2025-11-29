@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "scan",
+  "query": "Tallinn Christmas Market 2025 opening hours Jouluturg Raekoja plats",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "scan",
+    "query": "Tallinn Christmas Market 2025 opening hours Jouluturg Raekoja plats",
+    "timestamp": "2025-11-29T21:32:56.574Z",
+    "results": [
+      {
+        "url": "https://www.tripologiste.com/events/tallinna-juluturg",
+        "title": "Tallinna Jõuluturg 2025 (Tallinn Christmas Market), Tallinn, Estonia",
+        "content": "Tallinna Jõuluturg · DATES & TIMES Season: 21 November – 27 December 2025. Official site · LOCATION Where: Town Hall Square (Raekoja plats), Tallinn Old Town.",
+        "score": 0.90018827
+      },
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "title": "21.11 – 28.12.2025 - Tallinn Christmas Market",
+        "content": "Tallinn Christmas Market On 21 November, Town Hall Square in the heart of Tallinn’s medieval Old Town will once again be transformed into a small piece of a Christmas fairy tale: the traditional Tallinn Christmas Market will open its “imaginary gates” for the 25th time. The Tallinn Christmas Market will remain open until the evening of 28 December, but the Christmas fairy tale does not end there: the Christmas tree will stay on Town Hall Square for several more weeks, and the story continues throughout the festively decorated Old Town! #### Christmas Market at the Town Hall Square in Tallinn, 21 November – 28 December 2025",
+        "score": 0.8963332
+      },
+      {
+        "url": "https://visitestonia.com/en/tallinn-christmas-market",
+        "title": "Tallinn Christmas Market | Visit Estonia",
+        "content": "Tallinn. Date. 21. nov - 28. dec 2025. Location. Raekoja plats - Raekoja plats, Kesklinna linnaosa, Tallinn, Harju maakond. Homepage · Facebook. Phone. +372",
+        "score": 0.88564163
+      },
+      {
+        "url": "https://www.instagram.com/p/DRXMCnKjG0s/",
+        "title": "The Christmas market will be held from 21.11.2025 to 28.12.2025 ...",
+        "content": "Fair opening hours: every day from 10:00 to 20:00, and on Friday and Saturday, the fair will be open until 23:00 ... Riigi peamine “Jõulupuu”",
+        "score": 0.8810534
+      },
+      {
+        "url": "https://herjoliejourney.com/tallinn-christmas-market-dates/",
+        "title": "Don't Miss It! 2025 Tallinn Christmas Market Dates + Insider Advice",
+        "content": "For 2025, the market opens on November 21 and runs through December 27, giving you plenty of time to soak in the holiday magic. The market is",
+        "score": 0.8773195
+      },
+      {
+        "url": "https://www.facebook.com/groups/236576921294199/posts/1399027551715791/",
+        "title": "This year, the Christmas Market will take place from November 21 to ...",
+        "content": "This year, the Christmas Market will take place from November 21 to December 28, 2025. ✨️ - at Raekoja plats, Tallinn. · May be an image of",
+        "score": 0.8646883
+      }
+    ]
+  }
+}

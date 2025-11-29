@@ -1,0 +1,37 @@
+{
+  "query": "Muzeum Historii Polski location",
+  "context": "IG location tag suggesting a museum; verify country/city.",
+  "timestamp": "2025-11-29T14:03:36.207Z",
+  "results": [
+    {
+      "url": "https://muzhp.pl/en/plan-your-visit",
+      "title": "Plan your visit - Polish History Museum in Warsaw",
+      "content": "The Polish History Museum is located on the grounds of the Warsaw Citadel, in the district of Żoliborz. For pedestrians. Nearest public transport stops:.",
+      "score": 0.8941352
+    },
+    {
+      "url": "https://muzhp.pl/en/visit",
+      "title": "Plan a visit to the Polish History Museum in Warsaw",
+      "content": "The Polish History Museum is located on the premises of the Warsaw Citadel, in the Żoliborz district of Warsaw. Gwardii 1 street 01-538 Warsaw Plus Code: 7282+",
+      "score": 0.8891543
+    },
+    {
+      "url": "https://muzeum-historii-polski-cytadela-warszawska.wheree.com/",
+      "title": "Muzeum Historii Polski - Cytadela Warszawska - Reviews, Photos ...",
+      "content": "Muzeum Historii Polski - Cytadela Warszawska is a modern museum located in the historic Warsaw Citadel, showcasing Poland's rich history through innovative",
+      "score": 0.8793233
+    },
+    {
+      "url": "https://mapy.com/en/?source=osm&id=1178553835",
+      "title": "Museum of Polish History - Mapy.com",
+      "content": "Muzeum Historii Polski w Warszawie. Museum. Gwardii 1, 01-532 Warsaw - Żoliborz, Poland. Gwardii 1, 01-532 Warszawa - Żoliborz, Polska. Directions. Save. Share.",
+      "score": 0.8655088
+    },
+    {
+      "url": "https://www.yelp.com/biz/muzeum-historii-polski-w-warszawie-warszawa-2",
+      "title": "MUZEUM HISTORII POLSKI W WARSZAWIE - Updated October 2025",
+      "content": "More info about Muzeum Historii Polski w Warszawie · Map · ul. Hrubieszowska 6a. 01-209 Warsaw. Poland. Wola. Directions",
+      "score": 0.8430832
+    }
+  ]
+}

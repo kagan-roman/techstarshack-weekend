@@ -1,0 +1,76 @@
+[
+  {
+    "type": "location",
+    "id": "vabamu-occupations-freedom",
+    "title": "Vabamu Museum of Occupations and Freedom",
+    "description": "Estonia’s definitive memory-culture museum tracing occupation, resistance, and the restoration of independence, with an award-winning audio guide available in multiple languages (incl. RU/EN).",
+    "interestId": "history-museums-memory",
+    "venue": "Vabamu Museum",
+    "address": "Toompea 8b, 10142 Tallinn, Estonia",
+    "operatingHours": {
+      "summary": "Wed–Sun 11:00–18:00, Mon–Tue closed",
+      "details": {
+        "monday": "closed",
+        "tuesday": "closed",
+        "wednesday": "11:00–18:00",
+        "thursday": "11:00–18:00",
+        "friday": "11:00–18:00",
+        "saturday": "11:00–18:00",
+        "sunday": "11:00–18:00"
+      }
+    },
+    "uniquenessReason": "Focused on Estonia’s 20th‑century experiences under Soviet and Nazi regimes and the path to freedom—context you won’t get outside the Baltics.",
+    "locationCategory": "history museum",
+    "bestTimeToVisit": "Late morning to avoid groups; pair with Toompea hill walk.",
+    "seasonalNotes": "Open winter; check for holiday closures.",
+    "matchReason": "You’re drawn to rigorous, context‑rich sites of memory; Vabamu is the benchmark in Tallinn.",
+    "vibe": "reflective, documentary, human stories",
+    "priceHint": "mid",
+    "touristTrap": 65,
+    "sources": [
+      {
+        "label": "Official site – Visit us",
+        "url": "https://vabamu.ee/en/visit-us/"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kiek-in-de-kok-bastion-passages",
+    "title": "Kiek in de Kök Fortifications Museum + Bastion Passages",
+    "description": "A 15th‑century artillery tower and 17th‑century underground bastion tunnels that defended Tallinn—now a multi‑tower museum with immersive passages and audio guides.",
+    "interestId": "history-museums-memory",
+    "venue": "Kiek in de Kök Fortifications Museum",
+    "address": "Komandandi tee 2, 10130 Tallinn, Estonia",
+    "operatingHours": {
+      "summary": "Oct–Apr: Tue–Sun 11:00–18:00, Mon closed",
+      "details": {
+        "monday": "closed",
+        "tuesday": "11:00–18:00",
+        "wednesday": "11:00–18:00",
+        "thursday": "11:00–18:00",
+        "friday": "11:00–18:00",
+        "saturday": "11:00–18:00",
+        "sunday": "11:00–18:00"
+      }
+    },
+    "uniquenessReason": "Only in Tallinn can you walk original bastion tunnels beneath the Old Town and climb a late‑medieval artillery tower in one complex.",
+    "locationCategory": "fortification museum",
+    "bestTimeToVisit": "Early afternoon; tunnels are 7–10°C year‑round—bring layers.",
+    "seasonalNotes": "Civil Defence exhibition runs through winter 2025/26; tours can be pre‑booked.",
+    "matchReason": "Arms & fortifications and urban history in one; fits your interest in rigorous, tangible history.",
+    "vibe": "subterranean, martial, atmospheric",
+    "priceHint": "mid",
+    "touristTrap": 60,
+    "sources": [
+      {
+        "label": "Official – tickets/hours",
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok-en/kiek-in-de-koki-kindlustustemuuseumi-piletid-piletilevis/"
+      },
+      {
+        "label": "Official – Bastion passages info",
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/bastion-tunnels/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "deep_dive",
+  "query": "Estonian History Museum Great Guild Hall hours December 2025 site:ajaloomuuseum.ee Suurgildi hoone lahtiolekuajad",
+  "payload": {
+    "localeHint": "et/en",
+    "intent": "deep_dive",
+    "query": "Estonian History Museum Great Guild Hall hours December 2025 site:ajaloomuuseum.ee Suurgildi hoone lahtiolekuajad",
+    "timestamp": "2025-11-29T21:07:43.162Z",
+    "results": [
+      {
+        "url": "https://ajaloomuuseum.ee/suurgildi-hoone",
+        "title": "Suurgildi hoone – Ajaloomuuseum",
+        "content": "KÜLASTAJAINFO. K-P kell 10:00-18:00. Vaata lisaks. Pilet 14€ / 9€. Vaata lisaks. Pikk 17, 10123 Tallinn. Vaata lisaks ; Suurgildi hoone kirev ajalugu.See more",
+        "score": 0.7555112
+      }
+    ]
+  }
+}

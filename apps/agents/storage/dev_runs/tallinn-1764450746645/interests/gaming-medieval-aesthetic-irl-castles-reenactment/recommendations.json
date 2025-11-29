@@ -1,0 +1,156 @@
+[
+  {
+    "type": "event",
+    "id": "evm-joulukyla-2025-12-13",
+    "title": "Jõuluküla “Jõulud kirjasõnaga” – Day 1",
+    "description": "Living-history style Christmas Village across historic farmsteads with period crafts, traditional music, and folk customs in an open-air setting.",
+    "startDateTime": "2025-12-13T11:00:00+02:00",
+    "timezone": "Europe/Tallinn",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia"
+    },
+    "languages": [
+      "et",
+      "en",
+      "ru"
+    ],
+    "tags": [
+      "living history",
+      "crafts",
+      "folk",
+      "medieval vibes"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://evm.ee/sundmused/joulukula",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "event",
+    "id": "evm-joulukyla-2025-12-14",
+    "title": "Jõuluküla “Jõulud kirjasõnaga” – Day 2",
+    "description": "Second festival day of the Open Air Museum’s Christmas Village: historic houses host seasonal rituals, storytelling, and heritage food stalls.",
+    "startDateTime": "2025-12-14T11:00:00+02:00",
+    "timezone": "Europe/Tallinn",
+    "venue": {
+      "name": "Eesti Vabaõhumuuseum (Estonian Open Air Museum)",
+      "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia"
+    },
+    "languages": [
+      "et",
+      "en",
+      "ru"
+    ],
+    "tags": [
+      "living history",
+      "crafts",
+      "folk",
+      "medieval vibes"
+    ],
+    "touristTrap": 35,
+    "sources": [
+      {
+        "url": "https://evm.ee/sundmused/joulukula",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/",
+        "type": "community"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "kiek-in-de-kok-bastion-passages",
+    "title": "Kiek in de Kök & Bastion Passages (Tallinn City Museum)",
+    "description": "Tower-to-tunnel fortress museum linking medieval/early-modern defensive towers with the original bastion tunnels beneath Old Town.",
+    "operatingHours": {
+      "summary": "Winter schedule: museum towers typically Tue–Sun ~10:00–18:00, Mon closed; Bastion Passages only by timed guided tours (reduced winter frequency—book ahead)."
+    },
+    "uniquenessReason": "Only place in Tallinn where you can walk the actual bastion tunnel network under the medieval fortifications.",
+    "fitReason": "Direct hit for fortress architecture, siege history, and arms displays—very close to RPG castle/stronghold exploration.",
+    "venue": {
+      "name": "Kiek in de Kök muuseumikompleks",
+      "address": "Komandandi 2, 10130 Tallinn, Estonia"
+    },
+    "tags": [
+      "castles",
+      "fortifications",
+      "arms & armor"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://kiekindekok.ee/",
+        "type": "regional"
+      },
+      {
+        "url": "https://www.linnamuuseum.ee/",
+        "type": "regional"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "niguliste-museum",
+    "title": "Niguliste Museum (St Nicholas’ Church)",
+    "description": "Gothic church-museum renowned for medieval sacred art including Bernt Notke’s Danse Macabre; frequent early music performances in resonant acoustics.",
+    "operatingHours": {
+      "summary": "Typical winter hours Tue–Sun around 10:00–18:00; closed Mon. Evening concerts on select dates."
+    },
+    "uniquenessReason": "Houses one of Northern Europe’s pivotal late-medieval artworks inside an intact Gothic sacred space.",
+    "fitReason": "Medieval art and sacred atmosphere align with the aesthetic of fantasy RPG cathedrals and lore.",
+    "venue": {
+      "name": "Niguliste muuseum",
+      "address": "Niguliste 3, 10146 Tallinn, Estonia"
+    },
+    "tags": [
+      "medieval art",
+      "gothic",
+      "early music"
+    ],
+    "touristTrap": 60,
+    "sources": [
+      {
+        "url": "https://nigulistemuuseum.ekm.ee/",
+        "type": "national"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "id": "rakvere-castle",
+    "title": "Rakvere Castle (Rakvere Linnus) – Day Trip",
+    "description": "Living‑history stronghold with smithy, armory, alchemist’s cellar, torture chamber exhibits, and seasonal demos.",
+    "operatingHours": {
+      "summary": "Winter hours typically around 10:00–16:00; demonstrations more frequent on weekends; check weekly schedule."
+    },
+    "uniquenessReason": "Hands‑on medieval fortress experience rare in the region, with working crafts/weaponry rooms.",
+    "fitReason": "Blacksmithing, arms & armor, and role‑playable castle environments directly map to strategy/RPG tastes.",
+    "venue": {
+      "name": "Rakvere Linnus",
+      "address": "Rakvere, Lääne‑Viru County, Estonia"
+    },
+    "tags": [
+      "castles",
+      "living history",
+      "blacksmithing",
+      "arms & armor"
+    ],
+    "touristTrap": 50,
+    "sources": [
+      {
+        "url": "https://rakverelinnus.ee/",
+        "type": "regional"
+      }
+    ]
+  }
+]

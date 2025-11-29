@@ -1,15 +1,11 @@
-import path from "node:path";
 import { config } from "dotenv";
 
-const envPath = path.resolve(process.cwd(), ".env");
-config({ path: envPath });
+// Load .env from repo root (two levels up from apps/api)
+config({ path: "../../.env" });
+// Also try cwd in case running from root
+config();
 
-const requiredVars = [
-  "SUPABASE_URL",
-  "SUPABASE_SERVICE_ROLE_KEY",
-  "SUPABASE_JWT_SECRET",
-  "SUPABASE_DB_SCHEMA",
-];
+const requiredVars = ["DATABASE_URL"];
 
 for (const variable of requiredVars) {
   if (!process.env[variable]) {
@@ -18,10 +14,7 @@ for (const variable of requiredVars) {
 }
 
 export const env = {
-  supabaseUrl: process.env.SUPABASE_URL as string,
-  supabaseServiceRoleKey: process.env.SUPABASE_SERVICE_ROLE_KEY as string,
-  supabaseJwtSecret: process.env.SUPABASE_JWT_SECRET as string,
-  supabaseDbSchema: process.env.SUPABASE_DB_SCHEMA as string,
+  databaseUrl: process.env.DATABASE_URL as string,
+  jwtSecret: process.env.JWT_SECRET ?? "dev-secret-change-me",
   port: Number(process.env.PORT ?? 3000),
 };
-

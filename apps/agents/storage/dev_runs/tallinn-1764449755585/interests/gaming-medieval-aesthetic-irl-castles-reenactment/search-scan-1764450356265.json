@@ -1,0 +1,61 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "Tallinn December 2025 medieval museum castle reenactment arms armor Niguliste Kiek in de Kök Seaplane Harbour Great Guild Hall",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Tallinn December 2025 medieval museum castle reenactment arms armor Niguliste Kiek in de Kök Seaplane Harbour Great Guild Hall",
+    "timestamp": "2025-11-29T21:05:56.264Z",
+    "results": [
+      {
+        "url": "https://tourismattractions.net/estonia/tallinn-medieval-history-tour",
+        "title": "Discover Tallinn's Medieval History Tour in 2025 - Tourism Attractions",
+        "content": "The top medieval sites include Tallinn Town Hall, St. Olav's Church, the Dome Church, and the Kiek in de Kök Fortifications Museum.",
+        "score": 0.6693348
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/about-the-museum/",
+        "title": "The Kiek in de Kök Fortifications Museum - Tallinna Linnamuuseum",
+        "content": "It comprises four medieval towers: **Kiek in de Kök, the Maiden Tower, the Marstal Tower and the Short Leg Gate Tower.** The Fortification Museum also includes the underground BASTION Towers of the earthworks, built at the end of the 17th century, and the **Carved Stone Museum** housed in them. The Fortress Museum presents the city’s historical fortifications, the late 18th-century houses of the citizens built in the towers and along the wall, the artists who lived in the tower, and the famous café built in the 1980s in the Virgin Tower. The Tower of the Virgin is Tallinn’s only rectangular tower, the medieval name for the Tower of Megede, and was probably built in the mid-14th century, although it was first mentioned in 1373.The permanent exhibition tells the story of the time when the tower was converted into a residential building: it also housed artists’ studios.",
+        "score": 0.52597815
+      },
+      {
+        "url": "https://ajaloomuuseum.ee/great-guild-hall",
+        "title": "Great Guild hall - Estonian History Museum",
+        "content": "The Great Guild Hall is one of the most distinguished public buildings of medieval Tallinn. The Gothic-style building, completed in 1410, was built on what",
+        "score": 0.5097406
+      },
+      {
+        "url": "https://visittallinn.ee/eng/visitor/near-me/174736/estonian-history-museum-%E2%80%94-great-guild-hall",
+        "title": "Estonian History Museum — Great Guild Hall - Visit Tallinn",
+        "content": "The over-600-years-old dignified medieval Great Guild Hall has been one of the city's best-known places for organising cultural events and parties",
+        "score": 0.42190963
+      },
+      {
+        "url": "https://www.getyourguide.com/kiek-in-de-kok-l169701/",
+        "title": "Kiek in de Kök, Tallinn - Book Tickets & Tours | GetYourGuide",
+        "content": "Marvel at Gothic buildings unchanged since the 15th century and hear tales of powerful medieval guilds at the Great Guild Hall. Pause at the Holy Spirit",
+        "score": 0.41577685
+      },
+      {
+        "url": "https://airial.travel/attractions/estonia/tallinn/great-guild-hall-estonian-history-museum-WmPD3mOi",
+        "title": "Great Guild Hall Estonian History Museum (2025) - Airial Travel",
+        "content": "Explore centuries of Estonian history in a stunning 14th-century guild hall, featuring interactive exhibits and ancient treasures.",
+        "score": 0.4119392
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d290334-Reviews-Great_Guild_Hall-Tallinn_Harju_County.html",
+        "title": "Great Guild Hall (2025) - All You Need to Know BEFORE You Go ...",
+        "content": "The Great Guild Hall in Tallinn Old Town dates back to 1417 when it became the guild house that united the city's richest and most influential merchants.",
+        "score": 0.4059909
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d32993403-Historical_Tallinn-Tallinn_Harju_County.html",
+        "title": "2025 Historical Tallinn - with Trusted Reviews - Tripadvisor",
+        "content": "Join us to discover the medieval charm of Tallinn. Explore the architecture of the old town and the typical houses of merchants and artisans.",
+        "score": 0.3969801
+      }
+    ]
+  }
+}

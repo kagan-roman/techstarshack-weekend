@@ -1,0 +1,49 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "scan",
+  "query": "Tallinn Noblessner December 2025 events waterfront night tour photo walk",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "scan",
+    "query": "Tallinn Noblessner December 2025 events waterfront night tour photo walk",
+    "timestamp": "2025-11-29T21:00:48.164Z",
+    "results": [
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d32999551-Discover_Tallinn_a_Photography_Walk-Tallinn_Harju_County.html",
+        "title": "2025 Discover Tallinn a Photography Walk - with Trusted Reviews",
+        "content": "\"Discover Tallinn: A Photography Walk\" is more than just a photoshoot—it's a fun and relaxed way to explore the city while capturing beautiful memories.",
+        "score": 0.5019781
+      },
+      {
+        "url": "https://tmw.ee/events/tmw-2025-noblessneri-kunstituur",
+        "title": "TMW 2025 Noblessner Art Tour - Tallinn Music Week",
+        "content": "The TMW 2025 Noblessner Art Tour on April 4th at 17:00 explores four art spaces in Noblessner, starting at A.J, von Krusenstern square. Tickets are €20.",
+        "score": 0.46818325
+      },
+      {
+        "url": "https://activities.marriott.com/europe/estonia/tallinn/activities/discover_tallinn_a_photography_walk-XNBU0A",
+        "title": "Discover Tallinn a Photography Walk",
+        "content": "\"Discover Tallinn: A Photography Walk\" is more than just a photoshoot—it's a fun and relaxed way to explore the city while capturing beautiful memories.",
+        "score": 0.3963491
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g274958-d21161484-Tallinn_Private_Photoshoot_Tour-Tallinn_Harju_County.html",
+        "title": "2025 Tallinn Private Photoshoot Tour - with Trusted Reviews",
+        "content": "Uri truly captured moments that matter throughout the photoshoot. He made sure we were comfortable and relaxed the entire time.",
+        "score": 0.32714194
+      },
+      {
+        "url": "https://noblessner.ee/en/tutar-gallery/",
+        "title": "Tütar Gallery - Noblessner",
+        "content": "Tütar is a contemporary art gallery that celebrates the skills and creativity of young Estonian artists!",
+        "score": 0.29814947
+      },
+      {
+        "url": "https://visitestonia.com/en/what-to-do/new-and-ongoing-exhibitions-in-estonia",
+        "title": "New and ongoing exhibitions in Estonia",
+        "content": "December 2025 marks 500 years since the death of Michel Sittow (c. 1469–. Exhibition \"Michel Sittow 500\". 21.11.2026 - 21.03.2027. Tallinn",
+        "score": 0.28990963
+      }
+    ]
+  }
+}

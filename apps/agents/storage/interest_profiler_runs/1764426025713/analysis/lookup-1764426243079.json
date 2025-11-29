@@ -1,0 +1,37 @@
+{
+  "query": "Noblessner Tallinn district port area Estonia",
+  "context": "Verify Instagram location 'Noblessner'",
+  "timestamp": "2025-11-29T14:24:03.079Z",
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Noblessner",
+      "title": "Noblessner - Wikipedia",
+      "content": "Noblessner (also known as Peetri sadam) is a harbour and former industrial area in the northern district of Tallinn, Estonia.",
+      "score": 0.9242583
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vZXqvCQIuvc",
+      "title": "Noblessner - Tallinn's Newest Hip District - YouTube",
+      "content": "... Noblessner (also known as Peetri sadam) is a harbour and former industrial area in the northern district of Tallinn, Estonia. Since 2013 it",
+      "score": 0.88564163
+    },
+    {
+      "url": "https://mindtrip.ai/attraction/tallinn-estonia/port-noblessner/at-WZPtN1sz",
+      "title": "Port Noblessner in Tallinn | What to Know Before You Go - Mindtrip",
+      "content": "Port Noblessner is a vibrant waterfront area in Tallinn, Estonia, known for its blend of history and modernity. Originally a submarine factory, this site",
+      "score": 0.875031
+    },
+    {
+      "url": "https://noblessner.ee/en/",
+      "title": "A versatile port city - Noblessner",
+      "content": "Noblessner is Tallinn's first district that is open to the sea and is very likely to please many people who enjoy life by the sea, close to the city centre.",
+      "score": 0.82895297
+    },
+    {
+      "url": "https://visitestonia.com/en/noblessner",
+      "title": "Noblessner | Visit Estonia",
+      "content": "This area of Tallinn, Noblessner, has transformed from a former submarine factory into a vibrant harbor district. Here, you will find restaurants,",
+      "score": 0.8091708
+    }
+  ]
+}

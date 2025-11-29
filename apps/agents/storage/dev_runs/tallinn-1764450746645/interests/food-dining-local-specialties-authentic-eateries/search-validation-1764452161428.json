@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "validation",
+  "query": "Eesti Vabaõhumuuseumi Jõuluküla 2025 13. detsember 14. detsember kava Kolu Kõrts toit Tallinn",
+  "payload": {
+    "localeHint": "et",
+    "intent": "validation",
+    "query": "Eesti Vabaõhumuuseumi Jõuluküla 2025 13. detsember 14. detsember kava Kolu Kõrts toit Tallinn",
+    "timestamp": "2025-11-29T21:36:01.427Z",
+    "results": [
+      {
+        "url": "https://piletilevi1.rssing.com/chan-58183024/article21871.html",
+        "title": "Jõuluküla Eesti Vabaõhumuuseumis 13.12.2025 - 14.12.2025 -",
+        "content": "Kolu kõrts pakub traditsioonilisi jõulutoite. Sutlepa kabelis kõlab jõuluküla mõlemal päeval koorilaul. Käsitöötares Krapsakad Moorid valmivad",
+        "score": 0.91563576
+      },
+      {
+        "url": "https://www.kultuurikava.ee/event/joulukula-eesti-vabaohumuuseumis-4",
+        "title": "Jõuluküla Eesti Vabaõhumuuseumis - Kultuurikava.ee",
+        "content": "Sutlepa kabelis kõlab koorilaul ja Kolu kõrtsi ees on väike jõulumüük. ... detsember 2025 11:00. Eesti Vabaõhumuuseum, Tallinn, Tallinn · P, 14. detsember",
+        "score": 0.83549726
+      },
+      {
+        "url": "https://visitestonia.com/en/christmas-village",
+        "title": "Christmas village | Visit Estonia",
+        "content": "Eesti Vabaõhumuuseumi Jõuluküla Photo author: Visit Tallinn. Hobusõit Eesti ... 13. dec - 14. dec 2025. Location. Eesti Vabaõhumuuseum - Vabaõhumuuseumi",
+        "score": 0.7352811
+      },
+      {
+        "url": "https://evm.ee/et",
+        "title": "Eesti Vabaõhumuuseum – EVM",
+        "content": "Jõuluküla 13.-14.12. Eesti Vabaõhumuuseumis tulevad tänavu jõulud kirjasõnaga – rehemajast kolhoosi korterelamuni, piiblist Kodu Anttilani! Täpsem kava siin.",
+        "score": 0.6929958
+      },
+      {
+        "url": "https://www.facebook.com/events/1483579576238677/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment",
+        "title": "Jõuluküla Eesti Vabaõhumuuseumis - Facebook",
+        "content": "Public · Hosted by Eesti Vabaõhumuuseum / Estonian Open Air Museum · Dec 13 at 11:00AM – Dec 14 at 4:00PM EET · Vabaõhumuuseumi tee 12, 13521 Tallinn, Estonia.",
+        "score": 0.68140936
+      },
+      {
+        "url": "https://www.facebook.com/EestiVabaohumuuseum/posts/1369288431866128/",
+        "title": "Eesti Vabaõhumuuseum / Estonian Open Air Museum - Facebook",
+        "content": "Jõulukülas ootavad lahke pererahvas, jõuluvana ja jõulusokk. Tule kogu perega 13. ja 14. detsembril Eesti Vabaõhumuuseumisse Rocca al Mares!",
+        "score": 0.65835214
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "interest": "Gaming → Medieval aesthetic IRL – castles, reenactment",
+  "intent": "scan",
+  "query": "Tallinna j\u0000f5uluturg 2025 kava programm Raekoja plats",
+  "payload": {
+    "localeHint": "et",
+    "intent": "scan",
+    "query": "Tallinna j\u0000f5uluturg 2025 kava programm Raekoja plats",
+    "timestamp": "2025-11-29T21:24:44.990Z",
+    "results": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tallinna_JK",
+        "title": "Tallinna JK",
+        "content": "Tallinna Jalgpalli Klubi, commonly referred to as simply TJK, is a defunct Estonian football club, based in Tallinn.",
+        "score": 0.756376
+      },
+      {
+        "url": "https://jkkalev.ee/en/",
+        "title": "Home - JK Tallinna Kalev",
+        "content": "Tallinn Kalev is an internationally recognized academy and club that focuses on youth development, where nearly 1,300 young players are receiving football",
+        "score": 0.5393963
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/JK_Tallinna_Kalev",
+        "title": "JK Tallinna Kalev",
+        "content": "Founded in 1911, it is the oldest active football club in the country. The club's home ground is the Kadriorg Stadium. Kalev. Full name, Jalgpalliklubi Tallinna",
+        "score": 0.5253938
+      },
+      {
+        "url": "https://x.com/JKTallinnaKalev",
+        "title": "JK Tallinna Kalev English (@JKTallinnaKalev) / Posts / X",
+        "content": "Official English account of Estonian based football club Tallinna Kalev. #morethanfootball #enamatkuijalgpall All tickets to our homegames can be bought here.",
+        "score": 0.43496582
+      },
+      {
+        "url": "https://www.transfermarkt.us/tallinn-jk-legion/startseite/verein/26012",
+        "title": "Tallinn JK Legion - Club profile | Transfermarkt",
+        "content": "All information about TJK Legion (Esiliiga B) ➤ current squad with market values ➤ transfers ➤ rumours ➤ player stats ➤ fixtures ➤ news.",
+        "score": 0.3193235
+      },
+      {
+        "url": "https://www.espn.com/soccer/team/_/id/22286/jk-tallinna-kalev",
+        "title": "JK Tallinna Kalev Scores, Stats and Highlights",
+        "content": "Visit ESPN for JK Tallinna Kalev live scores, video highlights, and latest news. Find standings and the full 2025 season schedule.",
+        "score": 0.25929588
+      }
+    ]
+  }
+}

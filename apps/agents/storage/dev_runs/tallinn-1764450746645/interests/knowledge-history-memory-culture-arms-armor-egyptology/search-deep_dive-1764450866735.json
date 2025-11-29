@@ -1,0 +1,61 @@
+{
+  "interest": "Knowledge / History – memory culture, arms & armor, Egyptology",
+  "intent": "deep_dive",
+  "query": "Kiek in de Kök Bastion Passages public tour schedule December 2025 Tallinn linnamuuseum detsember 2025 giidituur",
+  "payload": {
+    "localeHint": "en+et+ru",
+    "intent": "deep_dive",
+    "query": "Kiek in de Kök Bastion Passages public tour schedule December 2025 Tallinn linnamuuseum detsember 2025 giidituur",
+    "timestamp": "2025-11-29T21:14:26.735Z",
+    "results": [
+      {
+        "url": "https://www.expedia.com/Kiek-In-De-Kok-And-Bastion-Passages-Museum-Old-Town-Tallinn.d6073059.Vacation-Attraction",
+        "title": "Kiek in de Kok and Bastion Passages Museum Tours - Expedia",
+        "content": "Explore Kiek in de Kok and Bastion Passages Museum when you travel to Old Town Tallinn ... de Kok and Bastion Passages Museum for next weekend, Dec 5 - Dec 7.",
+        "score": 0.6415577
+      },
+      {
+        "url": "https://fienta.com/tasuta-muuseumipuhapaev-kiek-in-de-koki-kindlustustemuuseum-155958",
+        "title": "Free Museum Sunday (Kiek In De Kök Fortifications Museum) - Fienta",
+        "content": "Free Museum Sunday (Kiek In De Kök Fortifications Museum). Sunday 7. December at 11:00 - 18:00. Kiek In De Kök Fortifications Museum, Tallinn. Show description.",
+        "score": 0.5441965
+      },
+      {
+        "url": "https://airial.travel/attractions/estonia/tallinn/kiek-in-de-k%C3%B6k-and-bastion-passages-museum-NRvpmmff",
+        "title": "Kiek in de Kök and Bastion Passages Museum - Airial Travel",
+        "content": "Explore Tallinn's medieval defenses: a 15th-century cannon tower museum with interactive exhibits and secret underground tunnels.",
+        "score": 0.50285697
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g274958-d290218-Reviews-Kiek_in_de_Kok_and_Bastion_Passages_Museum-Tallinn_Harju_County.html",
+        "title": "Kiek in de Kok and Bastion Passages Museum - Tallinn - Tripadvisor",
+        "content": "The tower Kiek in de Kök together with the passages of the Ingrian and Swedish bastions is an exciting part of Tallinn historical fortifications.",
+        "score": 0.48396602
+      },
+      {
+        "url": "https://www.sales.vikingline.com/destinations/estonia/tallinn/sights/kiek-in-de-kok/",
+        "title": "Kiek in de Kök Fortifications Museum in Tallinn | Viking Line",
+        "content": "The Kiek in de Kök Fortifications Museum, with its underground passages and defence towers, immerses visitors in the fascinating history of the city of Tallinn.",
+        "score": 0.45420644
+      },
+      {
+        "url": "https://muuseumioo.muuseum.ee/en/museum/kiek-in-de-kok-museum/",
+        "title": "Kiek in de Kök Museum - Tallinn - Muuseumiöö",
+        "content": "... Kiek in de Kök , visitor movement is regulated. Bastion passages are closed this time! Additional information: Tel (+372) 5386 8873 fort@linnamuuseum.ee.",
+        "score": 0.45159313
+      },
+      {
+        "url": "https://lydian.ee/en/kiek-in-de-kok-kindlustustemuuseum/programs/",
+        "title": "kiek in de kök fortifications museum - Lydian.ee",
+        "content": "Introduction tour of the new exhibition at Kiek in de Kök · Bastion passages and Craved Stone museum · Four Towers tour · The Maiden´s tower as home and cafe · Kiek",
+        "score": 0.42405477
+      },
+      {
+        "url": "https://linnamuuseum.ee/en/kiek-in-de-kok/guided-tours/",
+        "title": "Guided tours - Tallinna Linnamuuseum",
+        "content": "... Bastion passages guided tours! Download the AUDIOGUIDE: App Store ja Google play. TALLINN CITY LIFE MUSEUM · Vene 17, 10123 Tallinn · (+372)615 5180 linnaelu",
+        "score": 0.4191967
+      }
+    ]
+  }
+}

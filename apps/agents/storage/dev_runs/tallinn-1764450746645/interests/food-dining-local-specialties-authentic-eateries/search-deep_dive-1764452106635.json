@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "deep_dive",
+  "query": "Balti Jaama Turg j\u00000f5ululaat 2025 detsember",
+  "payload": {
+    "localeHint": "et",
+    "intent": "deep_dive",
+    "query": "Balti Jaama Turg j\u00000f5ululaat 2025 detsember",
+    "timestamp": "2025-11-29T21:35:06.634Z",
+    "results": [
+      {
+        "url": "https://astri.ee/bjt/en/avaleht/",
+        "title": "Balti Jaama Turg | Local Food, Handicrafts, Vintage & Culture in ...",
+        "content": "Balti Jaama Turg in Tallinn is a vibrant market with local food, street food, handicrafts, vintage, design and cultural events. Come and explore!",
+        "score": 0.79939574
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wdpquqC5fOA",
+        "title": "Balti Jaam Market in Estonia - YouTube",
+        "content": "Next, we dive into the vibrant atmosphere of Balti Jaama Turg, one of Tallinn's most popular markets. Located near the main train station,",
+        "score": 0.6158511
+      },
+      {
+        "url": "https://airial.travel/attractions/estonia/tallinn/balti-jaama-turg-OrGWegXJ",
+        "title": "Balti Jaama Turg (2025) - Airial Travel",
+        "content": "A vibrant, multi-level market hall in Tallinn offering fresh produce, gourmet eateries, and eclectic vintage finds.",
+        "score": 0.562874
+      },
+      {
+        "url": "https://wanderlog.com/place/details/119523/balti-jaama-turg",
+        "title": "Balti Jaama Turg, Tallinn, Estonia - Reviews, Ratings, Tips and Why ...",
+        "content": "Great market with 3 floors. Top floor is clothing, vintage and non-food stuff. 2nd floor is produce, deli, meats, cheese, fish and honeys and 1st floor is a",
+        "score": 0.50007385
+      },
+      {
+        "url": "https://www.instagram.com/baltijaamaturg/reels/",
+        "title": "Balti Jaama Turg (@baltijaamaturg) • Instagram photos and videos",
+        "content": "14K followers · 358 following · 1329 posts · @baltijaamaturg: “The main gastronomic hotpoint of Tallinn 25+ restaurants & corners Farmers' market",
+        "score": 0.4746074
+      },
+      {
+        "url": "https://visitestonia.com/en/balti-jaam-market",
+        "title": "Balti Jaam Market | Visit Estonia",
+        "content": "Balti Jaam Market is a unique market in Estonia, which includes nearly 300 traders on three floors. On the underground floor, there is a supermarket, a sports",
+        "score": 0.3813814
+      }
+    ]
+  }
+}

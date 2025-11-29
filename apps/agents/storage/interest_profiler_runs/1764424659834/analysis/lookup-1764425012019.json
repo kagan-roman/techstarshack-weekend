@@ -1,0 +1,37 @@
+{
+  "query": "Devojacki Grob Kopaonik meaning",
+  "context": "Appears in instagram.md as a hiking location; verify what/where it is.",
+  "timestamp": "2025-11-29T14:03:32.018Z",
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kopaonik",
+      "title": "Kopaonik - Wikipedia",
+      "content": "Kopaonik is a mountain range located in Kosovo and Serbia. The highest point of this mountain range is the Pančić's Peak with an altitude of 2,017 m (6,617",
+      "score": 0.2960082
+    },
+    {
+      "url": "https://www.scribd.com/document/353639787/Zoja-Karanovic-Jasmina-Jokic-Plants-And-Herbs-In-Traditional-Serbian-Folk-Culture-I-pdf",
+      "title": "Zoja Karanovic & Jasmina Jokic - Plants and Herbs in Traditional ...",
+      "content": "This document discusses sacred and demonic trees in Serbian folklore tradition. Certain trees are considered sacred or \"inscription\" trees, usually marked",
+      "score": 0.05880369
+    },
+    {
+      "url": "https://digitalna.ff.uns.ac.rs/sites/default/files/db/books/978-86-6065-172-5.pdf",
+      "title": "[PDF] PLANTS AND HERBS IN TRADITIONAL SERBIAN CULTURE",
+      "content": "In Serbian folk tradition, the honouring (cult) of trees is especially reflected in the belief in their unique magical power, most commonly manifested as",
+      "score": 0.026986621
+    },
+    {
+      "url": "https://archive.org/stream/denkschriften4142ster/denkschriften4142ster_djvu.txt",
+      "title": "Full text of \"Denkschriften\" - Internet Archive",
+      "content": "Full text of \"Denkschriften\". See other formats. DENKSCHRIFTEN DER KAISERLICHEN AKADEMIE DER WISSENSCHAFTEN. PHILOSOPHISCH - HISTORISCHE CLASSE.",
+      "score": 0.015773978
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7700605/",
+      "title": "Chemical Characterization and Antibacterial Activity of Essential Oil ...",
+      "content": "The objective of this study was to evaluate wild growing Satureja kitaibelii, Thymus serpyllum, Origanum vulgare, Achillea millefolium and",
+      "score": 0.007798507
+    }
+  ]
+}

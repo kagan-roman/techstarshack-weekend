@@ -1,0 +1,31 @@
+{
+  "query": "Caldeira Velha Sao Miguel Azores",
+  "context": "IG location tags Sao Miguel, Caldeira Velha; verify geo.",
+  "timestamp": "2025-11-29T14:03:49.011Z",
+  "results": [
+    {
+      "url": "https://www.saomiguelguide.com/en/caldeira-velha",
+      "title": "Caldeira Velha Hot Springs | São Miguel Guide, Azores",
+      "content": "Caldeira Velha is a natural park with thermal pools heated by a volcano, featuring iron-rich waters, a waterfall pool, and an interpretation center. Visits are",
+      "score": 0.9094659
+    },
+    {
+      "url": "https://www.futurismo.pt/blog/caldeira-velha-the-natural-monument-to-visit-in-the-azores/?utm_source=perplexity",
+      "title": "Caldeira Velha: The Natural Monument to visit in the Azores",
+      "content": "The natural and regional monument of Caldeira Velha is one of the five hot springs on São Miguel Island. It is located in Ribeira Grande, on the",
+      "score": 0.9051298
+    },
+    {
+      "url": "https://www.tripadvisor.com.br/Attraction_Review-g616221-d2471358-Reviews-Centro_de_Interpretacao_Ambiental_Caldeira_Velha-Ribeira_Grande_Sao_Miguel_Azores.html",
+      "title": "Centro de Interpretação Ambiental Caldeira Velha - Ribeira Grande",
+      "content": "A Caldeira Velha é uma área protegida classificada como Monumento Natural do Parque Natural de São Miguel e está identificada como um geossítio prioritário",
+      "score": 0.85995835
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lWp9K-JMH2E",
+      "title": "Caldeira Velha Hot Springs (4K Relaxing Tour) - YouTube",
+      "content": "Hidden in the lush forests of São Miguel, Azores , Caldeira Velha is a geothermal paradise with natural hot springs, waterfalls,",
+      "score": 0.8559598
+    }
+  ]
+}

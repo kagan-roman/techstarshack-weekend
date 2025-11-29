@@ -1,0 +1,107 @@
+[
+  {
+    "id": "travel-hiking",
+    "name": "Scenic island hikes, mountains, and cultural festivals",
+    "summary": "Seeks out island and mountain landscapes for hiking and photography; shows curiosity for local festivals (e.g., carnivals) and visits historically significant sites.",
+    "tags": ["travel", "hiking", "nature", "festivals", "history"],
+    "confidence": 0.78,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-1", "snippet": "São Miguel Island ... Boys do hiking", "link": "/inputs/instagram.md"},
+      {"sourceType": "file", "sourceId": "blob-1", "snippet": "Fanal Mountain Madeira ... Witchcraft place indeed", "link": "/inputs/instagram.md"},
+      {"sourceType": "file", "sourceId": "blob-1", "snippet": "Carnival in Madeira.it was amazing... now very curious what’s happening in Rio", "link": "/inputs/instagram.md"},
+      {"sourceType": "file", "sourceId": "blob-1", "snippet": "Auschwitz-Birkenau ... давайте не забывать...", "link": "/inputs/instagram.md"}
+    ]
+  },
+  {
+    "id": "history-realism",
+    "name": "Historical analysis and realism (armor, films, memory)",
+    "summary": "Enjoys deep-dive critiques of historical cinema and material culture (armor), alongside reflective engagement with 20th-century history and remembrance.",
+    "tags": ["history", "film", "armor", "analysis"],
+    "confidence": 0.8,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Деконструкция. Клим Жуков ... «Крестоносцы», «Огнём и мечом», «Клеопатра»", "link": "/inputs/youtube.md"},
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Клим Жуков. Латный доспех - феномен Европейского рыцарства", "link": "/inputs/youtube.md"},
+      {"sourceType": "file", "sourceId": "blob-1", "snippet": "Auschwitz-Birkenau ... давайте не забывать...", "link": "/inputs/instagram.md"}
+    ]
+  },
+  {
+    "id": "underground-techno",
+    "name": "Underground hard techno / hardtekk and rave culture",
+    "summary": "High-BPM, industrial/acid techno selections and techno edits of pop classics indicate strong affinity for underground rave energy.",
+    "tags": ["music", "techno", "hardtekk", "rave", "EDM"],
+    "confidence": 0.77,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "This Is Technometal – Lorenzo Raganzini & Paolo Ferrara", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "5 Mins Of Acid – KI/KI", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "ALL THAT SHE WANTS (TECHNO) ... YOUNG FOLKS (TECHNO)", "link": "/inputs/music.md"}
+    ]
+  },
+  {
+    "id": "post-soviet-rap",
+    "name": "Post‑Soviet rap and street lyricism",
+    "summary": "Listens to a wide mix of Russian/Kazakh rap and adjacent scenes, from lyrical storytelling to internet‑age remixes.",
+    "tags": ["music", "rap", "CIS", "hip-hop"],
+    "confidence": 0.76,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Скриптонит – Москва любит...; Я не улыбаюсь; Привычка", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Oxxxymiron – Тентакли; Город под подошвой; Больше Бена", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Miyagi & Andy Panda – Brooklyn; Свора (feat. Скриптонит)", "link": "/inputs/music.md"}
+    ]
+  },
+  {
+    "id": "nu-metal-nostalgia",
+    "name": "2000s alt/nu‑metal and gaming‑era rock",
+    "summary": "Returns to cathartic 2000s alt/nu‑metal staples and game‑linked tracks, reflecting a nostalgia streak connected to gaming culture.",
+    "tags": ["music", "rock", "nu-metal", "nostalgia"],
+    "confidence": 0.73,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Korn; Deftones; System of a Down; Breaking Benjamin; Papa Roach", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Asian Dub Foundation – Fortress Europe (NFS Underground 1)", "link": "/inputs/music.md"}
+    ]
+  },
+  {
+    "id": "gaming-strategy-rpg",
+    "name": "RPG and strategy game mastery",
+    "summary": "Actively seeks optimization tips, guides, and lore for role‑playing and strategy games; exhibits retro strategy nostalgia.",
+    "tags": ["gaming", "RPG", "strategy", "guides"],
+    "confidence": 0.8,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "How Quickly Can You Become a Millionaire in Baldur's Gate 3?", "link": "/inputs/youtube.md"},
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Adamantine Forge Walkthrough | Baldur's Gate 3", "link": "/inputs/youtube.md"},
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Рыцари Ужаса и Феникс #СэрТроглодит #Герои3", "link": "/inputs/youtube.md"}
+    ]
+  },
+  {
+    "id": "geo-politics-content",
+    "name": "Russian‑language geopolitics and media commentary",
+    "summary": "Follows a spectrum of Russian‑language commentators and explainer channels on politics, war, and media, indicating a habit of multi‑angle analysis rather than a single echo chamber.",
+    "tags": ["news", "politics", "media", "analysis"],
+    "confidence": 0.7,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Анатолий Шарий – multiple uploads across the week", "link": "/inputs/youtube.md"},
+      {"sourceType": "file", "sourceId": "blob-3", "snippet": "Руслан Усачев; Редакция; Правое полушарие Интроверта", "link": "/inputs/youtube.md"}
+    ]
+  },
+  {
+    "id": "nostalgia-eurodance-cis-pop",
+    "name": "90s/00s Eurodance and CIS pop nostalgia",
+    "summary": "Enjoys classic Eurodance and Russian pop hits, sometimes via modern remixes, reflecting a playful retro streak.",
+    "tags": ["music", "eurodance", "retro", "CIS-pop"],
+    "confidence": 0.72,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "ATC – Around the World; Mo-Do – Eins Zwei Polizei; C.C. Catch; Laura Branigan", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Алла Пугачёва; Руки Вверх!; Вирус", "link": "/inputs/music.md"}
+    ]
+  },
+  {
+    "id": "folk-ethno-fusion",
+    "name": "Folk/ethnic fusion and Slavic rave aesthetics",
+    "summary": "Mix of folk vocals and instruments with electronic beats and rave sensibilities; playful pagan/ethno undertones.",
+    "tags": ["music", "folk", "electronic", "slavic"],
+    "confidence": 0.66,
+    "evidence": [
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Нейромонах Феофан – multiple tracks", "link": "/inputs/music.md"},
+      {"sourceType": "file", "sourceId": "blob-2", "snippet": "Otyken – Phenomenon", "link": "/inputs/music.md"}
+    ]
+  }
+]

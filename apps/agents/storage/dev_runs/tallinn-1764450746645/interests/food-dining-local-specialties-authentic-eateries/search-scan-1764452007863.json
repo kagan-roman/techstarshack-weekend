@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "scan",
+  "query": "Visit Tallinn events December 2025 food market Tallinn",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Visit Tallinn events December 2025 food market Tallinn",
+    "timestamp": "2025-11-29T21:33:27.862Z",
+    "results": [
+      {
+        "url": "https://christmasmarket.ee/en/",
+        "title": "21.11 – 28.12.2025 - Tallinn Christmas Market",
+        "content": "Tallinn Christmas Market On 21 November, Town Hall Square in the heart of Tallinn’s medieval Old Town will once again be transformed into a small piece of a Christmas fairy tale: the traditional Tallinn Christmas Market will open its “imaginary gates” for the 25th time. The Tallinn Christmas Market will remain open until the evening of 28 December, but the Christmas fairy tale does not end there: the Christmas tree will stay on Town Hall Square for several more weeks, and the story continues throughout the festively decorated Old Town! #### Christmas Market at the Town Hall Square in Tallinn, 21 November – 28 December 2025",
+        "score": 0.82082915
+      },
+      {
+        "url": "https://www.getyourguide.com/tallinn-l394/christmas-activities-tc14/",
+        "title": "The BEST Tallinn Christmas activities 2025 - FREE Cancellation",
+        "content": "We will visit Balti Jaam market to see and hear about the Christmas food traditions. ... Guided Tallinn Winter Walk with Christmas Market Visit.",
+        "score": 0.8156003
+      },
+      {
+        "url": "https://www.instagram.com/reel/DRJ_m87jb4E/",
+        "title": "️ first snow Christmas tree rising in the Old Town Mariah Carey ...",
+        "content": "Head to the Tallinn Christmas Market from Dec 1, 2025 – Jan 7, 2026! With over 580 years of tradition, the market features a stunning Christmas",
+        "score": 0.796562
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowTopic-g274958-i996-k15384879-Christmas_market_2025-Tallinn_Harju_County.html",
+        "title": "Christmas market 2025 - Tallinn Forum - Tripadvisor",
+        "content": "Tallinn's Christmas market is one of Europe's best. Expect 50/50 chance of snow, short days, and limited daylight. Restaurants are open, but",
+        "score": 0.74563974
+      },
+      {
+        "url": "https://www.facebook.com/groups/236576921294199/posts/1399027551715791/",
+        "title": "This year, the Christmas Market will take place from November 21 to ...",
+        "content": "This year, the Christmas Market will take place from November 21 to December 28, 2025. ✨️ - at Raekoja plats, Tallinn. · May be an image of",
+        "score": 0.73505294
+      },
+      {
+        "url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events/14373/great-christmas-market-at-t1",
+        "title": "Great Christmas Market at T1 - Visit Tallinn",
+        "content": "At the Grand Christmas Market at T1, you will find an exciting selection of creations by Estonian designers and delicious treats from local food producers. What",
+        "score": 0.564027
+      }
+    ]
+  }
+}

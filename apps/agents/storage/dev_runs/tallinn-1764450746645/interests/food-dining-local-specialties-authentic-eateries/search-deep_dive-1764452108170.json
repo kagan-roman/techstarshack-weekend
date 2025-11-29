@@ -1,0 +1,49 @@
+{
+  "interest": "Food & Dining – local specialties, authentic eateries",
+  "intent": "deep_dive",
+  "query": "j\u000f5ululaat Tallinn 2025 detsember toit turg",
+  "payload": {
+    "localeHint": "et",
+    "intent": "deep_dive",
+    "query": "j\u000f5ululaat Tallinn 2025 detsember toit turg",
+    "timestamp": "2025-11-29T21:35:08.170Z",
+    "results": [
+      {
+        "url": "https://christmasmarket.ee/",
+        "title": "Tallinn Christmas Market - 21.11 - 28.12.2025",
+        "content": "Veerandsaja aasta jooksul on Tallinna Jõuluturg kujunenud kindlaks kohtumispaigaks peredele, sugulastele ja sõpradele, sest siin on alati midagi armsalt tuttavat ja iga kord ka midagi uut. novembril, kuulutavad advendiaja pidulikult välja Tallinna linnapea Jevgeni Ossinovski ja toompraost Arho Tuhkru. On oodata ka palju teisi jõuluturu külastajate ammuseid lemmikuid – mudilaskoor Ellerhein ja Inger koos Free Flow tantsijatega! Võta kaasa oma sõbrad ja sugulased ning tule saa osa killukesest jõulumuinasjutust Tallinna südames! Jõuluturg on avatud iga päev kl 10-20, soojad joogid kuni kl 22, reedeti ja laupäeviti kuni kl 23. #### Jõuluturg Tallinna Raekoja platsil 21.11 – 28.12.2025 Tallinna linnapea Jevgeni Ossinovski ja toompraost Arho Tuhkru tervituskõned. 12:00 Laulustuudio Lõoke ja Huvikeskus Kullo laulustuudio Sinilill  ",
+        "score": 0.72231215
+      },
+      {
+        "url": "https://www.facebook.com/events/1237463741444360/",
+        "title": "EKA JÕULUTURG 2025 | EKA CHRISTMAS FAIR 2025 - Facebook",
+        "content": "Event inTallinn, Estonia by EKA Üliõpilasesindus and Eesti Kunstiakadeemia / Estonian Academy of Arts on Sunday, December 142025with 4.9K people interested and 235 people going. 6 posts in the",
+        "score": 0.69845337
+      },
+      {
+        "url": "https://happeningnext.com/event/telliskivi-loomelinnaku-j%C3%B5uluturg-2025-eid3a0cu1p37c",
+        "title": "Telliskivi Loomelinnaku Jõuluturg 2025 at Telliskivi 60A, 10412 Tallinn ...",
+        "content": "Telliskivi Loomelinnaku Jõuluturg2025happening at Telliskivi 60A, 10412Tallinn, Estonia, Telliskivi 60a, Põhja-Tallinn,Tallinn, 10412 Harju Maakond, Eesti, Estonia on Sat Dec 202025at 11:00 am to 05:00 pm",
+        "score": 0.6628188
+      },
+      {
+        "url": "https://allevents.in/tallinn/eka-j%C3%95uluturg-2025-%7C-eka-christmas-fair-2025/200028597276607",
+        "title": "EKA JÕULUTURG 2025 | EKA CHRISTMAS FAIR 2025 - AllEvents.in",
+        "content": "Find tickets & information for EKA JÕULUTURG2025| EKA CHRISTMAS FAIR2025. happening at Eesti Kunstiakadeemia / Estonian Academy of Arts,Tallinn, HA on Sun, 14 Dec,2025at 12:00 pm EET. Register or Buy Tickets, Price information.",
+        "score": 0.6599319
+      },
+      {
+        "url": "https://triptoestonia.ee/et/tallinn/jouluturg/",
+        "title": "Tallinna jõuluturg Raekoja platsil 2025: lahtiolekuaeg",
+        "content": "Tallinna jõuluturg on avatud Raekoja platsil novembrist jaanuarini. See on peamine talvine vaatamisväärsus pealinnas.",
+        "score": 0.6383174
+      },
+      {
+        "url": "https://laadakalender.ee/tallinna-jouluturg/",
+        "title": "Tallinna jõuluturg 2025 - Tallinna Raekoja plats - Laadakalender",
+        "content": "Killuke jõulumuinasjuttu Raekoja platsil - Tallinna Jõuluturg tuleb taas! Euroopa kauneimaks tituleeritud jõuluturg.",
+        "score": 0.6350646
+      }
+    ]
+  }
+}

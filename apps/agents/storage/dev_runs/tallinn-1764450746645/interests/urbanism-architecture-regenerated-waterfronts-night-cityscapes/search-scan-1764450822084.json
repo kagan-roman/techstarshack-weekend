@@ -1,0 +1,61 @@
+{
+  "interest": "Urbanism & Architecture – regenerated waterfronts, night cityscapes",
+  "intent": "scan",
+  "query": "Tallinn Noblessner events calendar 2025 December Kai Art Center Fotografiska Telliskivi P\u0000f5hjala tehas HALL schedule",
+  "payload": {
+    "localeHint": "en/et/ru",
+    "intent": "scan",
+    "query": "Tallinn Noblessner events calendar 2025 December Kai Art Center Fotografiska Telliskivi P\u0000f5hjala tehas HALL schedule",
+    "timestamp": "2025-11-29T21:13:42.083Z",
+    "results": [
+      {
+        "url": "https://tallinn.fotografiska.com/en/whats-on/upcoming",
+        "title": "What's on - Fotografiska Tallinn",
+        "content": "We're performing scheduled maintenance on our membership program, 25-30 Nov 2025. ... 13 Dec 2025 - 19.00. Concert: Dagö · Martin Kosseson. 14 Dec 2025 - 17.00.",
+        "score": 0.752468
+      },
+      {
+        "url": "https://www.tourism.tallinn.ee/fpage/experience/events/_ajax-content1/www.no99.ee#!8384_43513_8",
+        "title": "Event Calendar",
+        "content": "Event Calendar ; Exhibition: SPACE – A Visual Journey. Exhibition, 13.09.2025 - 18.01.2026, Fotografiska Tallinn Telliskivi tn 60a/8 ; Exhibition \"The Politics of",
+        "score": 0.6884899
+      },
+      {
+        "url": "https://www.kai.center/en",
+        "title": "Kai Art Center",
+        "content": "Events at Kai ; 'On Fragile Grounds. Sirje Runge and Light'. October 11, 2025—February 22, 2026. Exhibition ; Sõprus Cinema at Kai. 'Grave of the Fireflies'.",
+        "score": 0.6654328
+      },
+      {
+        "url": "https://noblessner.ee/en/kai-art-centre/",
+        "title": "Kai Art Center - Noblessner",
+        "content": "Kai Art Center is a contemporary art center located at the seaside Noblessner harbor complex in Tallinn, Estonia. ... Events and offers in Noblessner in December",
+        "score": 0.6512002
+      },
+      {
+        "url": "https://www.kai.center/en/calendar",
+        "title": "Calendar | Kai Art Center",
+        "content": "'On Fragile Grounds. Sirje Runge and Light'. October 11, 2025—February 22, 2026. Exhibition. Thursday, 27 November. 'On Fragile Grounds.",
+        "score": 0.62633044
+      },
+      {
+        "url": "https://tallinn.fotografiska.com/en/events",
+        "title": "Events - Fotografiska Tallinn",
+        "content": "From live music and performances to intimate discussions and dinners, our programming invites the community to gather and celebrate photography.",
+        "score": 0.4630806
+      },
+      {
+        "url": "https://tallinn.fotografiska.com/en/visit",
+        "title": "Visit - Fotografiska Tallinn",
+        "content": "Fotografiska Night Shift – exhibitions open until midnight every Friday! · Morning Shift on Tuesdays 9:00–11:00 – special €10 ticket for parents with babies and",
+        "score": 0.42391166
+      },
+      {
+        "url": "https://tallinn.fotografiska.com/en/whats-on",
+        "title": "What's on | Fotografiska Tallinn",
+        "content": "The events at Fotografiska are vibrant and unique, and bring the exhibitions to life. From live music and performances to intimate discussions and dinners, our",
+        "score": 0.4186262
+      }
+    ]
+  }
+}

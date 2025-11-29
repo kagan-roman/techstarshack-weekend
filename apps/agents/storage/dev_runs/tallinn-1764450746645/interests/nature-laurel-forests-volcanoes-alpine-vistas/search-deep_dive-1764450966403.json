@@ -1,0 +1,49 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "deep_dive",
+  "query": "site:360.ee matk detsember 2025 rabamatk Viru raba",
+  "payload": {
+    "localeHint": "et",
+    "intent": "deep_dive",
+    "query": "site:360.ee matk detsember 2025 rabamatk Viru raba",
+    "timestamp": "2025-11-29T21:16:06.402Z",
+    "results": [
+      {
+        "title": "Räätsamatkad turismitalude läheduses - Seiklus- ja matkafirma ...",
+        "url": "https://360.ee/matkad/turismitalude-laheduses/",
+        "content": "Järlepa raba on suhteliselt puine raba , mida iseloomustab suur järv. Eriti talvel on märgata sealkandis erinevate metsloomade tegutsemisjälgi. www.kuketalu.ee LAUGU KÜLALISTEMAJA Viru raba Matka alguspunkt asub Laugu külalistemajast 15 km kaugusel. Viru raba on väike ja sellele jõuab mõne tunniga tuuri peale teha.",
+        "score": 0.3437607
+      },
+      {
+        "title": "Nutimäng vabas õhus liikumiseks - Aastalõpumatk: raba legendid ja...",
+        "url": "https://360.ee/360-matkad/aastalopumatk-raba-legendid-ja-valgusinstallatsioonid-kakerdaja-rabas/",
+        "content": "Aastalõpumatk: raba legendid ja valgusinstallatsioonid Kakerdaja rabas . 35 €. Matk tippu kestis vähemalt kaks päeva ja toimus üle 40-kraadises päevases palavuses, ning kohalikud beduiinid polnud kuulnud, et eestlased oleks seal käinud. Ivo on olnud 360 KRAADI giid üle 20 aasta.",
+        "score": 0.2967872
+      },
+      {
+        "title": "Matkad - Seiklus- ja matkafirma 360 KRAADI",
+        "url": "https://360.ee/matkad360/",
+        "content": "Meeldejäävad matkad looduses - räätsamatkad, kanuumatkad, kajakimatkad, jalgsimatkad jpm. Võta ühendust ja lähme seikleme!",
+        "score": 0.25672296
+      },
+      {
+        "title": "Avalikud matkad ja üritused - Seiklus- ja matkafirma 360 KRAADI",
+        "url": "https://360.ee/pood/",
+        "content": "Seiklusfirma 360 KRAADI e-poest leiad avalikud matkad ja reisid oma järgmiseks seikluseks. Tutvu valikuga!",
+        "score": 0.23430191
+      },
+      {
+        "title": "Räätsamatkad - Seiklus- ja matkafirma 360 KRAADI",
+        "url": "https://360.ee/matkad-c/raatsamatkad/",
+        "content": "Korraldame räätsamatkasid aastaringselt. Broneeri matk või rendi meilt räätsad iseseisvaks seiklemiseks. Kirjuta meile!",
+        "score": 0.20477128
+      },
+      {
+        "title": "Räätsamatk Kakerdaja rabas - Seiklus- ja matkafirma 360 KRAADI",
+        "url": "https://360.ee/matkad/raatsamatk/kakerdaja-rabas/",
+        "content": "Räätsamatk Kakerdaja rabas, mis on maaliline ja rohkete laugastega raba Harjumaa ja Järvamaa piiril. Kakerdaja on Eesti üks tuntumaid ja enim külastatud rabasid. Kakerdajas leidub kõike, mis ühes korralikus rabas olema peab: maaliline laugastik, pehmed älved, rabasaar, järv ja legendid. Matka alustatakse RMK Noku talu parklast. Matkatakse suurte laugaste vahel, ületatakse älveid",
+        "score": 0.17660092
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "interest": "Nightlife – hard techno, drum & bass, carnival energy",
+  "intent": "deep_dive",
+  "query": "ISOLA IX 12 December 2025 HALL Tallinn",
+  "payload": {
+    "localeHint": "en/et",
+    "intent": "deep_dive",
+    "query": "ISOLA IX 12 December 2025 HALL Tallinn",
+    "timestamp": "2025-11-29T21:23:24.816Z",
+    "results": [
+      {
+        "url": "https://ra.co/events/2313947",
+        "title": "ISOLA IX invites: SPACE SERIES x Chami & D-Leria at Hall, Tallinn",
+        "content": "ISOLA turns IX On 12 December 2025, we gather at HALL to celebrate nine years of ISOLA – a party series where vinyl still speaks and live performance matters.",
+        "score": 0.8936907
+      },
+      {
+        "url": "https://www.facebook.com/halltallinn/",
+        "title": "HALL | Tallinn - Facebook",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by vinyl,",
+        "score": 0.8668671
+      },
+      {
+        "url": "https://www.facebook.com/events/1504584827467535/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment",
+        "title": "ISOLA IX invites Space Series - Facebook",
+        "content": "ISOLA IX invites Space Series · Public · Hosted by HALL, Halal Club and 2 others · Friday, December 12, 2025 at 11:59PM EET · Peetri 6, 10414 Tallinn, Estonia.",
+        "score": 0.8512743
+      },
+      {
+        "url": "https://www.facebook.com/events/peetri-6-10414-tallinn-estonia/isola-ix-invites-space-series-x-chami-x-d-leria/1504584827467535/",
+        "title": "ISOLA IX invites: SPACE SERIES x CHAMI & D-LERIA - Facebook",
+        "content": "Public · Hosted by HALL, Halal Club and 2 others · Friday, December 12, 2025 at 11:59PM EET · Peetri 6, 10414 Tallinn, Estonia · Tickets.",
+        "score": 0.85008353
+      },
+      {
+        "url": "https://www.instagram.com/halltallinn/reel/DRhnkQqCM3y/",
+        "title": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA",
+        "content": "On 12 December 2025, we celebrate nine years of ISOLA at HALL — a ... Photo shared by @halltallinn on November 06, 2025 tagging @brettrastas, and",
+        "score": 0.8437023
+      },
+      {
+        "url": "https://www.facebook.com/halltallinn/photos/d41d8cd9/1195708335910976/",
+        "title": "HALL added a new photo. - Facebook",
+        "content": "12.12.25 ISOLA IX invites: SPACE SERIES x CHAMI x D-LERIA. On 12 December 2025, we celebrate nine years of ISOLA at HALL — a space shaped by",
+        "score": 0.82761955
+      }
+    ]
+  }
+}

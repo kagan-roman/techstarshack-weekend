@@ -1,0 +1,49 @@
+{
+  "interest": "Nature – laurel forests, volcanoes, alpine vistas",
+  "intent": "validation",
+  "query": "wanderlust.ee Päkapikumatk 06. detsember 2025 Lükati tee ülemine puhkeala Tallinn Pirita Kloostrimetsa",
+  "payload": {
+    "localeHint": "et",
+    "intent": "validation",
+    "query": "wanderlust.ee Päkapikumatk 06. detsember 2025 Lükati tee ülemine puhkeala Tallinn Pirita Kloostrimetsa",
+    "timestamp": "2025-11-29T21:16:42.659Z",
+    "results": [
+      {
+        "url": "https://wanderlust.ee/matkapiletid-erakliendile",
+        "title": "Matkapiletid - wanderlust.ee",
+        "content": "6.detsember. Päkapikumatk. 06. detsember 2025. Laupäev, 11:00 - 12:30. Lükati tee ülemine puhkeala(Tallinn, Pirita / Kloostrimetsa). täispilet. 20 €.",
+        "score": 0.9565735
+      },
+      {
+        "url": "https://wanderlust.ee/",
+        "title": "wanderlust.ee - wanderlust.ee",
+        "content": "6.detsember. Päkapikumatk. 06. detsember 2025. Laupäev, 11:00 - 12:30. Lükati tee ülemine puhkeala(Tallinn, Pirita / Kloostrimetsa). täispilet. 20 €.",
+        "score": 0.9544823
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-ennelounane-matk",
+        "title": "06.12.2025 Päkapikumatk Pirita jõe ürgorus - ennelõunane matk",
+        "content": "6. detsember 2025 · Laupäev, 11:00 - 12:30 · Asukoht:Lükati tee ülemine puhkeala(Tallinn, Pirita / Kloostrimetsa) · Kogunemine 20 minutit enne",
+        "score": 0.9414878
+      },
+      {
+        "url": "https://wanderlust.ee/eventer/06-12-2025-pakapikumatk-pirita-joe-urgorus-parastlounane-matk",
+        "title": "06.12.2025 Päkapikumatk Pirita jõe ürgorus - pärastlõunane matk",
+        "content": "6. detsember 2025 · Laupäev, 14:00 - 15:30 · Asukoht:Lükati tee ülemine puhkeala(Tallinn, Pirita / Kloostrimetsa) · Kogunemine 20 minutit enne",
+        "score": 0.9403148
+      },
+      {
+        "url": "https://wanderlust.ee/piletid/evt-kat-teemamatk-pakapikumatk",
+        "title": "Päkapikumatk - wanderlust.ee",
+        "content": "Päkapikumatk Lükati tee ülemine puhkeala 06.12.2025 11:00 Laupäev, 11:00 - 12:30; Päkapikumatk 6. detsember, Lükati tee ülemine puhkeala ... 2025 @ Wanderlust.ee.",
+        "score": 0.86024034
+      },
+      {
+        "url": "https://www.facebook.com/events/l%C3%BCkati-tee-pirita-tallinn-harju-maakond-eesti/06122025-p%C3%A4kapikumatk-pirita-j%C3%B5e-%C3%BCrgorus-ennel%C3%B5unane-matk/725259827244655/?locale=lv_LV",
+        "title": "06.12.2025 Päkapikumatk Pirita jõe ürgorus - ennelõunane matk",
+        "content": "Publisks · Rīko Wanderlust.ee - Team Events in Nature · Sestdiena, 2025. gada 6. decembris plkst. 11:00 EET · Lükati tee, Pirita, Tallinn, Harju Maakond, Eesti.",
+        "score": 0.8335554
+      }
+    ]
+  }
+}
