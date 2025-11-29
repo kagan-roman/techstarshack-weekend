@@ -1,0 +1,54 @@
+{
+  "trigger": "validation",
+  "generatedAt": "2025-11-29T13:08:18.941Z",
+  "entries": [
+    {
+      "interestId": "astro",
+      "interestName": "Astronomy & Physics salons",
+      "slug": "astronomy-physics-salons",
+      "totalCalls": 2,
+      "usedCalls": 2,
+      "stageUsage": {
+        "scan": 1,
+        "deep_dive": 0,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "punk",
+      "interestName": "Underground punk/metal/electronic",
+      "slug": "underground-punkmetalelectronic",
+      "totalCalls": 2,
+      "usedCalls": 2,
+      "stageUsage": {
+        "scan": 1,
+        "deep_dive": 0,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "startups",
+      "interestName": "Startup/tech founders",
+      "slug": "startuptech-founders",
+      "totalCalls": 1,
+      "usedCalls": 1,
+      "stageUsage": {
+        "scan": 0,
+        "deep_dive": 0,
+        "validation": 1
+      }
+    },
+    {
+      "interestId": "foodie",
+      "interestName": "Mid-range local foodie gems",
+      "slug": "mid-range-local-foodie-gems",
+      "totalCalls": 1,
+      "usedCalls": 1,
+      "stageUsage": {
+        "scan": 0,
+        "deep_dive": 0,
+        "validation": 1
+      }
+    }
+  ]
+}

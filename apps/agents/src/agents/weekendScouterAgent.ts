@@ -5,7 +5,7 @@ import pino from "pino";
 import { tool } from "langchain";
 import { TavilyClient } from "tavily";
 import { ChatOpenAI } from "@langchain/openai";
-import { createDeepAgent, FilesystemBackend } from "deepagents";
+import { createDeepAgent, FilesystemBackend, type SubAgent } from "deepagents";
 import {
   BudgetAllocation,
   InterestTopic,
@@ -20,6 +20,7 @@ import { slugify } from "../lib/slugify";
 
 const prompts = loadPrompts();
 const BASE_PROMPT = prompts["scouting/weekend_scouter_system.md"];
+const INTEREST_PROMPT = prompts["scouting/interest_subagent.md"];
 const REPORT_DIR = "reports";
 
 export type WeekendScouterAgentOptions = {
@@ -45,6 +46,7 @@ export class WeekendScouterAgent {
     );
 
     const searchTool = this.createLayeredSearchTool(budgetManager, request.profile.interests, workspacePath);
+    const subagents = this.createInterestSubagents(budgetManager, request.profile.interests, workspacePath);
     const systemPrompt = this.buildSystemPrompt(request, budgetManager.getAllocations());
 
     const agent = createDeepAgent({
@@ -56,6 +58,7 @@ export class WeekendScouterAgent {
       }),
       tools: [searchTool],
       systemPrompt,
+      subagents,
       backend: () =>
         new FilesystemBackend({
           rootDir: workspacePath,
@@ -182,6 +185,83 @@ export class WeekendScouterAgent {
     );
   }
 
+  private createInterestSubagents(
+    budgetManager: BudgetManager,
+    interests: InterestTopic[],
+    workspacePath: string,
+  ): SubAgent[] {
+    return interests.map((interest) => {
+      const searchTool = this.createInterestSearchTool(budgetManager, interest, workspacePath);
+      return {
+        name: `interest-${slugify(interest.name)}`,
+        description: `Deep research agent dedicated to "${interest.name}".`,
+        systemPrompt: this.buildInterestPrompt(interest),
+        tools: [searchTool],
+        model: this.options.modelName ?? env.openRouter.defaultModel,
+      };
+    });
+  }
+
+  private createInterestSearchTool(
+    budgetManager: BudgetManager,
+    interest: InterestTopic,
+    workspacePath: string,
+  ) {
+    return tool(
+      async ({
+        intent,
+        query,
+        localeHint,
+        maxResults = 6,
+        includeRawContent = true,
+      }: {
+        intent: BudgetStage;
+        query: string;
+        localeHint?: string;
+        maxResults?: number;
+        includeRawContent?: boolean;
+      }) => {
+        budgetManager.consume(interest.id, intent);
+
+        const search = await this.tavily.search({
+          query,
+          max_results: maxResults,
+          include_raw_content: includeRawContent,
+        });
+
+        this.persistSearchArtifact(workspacePath, interest, intent, query, {
+          localeHint,
+          intent,
+          query,
+          timestamp: new Date().toISOString(),
+          results: search.results ?? [],
+        });
+
+        return {
+          status: "ok",
+          interest: interest.name,
+          intent,
+          usedBudget: budgetManager.getAllocations(),
+          results: search.results,
+        };
+      },
+      {
+        name: `interest_search_${slugify(interest.name)}`,
+        description: `Specialized search tool for ${interest.name}. Consumes this topic's budget.`,
+        schema: z.object({
+          intent: z.enum(["scan", "deep_dive", "validation"]).describe("Search stage for this interest"),
+          query: z
+            .string()
+            .min(4)
+            .describe("Detailed query with local language keywords and scene identifiers"),
+          localeHint: z.string().optional().describe("Explain language/channel choices for audit trail"),
+          maxResults: z.number().int().min(3).max(8).optional(),
+          includeRawContent: z.boolean().optional(),
+        }),
+      },
+    );
+  }
+
   private buildSystemPrompt(
     request: WeekendScouterRequest,
     allocations: BudgetAllocation[],
@@ -208,6 +288,10 @@ export class WeekendScouterAgent {
       .filter(Boolean)
       .join("\n");
 
+    const subagentNotes = request.profile.interests
+      .map((interest) => `- Call subagent *interest-${slugify(interest.name)}* to go deep on ${interest.name}`)
+      .join("\n");
+
     const dynamicAddendum = `
 ## Traveler Profile
 Bio: ${request.profile.bioSummary}
@@ -218,9 +302,16 @@ ${interestDetails}
 
 ## Trip Window
 ${tripContext}
+
+## Subagent Roster
+${subagentNotes}
 `;
 
     return `${BASE_PROMPT}\n${dynamicAddendum}`;
+  }
+
+  private buildInterestPrompt(interest: InterestTopic): string {
+    return INTEREST_PROMPT.replaceAll("{{INTEREST_NAME}}", interest.name ?? "this interest");
   }
 
   private persistSearchArtifact(
