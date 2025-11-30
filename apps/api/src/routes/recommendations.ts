@@ -3,7 +3,7 @@ import { z } from "zod";
 import { requireUser } from "../middleware/auth";
 import { createAgentRun, updateAgentRunStatus, getAgentRun } from "../services/modules/agentRuns";
 import { listEvents } from "../services/modules/events";
-import { notifyRunUpdate } from "../lib/runNotifier";
+import { notifyRunUpdate, sendProgressSteps } from "../lib/runNotifier";
 import { createTrip } from "../services/modules/trips";
 import {
   saveRecommendations,
@@ -14,6 +14,16 @@ import {
 
 // Load mock recommendations from generated data
 import MOCK_RECOMMENDATIONS from "../data/mock-recommendations.json";
+
+// Fake progress steps for recommendations (based on interests from mock data)
+const RECOMMENDATION_STEPS = [
+  { step: "profile", message: "📋 Loading your profile..." },
+  { step: "nightlife", message: "🎵 Searching nightlife & techno events..." },
+  { step: "architecture", message: "🏛️ Finding architectural gems..." },
+  { step: "nature", message: "🌿 Discovering nature spots..." },
+  { step: "food", message: "🍽️ Curating local food experiences..." },
+  { step: "compile", message: "✨ Compiling your recommendations..." },
+];
 
 const runRecommendationsSchema = z.object({
   location: z.string().min(1),
@@ -53,58 +63,58 @@ export const registerRecommendationRoutes = async (app: FastifyInstance) => {
 
           request.log.info({ runId: run.id, location: body.location }, "Generating recommendations");
 
-          // Simulate processing time (emulate LLM work)
-          setTimeout(async () => {
-            try {
-              // 1. Create a trip for this recommendation run
-              const trip = await createTrip({
-                ownerId: userId,
-                destination: body.location,
-                startDate: body.startDate,
-                endDate: body.endDate,
-                notes: `Generated via Weekend Scout on ${new Date().toISOString()}`,
-              });
+          // Send fake progress updates (12 seconds total, 2 sec per step)
+          await sendProgressSteps(run.id, RECOMMENDATION_STEPS, 2000);
 
-              request.log.info({ tripId: trip.id }, "Trip created for recommendations");
+          try {
+            // 1. Create a trip for this recommendation run
+            const trip = await createTrip({
+              ownerId: userId,
+              destination: body.location,
+              startDate: body.startDate,
+              endDate: body.endDate,
+              notes: `Generated via Weekend Scout on ${new Date().toISOString()}`,
+            });
 
-              // 2. Save recommendations to DB (emulating LLM output)
-              const rawRecs = MOCK_RECOMMENDATIONS as RawRecommendation[];
-              await saveRecommendations(trip.id, rawRecs, userId);
+            request.log.info({ tripId: trip.id }, "Trip created for recommendations");
 
-              request.log.info(
-                { tripId: trip.id, count: rawRecs.length },
-                "Recommendations saved to DB",
-              );
+            // 2. Save recommendations to DB (emulating LLM output)
+            const rawRecs = MOCK_RECOMMENDATIONS as RawRecommendation[];
+            await saveRecommendations(trip.id, rawRecs, userId);
 
-              // 3. Read back from DB to return to client
-              const storedRecs = await getTripRecommendations(trip.id);
-              const clientRecs = storedRecs.map(toClientFormat);
+            request.log.info(
+              { tripId: trip.id, count: rawRecs.length },
+              "Recommendations saved to DB",
+            );
 
-              const result = {
-                tripId: trip.id,
-                destination: body.location,
-                dates: {
-                  start: body.startDate,
-                  end: body.endDate,
-                },
-                recommendations: clientRecs,
-                generatedAt: new Date().toISOString(),
-              };
+            // 3. Read back from DB to return to client
+            const storedRecs = await getTripRecommendations(trip.id);
+            const clientRecs = storedRecs.map(toClientFormat);
 
-              await updateAgentRunStatus(run.id, "succeeded", result);
-              notifyRunUpdate(run.id, "succeeded", result);
+            const result = {
+              tripId: trip.id,
+              destination: body.location,
+              dates: {
+                start: body.startDate,
+                end: body.endDate,
+              },
+              recommendations: clientRecs,
+              generatedAt: new Date().toISOString(),
+            };
 
-              request.log.info(
-                { runId: run.id, tripId: trip.id, count: clientRecs.length },
-                "Recommendations generated and stored",
-              );
-            } catch (err) {
-              request.log.error({ runId: run.id, err }, "Failed to save recommendations");
-              const errorMsg = String(err);
-              await updateAgentRunStatus(run.id, "failed", undefined, errorMsg);
-              notifyRunUpdate(run.id, "failed", null, errorMsg);
-            }
-          }, 2000);
+            await updateAgentRunStatus(run.id, "succeeded", result);
+            notifyRunUpdate(run.id, "succeeded", result);
+
+            request.log.info(
+              { runId: run.id, tripId: trip.id, count: clientRecs.length },
+              "Recommendations generated and stored",
+            );
+          } catch (err) {
+            request.log.error({ runId: run.id, err }, "Failed to save recommendations");
+            const errorMsg = String(err);
+            await updateAgentRunStatus(run.id, "failed", undefined, errorMsg);
+            notifyRunUpdate(run.id, "failed", null, errorMsg);
+          }
 
         } catch (err) {
           const errorMsg = String(err);

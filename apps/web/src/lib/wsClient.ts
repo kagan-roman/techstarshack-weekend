@@ -10,18 +10,29 @@ export type RunUpdate = {
   timestamp: string;
 };
 
+export type ProgressUpdate = {
+  runId: string;
+  step: string;
+  message: string;
+  progress?: number;
+  timestamp: string;
+};
+
 type WsMessage =
   | { type: "connected"; message: string }
   | { type: "subscribed"; runId: string }
   | { type: "unsubscribed"; runId: string }
   | { type: "run_update"; data: RunUpdate }
+  | { type: "run_progress"; data: ProgressUpdate }
   | { type: "error"; message: string };
 
 type RunUpdateCallback = (update: RunUpdate) => void;
+type ProgressCallback = (update: ProgressUpdate) => void;
 
 class WsClient {
   private socket: WebSocket | null = null;
   private callbacks = new Map<string, Set<RunUpdateCallback>>();
+  private progressCallbacks = new Map<string, Set<ProgressCallback>>();
   private reconnectAttempts = 0;
   private maxReconnectAttempts = 5;
   private reconnectDelay = 1000;
@@ -77,6 +88,16 @@ class WsClient {
         }
       }
     }
+
+    if (message.type === "run_progress") {
+      const update = message.data;
+      const callbacks = this.progressCallbacks.get(update.runId);
+      if (callbacks) {
+        for (const cb of callbacks) {
+          cb(update);
+        }
+      }
+    }
   }
 
   private handleReconnect(): void {
@@ -96,37 +117,67 @@ class WsClient {
     }, delay);
   }
 
-  subscribeToRun(runId: string, callback: RunUpdateCallback): () => void {
+  subscribeToRun(
+    runId: string,
+    callback: RunUpdateCallback,
+    progressCallback?: ProgressCallback,
+  ): () => void {
     // Ensure connected
     if (!this.socket || this.socket.readyState !== WebSocket.OPEN) {
       this.connect().then(() => {
-        this.subscribeToRun(runId, callback);
+        this.subscribeToRun(runId, callback, progressCallback);
       });
-      return () => this.unsubscribeFromRun(runId, callback);
+      return () => this.unsubscribeFromRun(runId, callback, progressCallback);
     }
 
-    // Register callback
+    // Register status callback
     if (!this.callbacks.has(runId)) {
       this.callbacks.set(runId, new Set());
     }
     this.callbacks.get(runId)!.add(callback);
 
+    // Register progress callback
+    if (progressCallback) {
+      if (!this.progressCallbacks.has(runId)) {
+        this.progressCallbacks.set(runId, new Set());
+      }
+      this.progressCallbacks.get(runId)!.add(progressCallback);
+    }
+
     // Send subscribe message
     this.socket.send(JSON.stringify({ type: "subscribe", runId }));
 
     // Return unsubscribe function
-    return () => this.unsubscribeFromRun(runId, callback);
+    return () => this.unsubscribeFromRun(runId, callback, progressCallback);
   }
 
-  private unsubscribeFromRun(runId: string, callback: RunUpdateCallback): void {
+  private unsubscribeFromRun(
+    runId: string,
+    callback: RunUpdateCallback,
+    progressCallback?: ProgressCallback,
+  ): void {
     const callbacks = this.callbacks.get(runId);
     if (callbacks) {
       callbacks.delete(callback);
       if (callbacks.size === 0) {
         this.callbacks.delete(runId);
-        if (this.socket?.readyState === WebSocket.OPEN) {
-          this.socket.send(JSON.stringify({ type: "unsubscribe", runId }));
+      }
+    }
+
+    if (progressCallback) {
+      const progressCbs = this.progressCallbacks.get(runId);
+      if (progressCbs) {
+        progressCbs.delete(progressCallback);
+        if (progressCbs.size === 0) {
+          this.progressCallbacks.delete(runId);
         }
+      }
+    }
+
+    // Only unsubscribe from server if no callbacks remain
+    if (!this.callbacks.has(runId) && !this.progressCallbacks.has(runId)) {
+      if (this.socket?.readyState === WebSocket.OPEN) {
+        this.socket.send(JSON.stringify({ type: "unsubscribe", runId }));
       }
     }
   }

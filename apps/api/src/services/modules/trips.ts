@@ -85,6 +85,65 @@ export async function getUserTrips(userId: string): Promise<Trip[]> {
   return rows.map(mapTripRow);
 }
 
+export type TripWithDetails = Trip & {
+  recommendationsCount: number;
+  participants: Array<{
+    id: string;
+    name?: string;
+    picture?: string;
+    role: "owner" | "participant";
+  }>;
+};
+
+/**
+ * Get all trips with recommendation counts and participant info
+ */
+export async function getUserTripsWithDetails(userId: string): Promise<TripWithDetails[]> {
+  // Get trips
+  const trips = await sql.unsafe(
+    `SELECT t.*,
+       (SELECT COUNT(*) FROM hackathon.recommendations r WHERE r.trip_id = t.id) as rec_count
+     FROM ${TABLE} t
+     JOIN ${PARTICIPANTS_TABLE} tp ON t.id = tp.trip_id
+     WHERE tp.user_id = $1
+     ORDER BY t.start_date ASC NULLS LAST, t.created_at DESC`,
+    [userId],
+  );
+
+  if (trips.length === 0) return [];
+
+  // Get all participants for these trips with user info
+  const tripIds = trips.map((t: Record<string, unknown>) => t.id);
+  const participants = await sql.unsafe(
+    `SELECT tp.trip_id, tp.role, u.id, u.name, u.picture
+     FROM ${PARTICIPANTS_TABLE} tp
+     JOIN hackathon.users u ON u.id = tp.user_id
+     WHERE tp.trip_id = ANY($1)`,
+    [tripIds],
+  );
+
+  // Group participants by trip
+  const participantsByTrip = new Map<string, TripWithDetails["participants"]>();
+  for (const p of participants) {
+    const tripId = p.trip_id as string;
+    if (!participantsByTrip.has(tripId)) {
+      participantsByTrip.set(tripId, []);
+    }
+    participantsByTrip.get(tripId)!.push({
+      id: p.id as string,
+      name: p.name as string | undefined,
+      picture: p.picture as string | undefined,
+      role: p.role as "owner" | "participant",
+    });
+  }
+
+  return trips.map((row: Record<string, unknown>) => ({
+    ...mapTripRow(row),
+    recommendationsCount: Number(row.rec_count) || 0,
+    participants: participantsByTrip.get(row.id as string) ?? [],
+  }));
+}
+
 /**
  * Check if user is a participant of a trip
  */

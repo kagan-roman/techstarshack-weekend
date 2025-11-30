@@ -18,7 +18,7 @@ const MOCK_PROFILE = {
     displayName: null,
     homeBase: null,
     preferredLanguages: ["ru", "en"],
-    bioSummary: "Russian-speaking traveler balancing reflective history days, mystical nature hikes, and high-energy nightlife; curious about cities, castles, and islands."
+    bioSummary: "An active traveler balancing reflective history days, mystical nature hikes, and high-energy nightlife; curious about cities, castles, and islands."
   },
   macroPreferences: {
     adventureOutdoor: 0.75,

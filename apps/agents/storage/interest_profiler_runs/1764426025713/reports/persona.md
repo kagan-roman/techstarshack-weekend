@@ -1,7 +1,7 @@
 Traveler persona – demo-user
 
 Summary
-A Russian-speaking traveler with broad curiosity across nature, history, gaming, and underground music. Their feeds show repeated island and mountain trips (Madeira, Azores), Balkan hikes (Kopaonik/Devojački Grob), and culturally reflective stops (Auschwitz-Birkenau). Media diet blends historical analysis (armor realism, film deconstructions), strategy/RPG gaming (Baldur’s Gate 3, HoMM3), and Russian-language socio‑political commentary. Music taste skews toward high‑energy underground techno/hardtekk and post‑Soviet rap, with parallel nostalgia for 2000s alt/nu‑metal and 90s/00s Eurodance and CIS pop. Tone alternates between playful (“Город котиков”) and earnest remembrance (Holocaust reflection).
+An active traveler with broad curiosity across nature, history, gaming, and underground music. Their feeds show repeated island and mountain trips (Madeira, Azores), Balkan hikes (Kopaonik/Devojački Grob), and culturally reflective stops (Auschwitz-Birkenau). Media diet blends historical analysis (armor realism, film deconstructions), strategy/RPG gaming (Baldur’s Gate 3, HoMM3), and Russian-language socio‑political commentary. Music taste skews toward high‑energy underground techno/hardtekk and post‑Soviet rap, with parallel nostalgia for 2000s alt/nu‑metal and 90s/00s Eurodance and CIS pop. Tone alternates between playful (“Город котиков”) and earnest remembrance (Holocaust reflection).
 
 Geographic anchors
 - Frequent Europe trips: Portugal (Madeira, São Miguel/Azores, Porto), Poland (Auschwitz), Turkey (Istanbul), Serbia (Kopaonik, Devojački Grob).

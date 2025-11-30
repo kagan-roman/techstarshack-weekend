@@ -3,8 +3,17 @@ import { z } from "zod";
 import { requireUser } from "../middleware/auth";
 import { createAgentRun, updateAgentRunStatus, getAgentRun } from "../services/modules/agentRuns";
 import { saveUserProfile, getLatestUserProfile } from "../services/modules/userProfiles";
-import { notifyRunUpdate } from "../lib/runNotifier";
+import { notifyRunUpdate, sendProgressSteps } from "../lib/runNotifier";
 import { runProfiler } from "../services/profilerRunner";
+
+// Fake progress steps for profiling
+const PROFILING_STEPS = [
+  { step: "spotify", message: "🎵 Analyzing music preferences..." },
+  { step: "youtube", message: "📺 Scanning YouTube history..." },
+  { step: "instagram", message: "📸 Processing Instagram activity..." },
+  { step: "interests", message: "🧠 Building interest graph..." },
+  { step: "finalize", message: "✨ Finalizing your profile..." },
+];
 
 // Skip zod validation for profileData - it's a complex nested object
 // We trust the frontend to send valid data
@@ -35,6 +44,9 @@ export const registerProfilingRoutes = async (app: FastifyInstance) => {
           request.log.info({ runId: run.id }, "Starting profiler agent");
           await updateAgentRunStatus(run.id, "running");
           notifyRunUpdate(run.id, "running");
+
+          // Send fake progress updates (10 seconds total, 2 sec per step)
+          await sendProgressSteps(run.id, PROFILING_STEPS, 2000);
 
           // Run the actual profiler
           const result = await runProfiler(userId);

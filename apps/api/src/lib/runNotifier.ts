@@ -9,6 +9,14 @@ type RunUpdate = {
   timestamp: string;
 };
 
+type ProgressUpdate = {
+  runId: string;
+  step: string;
+  message: string;
+  progress?: number; // 0-100
+  timestamp: string;
+};
+
 // Map of runId -> Set of WebSocket connections
 const runSubscribers = new Map<string, Set<WebSocket>>();
 
@@ -106,6 +114,54 @@ export function notifyRunUpdate(
       runSubscribers.delete(runId);
       console.log(`[WS] Cleaned up subscribers for completed run ${runId}`);
     }, 5000);
+  }
+}
+
+export function notifyRunProgress(
+  runId: string,
+  step: string,
+  message: string,
+  progress?: number,
+): void {
+  const subscribers = runSubscribers.get(runId);
+  if (!subscribers || subscribers.size === 0) {
+    return;
+  }
+
+  const update: ProgressUpdate = {
+    runId,
+    step,
+    message,
+    progress,
+    timestamp: new Date().toISOString(),
+  };
+
+  const wsMessage = JSON.stringify({ type: "run_progress", data: update });
+
+  for (const socket of subscribers) {
+    try {
+      if (socket.readyState === 1) {
+        socket.send(wsMessage);
+      }
+    } catch (err) {
+      console.error(`[WS] Failed to send progress:`, err);
+    }
+  }
+}
+
+// Helper to send progress updates with delay
+export async function sendProgressSteps(
+  runId: string,
+  steps: Array<{ step: string; message: string }>,
+  delayMs = 2000,
+): Promise<void> {
+  for (let i = 0; i < steps.length; i++) {
+    const { step, message } = steps[i];
+    const progress = Math.round(((i + 1) / steps.length) * 100);
+    notifyRunProgress(runId, step, message, progress);
+    if (i < steps.length - 1) {
+      await new Promise((resolve) => setTimeout(resolve, delayMs));
+    }
   }
 }
 
